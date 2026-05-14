@@ -94,7 +94,7 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
 }
 
 // ── Game Screen ───────────────────────────────────────
-function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer }) {
+function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onNextPair, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -114,6 +114,7 @@ function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedr
           <span style={{ fontFamily: 'var(--font-body)', fontStyle: 'italic', color: 'var(--ink-faint)', fontSize: '0.9rem' }}>
             {submissionCount} / {totalPlayers} submitted
           </span>
+          <button className="btn-ghost" onClick={onNextPair}>Back to Lobby</button>
           <button className="btn-ghost" onClick={() => onRedrawPair(theme)}>Redraw Pair</button>
           <button className="btn-primary" onClick={onReveal}>Reveal</button>
         </div>
@@ -209,6 +210,7 @@ export default function HostView({ room, players, submissions, onDrawPair, onRed
         theme={theme}
         onReveal={onReveal}
         onRedrawPair={onRedrawPair}
+        onNextPair={onNextPair}
         onAdjustTimer={onAdjustTimer}
         onPauseTimer={onPauseTimer}
         onResumeTimer={onResumeTimer}
