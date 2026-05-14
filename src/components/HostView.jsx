@@ -95,7 +95,7 @@ function HostLobby({ room, players, onDrawPair, onEndSession }) {
 }
 
 // ── Game Screen ───────────────────────────────────────
-function HostGame({ room, submissionCount, totalPlayers, onReveal, onAdjustTimer }) {
+function HostGame({ room, submissionCount, totalPlayers, onReveal, onRedrawPair, onAdjustTimer }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -115,6 +115,7 @@ function HostGame({ room, submissionCount, totalPlayers, onReveal, onAdjustTimer
           <span style={{ fontFamily: 'var(--font-body)', fontStyle: 'italic', color: 'var(--ink-faint)', fontSize: '0.9rem' }}>
             {submissionCount} / {totalPlayers} submitted
           </span>
+          <button className="btn-ghost" onClick={onRedrawPair}>Redraw Pair</button>
           <button className="btn-primary" onClick={onReveal}>Reveal</button>
         </div>
       </div>
@@ -181,7 +182,7 @@ function HostReveal({ room, submissions, onNextPair, onEndSession }) {
 }
 
 // ── Main HostView ─────────────────────────────────────
-export default function HostView({ room, players, submissions, onDrawPair, onReveal, onAdjustTimer, onNextPair, onEndSession }) {
+export default function HostView({ room, players, submissions, onDrawPair, onRedrawPair, onReveal, onAdjustTimer, onNextPair, onEndSession }) {
   if (!room) return null
 
   const currentSubmissions = submissions.filter(s => s.round === room.round)
@@ -196,6 +197,7 @@ export default function HostView({ room, players, submissions, onDrawPair, onRev
         submissionCount={currentSubmissions.length}
         totalPlayers={players.length}
         onReveal={onReveal}
+        onRedrawPair={onRedrawPair}
         onAdjustTimer={onAdjustTimer}
       />
     )

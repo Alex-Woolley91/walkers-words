@@ -207,6 +207,21 @@ export default function App() {
     }).eq('id', roomCode)
   }, [roomCode])
 
+  // ── Host: redraw pair (from active screen) ───────
+  const handleRedrawPair = useCallback(async () => {
+    const pair = drawPair('all')
+    if (!pair) return
+    const timerEnd = new Date(Date.now() + 3 * 60 * 1000).toISOString()
+    await supabase.from('rooms').update({
+      status: 'active',
+      word_a: pair[0],
+      word_b: pair[1],
+      timer_end: timerEnd,
+      timer_duration: 180,
+      round: (room?.round || 1) + 1,
+    }).eq('id', roomCode)
+  }, [room, roomCode])
+
   // ── Host: reveal ──────────────────────────────────
   const handleReveal = useCallback(async () => {
     await supabase.from('rooms').update({ status: 'revealed' }).eq('id', roomCode)
@@ -278,6 +293,7 @@ export default function App() {
         players={players}
         submissions={submissions}
         onDrawPair={handleDrawPair}
+        onRedrawPair={handleRedrawPair}
         onReveal={handleReveal}
         onAdjustTimer={handleAdjustTimer}
         onNextPair={handleNextPair}
