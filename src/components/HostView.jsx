@@ -3,7 +3,7 @@ import Timer from './Timer.jsx'
 import RevealGallery from './RevealGallery.jsx'
 import vocab from '../vocab.json'
 
-const THEMES = ['all', 'nouns', 'adjectives', 'verbs', 'war', 'family', 'nature', 'emotion', 'society', 'religion', 'body', 'food', 'travel', 'general']
+const THEMES = ['all', 'nouns', 'adjectives', 'verbs', 'pronouns', 'prepositions', 'conjunctions', 'adverbs', 'numbers', 'war', 'family', 'nature', 'emotion', 'society', 'religion', 'body', 'food', 'travel', 'general']
 
 // ── Lobby ─────────────────────────────────────────────
 function HostLobby({ room, players, onDrawPair, onEndSession }) {

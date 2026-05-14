@@ -21,6 +21,11 @@ function drawPair(theme = 'all') {
     if (theme === 'nouns') return w.pos === 'noun'
     if (theme === 'adjectives') return w.pos === 'adjective'
     if (theme === 'verbs') return w.pos === 'verb'
+    if (theme === 'pronouns') return w.pos === 'pronoun'
+    if (theme === 'prepositions') return w.pos === 'preposition'
+    if (theme === 'conjunctions') return w.pos === 'conjunction'
+    if (theme === 'adverbs') return w.pos === 'adverb'
+    if (theme === 'numbers') return w.pos === 'number'
     return w.theme === theme
   })
   if (pool.length < 2) return null
