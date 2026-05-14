@@ -33,10 +33,10 @@ export default function HomeScreen({ onHost, onJoin }) {
         {mode === null && (
           <div className="flex flex-col gap-2">
             <button className="btn-secondary btn-lg w-full" onClick={() => onHost()}>
-              Host a Game
+              Host a Game (Teacher)
             </button>
             <button className="btn-primary btn-lg w-full" onClick={() => setMode('join')}>
-              Join a Game
+              Join a Game (Students)
             </button>
           </div>
         )}
