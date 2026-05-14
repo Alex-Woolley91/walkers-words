@@ -44,7 +44,7 @@ function PlayerGame({ room, playerName, playerId, onSubmitChain }) {
         <span style={{ fontFamily: 'var(--font-body)', color: 'var(--ink-faint)', fontStyle: 'italic', fontSize: '0.9rem' }}>
           {playerName} · {room.id}
         </span>
-        <Timer timerEnd={room.timer_end} showControls={false} />
+        <Timer timerEnd={room.timer_end} frozenSeconds={room.timer_duration} paused={!room.timer_end} showControls={false} />
       </div>
 
       <hr className="divider" />

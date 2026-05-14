@@ -94,7 +94,7 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
 }
 
 // ── Game Screen ───────────────────────────────────────
-function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onAdjustTimer }) {
+function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -144,7 +144,16 @@ function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedr
 
       {/* Timer centred below */}
       <div className="text-center" style={{ marginTop: '2rem' }}>
-        <Timer timerEnd={room.timer_end} showControls={true} onAdjust={onAdjustTimer} />
+        <Timer
+          timerEnd={room.timer_end}
+          frozenSeconds={room.timer_duration}
+          paused={!room.timer_end}
+          showControls={true}
+          onAdjust={onAdjustTimer}
+          onPause={onPauseTimer}
+          onResume={onResumeTimer}
+          onRestart={onRestartTimer}
+        />
       </div>
     </div>
   )
@@ -181,7 +190,7 @@ function HostReveal({ room, submissions, onNextPair, onEndSession }) {
 }
 
 // ── Main HostView ─────────────────────────────────────
-export default function HostView({ room, players, submissions, onDrawPair, onRedrawPair, onReveal, onAdjustTimer, onNextPair, onEndSession }) {
+export default function HostView({ room, players, submissions, onDrawPair, onRedrawPair, onReveal, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer, onNextPair, onEndSession }) {
   const [theme, setTheme] = useState('all')
 
   if (!room) return null
@@ -201,6 +210,9 @@ export default function HostView({ room, players, submissions, onDrawPair, onRed
         onReveal={onReveal}
         onRedrawPair={onRedrawPair}
         onAdjustTimer={onAdjustTimer}
+        onPauseTimer={onPauseTimer}
+        onResumeTimer={onResumeTimer}
+        onRestartTimer={onRestartTimer}
       />
     )
   }

@@ -239,6 +239,26 @@ export default function App() {
     await supabase.from('rooms').update({ timer_end: newEnd }).eq('id', roomCode)
   }, [room, roomCode])
 
+  // ── Host: pause timer ─────────────────────────────
+  const handlePauseTimer = useCallback(async () => {
+    if (!room?.timer_end) return
+    const remaining = Math.max(0, Math.round((new Date(room.timer_end).getTime() - Date.now()) / 1000))
+    await supabase.from('rooms').update({ timer_end: null, timer_duration: remaining }).eq('id', roomCode)
+  }, [room, roomCode])
+
+  // ── Host: resume timer ────────────────────────────
+  const handleResumeTimer = useCallback(async () => {
+    if (!room || room.timer_end) return
+    const newEnd = new Date(Date.now() + (room.timer_duration ?? 0) * 1000).toISOString()
+    await supabase.from('rooms').update({ timer_end: newEnd }).eq('id', roomCode)
+  }, [room, roomCode])
+
+  // ── Host: restart timer ───────────────────────────
+  const handleRestartTimer = useCallback(async () => {
+    const newEnd = new Date(Date.now() + 180 * 1000).toISOString()
+    await supabase.from('rooms').update({ timer_end: newEnd, timer_duration: 180 }).eq('id', roomCode)
+  }, [roomCode])
+
   // ── Host: next pair ───────────────────────────────
   const handleNextPair = useCallback(async () => {
     await supabase.from('rooms').update({
@@ -301,6 +321,9 @@ export default function App() {
         onRedrawPair={handleRedrawPair}
         onReveal={handleReveal}
         onAdjustTimer={handleAdjustTimer}
+        onPauseTimer={handlePauseTimer}
+        onResumeTimer={handleResumeTimer}
+        onRestartTimer={handleRestartTimer}
         onNextPair={handleNextPair}
         onEndSession={handleEndSession}
       />
