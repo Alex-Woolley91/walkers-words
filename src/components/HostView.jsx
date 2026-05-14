@@ -6,8 +6,7 @@ import vocab from '../vocab.json'
 const THEMES = ['all', 'nouns', 'adjectives', 'verbs', 'pronouns', 'prepositions', 'conjunctions', 'adverbs', 'numbers', 'war', 'family', 'nature', 'emotion', 'society', 'religion', 'body', 'food', 'travel', 'general']
 
 // ── Lobby ─────────────────────────────────────────────
-function HostLobby({ room, players, onDrawPair, onEndSession }) {
-  const [theme, setTheme] = useState('all')
+function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSession }) {
 
   return (
     <div className="screen">
@@ -75,7 +74,7 @@ function HostLobby({ room, players, onDrawPair, onEndSession }) {
                   cursor: 'pointer',
                   borderRadius: '2rem',
                 }}
-                onClick={() => setTheme(t)}
+                onClick={() => onThemeChange(t)}
               >
                 {t.charAt(0).toUpperCase() + t.slice(1)}
               </button>
@@ -95,7 +94,7 @@ function HostLobby({ room, players, onDrawPair, onEndSession }) {
 }
 
 // ── Game Screen ───────────────────────────────────────
-function HostGame({ room, submissionCount, totalPlayers, onReveal, onRedrawPair, onAdjustTimer }) {
+function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onAdjustTimer }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -115,7 +114,7 @@ function HostGame({ room, submissionCount, totalPlayers, onReveal, onRedrawPair,
           <span style={{ fontFamily: 'var(--font-body)', fontStyle: 'italic', color: 'var(--ink-faint)', fontSize: '0.9rem' }}>
             {submissionCount} / {totalPlayers} submitted
           </span>
-          <button className="btn-ghost" onClick={onRedrawPair}>Redraw Pair</button>
+          <button className="btn-ghost" onClick={() => onRedrawPair(theme)}>Redraw Pair</button>
           <button className="btn-primary" onClick={onReveal}>Reveal</button>
         </div>
       </div>
@@ -183,12 +182,14 @@ function HostReveal({ room, submissions, onNextPair, onEndSession }) {
 
 // ── Main HostView ─────────────────────────────────────
 export default function HostView({ room, players, submissions, onDrawPair, onRedrawPair, onReveal, onAdjustTimer, onNextPair, onEndSession }) {
+  const [theme, setTheme] = useState('all')
+
   if (!room) return null
 
   const currentSubmissions = submissions.filter(s => s.round === room.round)
 
   if (room.status === 'waiting') {
-    return <HostLobby room={room} players={players} onDrawPair={onDrawPair} onEndSession={onEndSession} />
+    return <HostLobby room={room} players={players} theme={theme} onThemeChange={setTheme} onDrawPair={onDrawPair} onEndSession={onEndSession} />
   }
   if (room.status === 'active') {
     return (
@@ -196,6 +197,7 @@ export default function HostView({ room, players, submissions, onDrawPair, onRed
         room={room}
         submissionCount={currentSubmissions.length}
         totalPlayers={players.length}
+        theme={theme}
         onReveal={onReveal}
         onRedrawPair={onRedrawPair}
         onAdjustTimer={onAdjustTimer}
