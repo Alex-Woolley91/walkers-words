@@ -1,0 +1,7445 @@
+[
+  {
+    "id": "a",
+    "latin": "a,",
+    "dictForm": "a, ab + abl prep",
+    "pos": "preposition",
+    "meaning": "from, by",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "absum",
+    "latin": "absum",
+    "dictForm": "absum abesse, afui verb irreg",
+    "pos": "verb",
+    "meaning": "be absent, be away, be distant",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ac",
+    "latin": "ac,",
+    "dictForm": "ac, atque indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "and",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "accido",
+    "latin": "accido",
+    "dictForm": "accido accidere, accidi verb 3",
+    "pos": "verb",
+    "meaning": "happen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "accipio",
+    "latin": "accipio",
+    "dictForm": "accipio accipere, accepi, acceptus verb 3",
+    "pos": "verb",
+    "meaning": "accept, take in, receive, hear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "acer",
+    "latin": "acer",
+    "dictForm": "acer acris, acre adj",
+    "pos": "adjective",
+    "meaning": "keen, sharp, fierce",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "acies",
+    "latin": "acies",
+    "dictForm": "acies aciei, f noun 5",
+    "pos": "noun",
+    "meaning": "line, battle line, army",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ad",
+    "latin": "ad",
+    "dictForm": "ad + acc prep",
+    "pos": "preposition",
+    "meaning": "to, towards, at, about, near",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "addo",
+    "latin": "addo",
+    "dictForm": "addo addere, addidi, additus verb 3",
+    "pos": "verb",
+    "meaning": "add, join",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adeo",
+    "latin": "adeo",
+    "dictForm": "adeo indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "so much, so greatly, to such an extent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adhuc",
+    "latin": "adhuc",
+    "dictForm": "adhuc indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "till now, still",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adimo",
+    "latin": "adimo",
+    "dictForm": "adimo adimere, ademi, ademptus verb 3",
+    "pos": "verb",
+    "meaning": "take away, remove",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adipiscor",
+    "latin": "adipiscor",
+    "dictForm": "adipiscor adipisci, adeptus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "obtain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adiuvo",
+    "latin": "adiuvo",
+    "dictForm": "adiuvo adiuvare, adiuvi, adiutus verb 1",
+    "pos": "verb",
+    "meaning": "help",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adsum",
+    "latin": "adsum",
+    "dictForm": "adsum adesse, adfui verb irreg",
+    "pos": "verb",
+    "meaning": "be here, be present",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adulescens",
+    "latin": "adulescens",
+    "dictForm": "adulescens adulescentis, m noun 3",
+    "pos": "noun",
+    "meaning": "youth, young man",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "advenio",
+    "latin": "advenio",
+    "dictForm": "advenio advenire, adveni verb 4",
+    "pos": "verb",
+    "meaning": "arrive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adversus",
+    "latin": "adversus",
+    "dictForm": "adversus + acc prep",
+    "pos": "preposition",
+    "meaning": "against, towards",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "adversus_2",
+    "latin": "adversus",
+    "dictForm": "adversus adverb",
+    "pos": "adverb",
+    "meaning": "against, opposite",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aedificium",
+    "latin": "aedificium",
+    "dictForm": "aedificium aedificii, n noun 2",
+    "pos": "noun",
+    "meaning": "building",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aedifico",
+    "latin": "aedifico",
+    "dictForm": "aedifico aedificare, aedificavi, aedificatus verb 1",
+    "pos": "verb",
+    "meaning": "build",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aequus",
+    "latin": "aequus",
+    "dictForm": "aequus aequa, aequum adj",
+    "pos": "adjective",
+    "meaning": "equal, fair, favourable, calm",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ager",
+    "latin": "ager",
+    "dictForm": "ager agri, m noun 2",
+    "pos": "noun",
+    "meaning": "field, land, territory",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aggredior",
+    "latin": "aggredior",
+    "dictForm": "aggredior aggredi, aggressus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "attack, approach",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "agmen",
+    "latin": "agmen",
+    "dictForm": "agmen agminis, n noun 3",
+    "pos": "noun",
+    "meaning": "column of men, army",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ago",
+    "latin": "ago",
+    "dictForm": "ago agere, egi, actus verb 3",
+    "pos": "verb",
+    "meaning": "do, act, drive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aliquis",
+    "latin": "aliquis",
+    "dictForm": "aliquis aliquid pron",
+    "pos": "pronoun",
+    "meaning": "someone, something, anyone, anything",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "alius",
+    "latin": "alius",
+    "dictForm": "alius alia, aliud pron and adj",
+    "pos": "adjective",
+    "meaning": "other, one, another, else",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "alter",
+    "latin": "alter",
+    "dictForm": "alter altera, alterum pron and adj",
+    "pos": "adjective",
+    "meaning": "the other, one (of two), another, a second",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "altus",
+    "latin": "altus",
+    "dictForm": "altus alta, altum adj",
+    "pos": "adjective",
+    "meaning": "high, deep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ambulo",
+    "latin": "ambulo",
+    "dictForm": "ambulo ambulare, ambulavi verb 1",
+    "pos": "verb",
+    "meaning": "walk",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "amica",
+    "latin": "amica",
+    "dictForm": "amica amicae f noun 1",
+    "pos": "noun",
+    "meaning": "girl-friend, female friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "amicus",
+    "latin": "amicus",
+    "dictForm": "amicus amici m noun 2",
+    "pos": "noun",
+    "meaning": "friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "amitto",
+    "latin": "amitto",
+    "dictForm": "amitto amittere, amisi, amissus verb 3",
+    "pos": "verb",
+    "meaning": "lose",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "amo",
+    "latin": "amo",
+    "dictForm": "amo amare, amavi, amatus verb 1",
+    "pos": "verb",
+    "meaning": "love, like",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "amor",
+    "latin": "amor",
+    "dictForm": "amor amoris, m noun 3",
+    "pos": "noun",
+    "meaning": "love",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "an",
+    "latin": "an",
+    "dictForm": "an indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "or",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ancilla",
+    "latin": "ancilla",
+    "dictForm": "ancilla ancillae, f noun 1",
+    "pos": "noun",
+    "meaning": "slave-girl, slave-woman",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "angustus",
+    "latin": "angustus",
+    "dictForm": "angustus angusta, angustum adj",
+    "pos": "adjective",
+    "meaning": "narrow, confined",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "animadverto",
+    "latin": "animadverto",
+    "dictForm": "animadverto animadvertere, animadverti, animadversus verb 3",
+    "pos": "verb",
+    "meaning": "notice, observe",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "animus",
+    "latin": "animus",
+    "dictForm": "animus animi, m noun 2",
+    "pos": "noun",
+    "meaning": "spirit, soul, mind, courage",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "annus",
+    "latin": "annus",
+    "dictForm": "annus anni, m noun 2",
+    "pos": "noun",
+    "meaning": "year",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ante",
+    "latin": "ante",
+    "dictForm": "ante + acc prep",
+    "pos": "preposition",
+    "meaning": "before, in front of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "antea",
+    "latin": "antea",
+    "dictForm": "antea indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "before, previously",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "antequam",
+    "latin": "antequam",
+    "dictForm": "antequam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "before",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aperio",
+    "latin": "aperio",
+    "dictForm": "aperio aperire, aperui, apertus verb 4",
+    "pos": "verb",
+    "meaning": "open, reveal, disclose",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "appareo",
+    "latin": "appareo",
+    "dictForm": "appareo apparere, apparui verb 2",
+    "pos": "verb",
+    "meaning": "appear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "appropinquo",
+    "latin": "appropinquo",
+    "dictForm": "appropinquo appropinquare, appropinquavi + dat verb 1",
+    "pos": "verb",
+    "meaning": "approach, come near to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "apud",
+    "latin": "apud",
+    "dictForm": "apud + acc prep",
+    "pos": "preposition",
+    "meaning": "among, at the house of, according to, in the opinion of",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "aqua",
+    "latin": "aqua",
+    "dictForm": "aqua aquae, f noun 1",
+    "pos": "noun",
+    "meaning": "water",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aquila",
+    "latin": "aquila",
+    "dictForm": "aquila aquilae, f noun 1",
+    "pos": "noun",
+    "meaning": "eagle, standard",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ara",
+    "latin": "ara",
+    "dictForm": "ara arae, f noun 1",
+    "pos": "noun",
+    "meaning": "altar",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "arbor",
+    "latin": "arbor",
+    "dictForm": "arbor arboris, f noun 3",
+    "pos": "noun",
+    "meaning": "tree",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "arcesso",
+    "latin": "arcesso",
+    "dictForm": "arcesso arcessere, arcessivi, arcessitus verb 3",
+    "pos": "verb",
+    "meaning": "summon, send for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "argentum",
+    "latin": "argentum",
+    "dictForm": "argentum argenti, n noun 2",
+    "pos": "noun",
+    "meaning": "silver, money",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "arma",
+    "latin": "arma",
+    "dictForm": "arma armorum, n pl noun 2",
+    "pos": "noun",
+    "meaning": "arms, weapons, armour",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ars",
+    "latin": "ars",
+    "dictForm": "ars artis, f noun 3",
+    "pos": "noun",
+    "meaning": "art, skill",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ascendo",
+    "latin": "ascendo",
+    "dictForm": "ascendo ascendere, ascendi, ascensus verb 3",
+    "pos": "verb",
+    "meaning": "climb, go up",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "at",
+    "latin": "at",
+    "dictForm": "at indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "but",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "attonitus",
+    "latin": "attonitus",
+    "dictForm": "attonitus attonita, attonitum adj",
+    "pos": "adjective",
+    "meaning": "astonished, thunder-struck",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "audax",
+    "latin": "audax",
+    "dictForm": "audax audacis adj",
+    "pos": "adjective",
+    "meaning": "bold, daring",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "audeo",
+    "latin": "audeo",
+    "dictForm": "audeo audere, ausus sum verb semi-dep.",
+    "pos": "verb",
+    "meaning": "dare",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "audio",
+    "latin": "audio",
+    "dictForm": "audio audire, audivi, auditus verb 4",
+    "pos": "verb",
+    "meaning": "hear, listen to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aufero",
+    "latin": "aufero",
+    "dictForm": "aufero auferre, abstuli, ablatus verb 3",
+    "pos": "verb",
+    "meaning": "take away, carry off, steal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "augeo",
+    "latin": "augeo",
+    "dictForm": "augeo augere, auxi, auctus verb 2",
+    "pos": "verb",
+    "meaning": "increase, exaggerate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "aut",
+    "latin": "aut",
+    "dictForm": "aut indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "or, either",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "autem",
+    "latin": "autem",
+    "dictForm": "autem indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "but, however",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "auxilium",
+    "latin": "auxilium",
+    "dictForm": "auxilium auxilii, n noun 2",
+    "pos": "noun",
+    "meaning": "help; (pl ) (auxiliary) troops",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "bellum",
+    "latin": "bellum",
+    "dictForm": "bellum belli, n noun 2",
+    "pos": "noun",
+    "meaning": "war",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "bene",
+    "latin": "bene",
+    "dictForm": "bene indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "well",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "beneficium",
+    "latin": "beneficium",
+    "dictForm": "beneficium beneficii, n noun 2",
+    "pos": "noun",
+    "meaning": "kindness, service, favour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "bibo",
+    "latin": "bibo",
+    "dictForm": "bibo bibere, bibi verb 3",
+    "pos": "verb",
+    "meaning": "drink",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "bis",
+    "latin": "bis",
+    "dictForm": "bis indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "twice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "bona",
+    "latin": "bona",
+    "dictForm": "bona bonorum, n pl noun 2",
+    "pos": "noun",
+    "meaning": "goods, possessions, property",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "bonus",
+    "latin": "bonus",
+    "dictForm": "bonus bona, bonum adj",
+    "pos": "adjective",
+    "meaning": "good",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "brevis",
+    "latin": "brevis",
+    "dictForm": "brevis breve adj",
+    "pos": "adjective",
+    "meaning": "short, brief",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cado",
+    "latin": "cado",
+    "dictForm": "cado cadere, cecidi, casus verb 3",
+    "pos": "verb",
+    "meaning": "fall, perish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "caedes",
+    "latin": "caedes",
+    "dictForm": "caedes caedis, f noun 3",
+    "pos": "noun",
+    "meaning": "slaughter, killing, murder",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "caelum",
+    "latin": "caelum",
+    "dictForm": "caelum caeli, n noun 2",
+    "pos": "noun",
+    "meaning": "sky, heaven",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "campus",
+    "latin": "campus",
+    "dictForm": "campus campi, m noun 2",
+    "pos": "noun",
+    "meaning": "plain, field",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "canis",
+    "latin": "canis",
+    "dictForm": "canis canis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "dog",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "cano",
+    "latin": "cano",
+    "dictForm": "cano canere, cecini, cantus verb 3",
+    "pos": "verb",
+    "meaning": "sing, sound, play (of trumpets etc.)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "capio",
+    "latin": "capio",
+    "dictForm": "capio capere, cepi, captus (in compounds -icio) verb 3",
+    "pos": "verb",
+    "meaning": "take, catch, capture",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "captivus",
+    "latin": "captivus",
+    "dictForm": "captivus captivi, m noun 2",
+    "pos": "noun",
+    "meaning": "captive, prisoner",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "caput",
+    "latin": "caput",
+    "dictForm": "caput capitis, n noun 3",
+    "pos": "noun",
+    "meaning": "head, person, life, capital",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "carus",
+    "latin": "carus",
+    "dictForm": "carus cara, carum adj",
+    "pos": "adjective",
+    "meaning": "dear",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "castra",
+    "latin": "castra",
+    "dictForm": "castra castrorum, n pl noun 2",
+    "pos": "noun",
+    "meaning": "camp",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "causa",
+    "latin": "causa",
+    "dictForm": "causa causae, f noun 1",
+    "pos": "noun",
+    "meaning": "cause, reason, case",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "caveo",
+    "latin": "caveo",
+    "dictForm": "caveo cavere, cavi, cautus verb 2",
+    "pos": "verb",
+    "meaning": "beware (of), take care",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cedo",
+    "latin": "cedo",
+    "dictForm": "cedo cedere, cessi, cessus verb 3",
+    "pos": "verb",
+    "meaning": "yield, give up; (in compounds) go",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "celer",
+    "latin": "celer",
+    "dictForm": "celer celeris, celere adj",
+    "pos": "adjective",
+    "meaning": "quick",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "celo",
+    "latin": "celo",
+    "dictForm": "celo celare, celavi, celatus verb 1",
+    "pos": "verb",
+    "meaning": "hide, conceal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cena",
+    "latin": "cena",
+    "dictForm": "cena cenae, f noun 1",
+    "pos": "noun",
+    "meaning": "dinner, meal",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "centurio",
+    "latin": "centurio",
+    "dictForm": "centurio centurionis, m noun 3",
+    "pos": "noun",
+    "meaning": "centurion",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "cerno",
+    "latin": "cerno",
+    "dictForm": "cerno cernere, crevi, cretus verb 3",
+    "pos": "verb",
+    "meaning": "see, perceive, decree",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "certamen",
+    "latin": "certamen",
+    "dictForm": "certamen certaminis, n noun 3",
+    "pos": "noun",
+    "meaning": "contest, battle, struggle",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "certus",
+    "latin": "certus",
+    "dictForm": "certus certa, certum adj",
+    "pos": "adjective",
+    "meaning": "certain, sure, fixed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ceteri",
+    "latin": "ceteri",
+    "dictForm": "ceteri ceterae, cetera adj",
+    "pos": "adjective",
+    "meaning": "the rest, the other",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cibus",
+    "latin": "cibus",
+    "dictForm": "cibus cibi, m noun 2",
+    "pos": "noun",
+    "meaning": "food",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "cingo",
+    "latin": "cingo",
+    "dictForm": "cingo cingere, cinxi, cinctus verb 3",
+    "pos": "verb",
+    "meaning": "surround, enclose, gird",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "circum",
+    "latin": "circum,",
+    "dictForm": "circum, circa + acc prep",
+    "pos": "preposition",
+    "meaning": "around, about",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "civis",
+    "latin": "civis",
+    "dictForm": "civis civis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "citizen",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "civitas",
+    "latin": "civitas",
+    "dictForm": "civitas civitatis, f noun 3",
+    "pos": "noun",
+    "meaning": "citizenship, state, city, tribe",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "clades",
+    "latin": "clades",
+    "dictForm": "clades cladis, f noun 3",
+    "pos": "noun",
+    "meaning": "disaster, loss, defeat",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "clam",
+    "latin": "clam",
+    "dictForm": "clam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "secretly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "clamo",
+    "latin": "clamo",
+    "dictForm": "clamo clamare, clamavi, clamatus verb 1",
+    "pos": "verb",
+    "meaning": "shout, exclaim, proclaim",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "clamor",
+    "latin": "clamor",
+    "dictForm": "clamor clamoris, m noun 3",
+    "pos": "noun",
+    "meaning": "shout, uproar, noise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "clarus",
+    "latin": "clarus",
+    "dictForm": "clarus clara, clarum adj",
+    "pos": "adjective",
+    "meaning": "clear, famous, distinguished",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "coepi",
+    "latin": "coepi",
+    "dictForm": "coepi coepisse, coeptus verb defective",
+    "pos": "verb",
+    "meaning": "began",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cogito",
+    "latin": "cogito",
+    "dictForm": "cogito cogitare, cogitavi, cogitatus verb 1",
+    "pos": "verb",
+    "meaning": "think, consider",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cognosco",
+    "latin": "cognosco",
+    "dictForm": "cognosco cognoscere, cognovi, cognitus verb 3",
+    "pos": "verb",
+    "meaning": "get to know, find out, learn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cogo",
+    "latin": "cogo",
+    "dictForm": "cogo cogere, coegi, coactus verb 3",
+    "pos": "verb",
+    "meaning": "force, compel, drive, assemble",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cohors",
+    "latin": "cohors",
+    "dictForm": "cohors cohortis, f noun 3",
+    "pos": "noun",
+    "meaning": "cohort, company",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "colo",
+    "latin": "colo",
+    "dictForm": "colo colere, colui, cultus verb 3",
+    "pos": "verb",
+    "meaning": "cultivate, worship, honour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "comes",
+    "latin": "comes",
+    "dictForm": "comes comitis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "comrade, companion",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "committo",
+    "latin": "committo",
+    "dictForm": "committo committere, commisi, commissus verb 3",
+    "pos": "verb",
+    "meaning": "commit, fight, begin (battle)",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "comparo",
+    "latin": "comparo",
+    "dictForm": "comparo comparare, comparavi, comparatus verb 1",
+    "pos": "verb",
+    "meaning": "prepare, provide, obtain, compare",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "condemno",
+    "latin": "condemno",
+    "dictForm": "condemno condemnare, condemnavi, condemnatus verb 1",
+    "pos": "verb",
+    "meaning": "convict, condemn",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "condo",
+    "latin": "condo",
+    "dictForm": "condo condere, condidi, conditus verb 3",
+    "pos": "verb",
+    "meaning": "found, establish, hide",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "confero",
+    "latin": "confero",
+    "dictForm": "confero conferre, contuli, conlatus verb irreg",
+    "pos": "verb",
+    "meaning": "collect, compare, contribute, bestow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "conficio",
+    "latin": "conficio",
+    "dictForm": "conficio conficere, confeci, confectus verb 3",
+    "pos": "verb",
+    "meaning": "complete, wear out",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "confido",
+    "latin": "confido",
+    "dictForm": "confido confidere, confisus sum + dat verb semi-dep",
+    "pos": "verb",
+    "meaning": "trust, believe, have confidence (in)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "coniunx",
+    "latin": "coniunx",
+    "dictForm": "coniunx coniugis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "husband, wife, spouse",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "conor",
+    "latin": "conor",
+    "dictForm": "conor conari, conatus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "try",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "consilium",
+    "latin": "consilium",
+    "dictForm": "consilium consilii, n noun 2",
+    "pos": "noun",
+    "meaning": "council, plan, advice, prudence",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "consisto",
+    "latin": "consisto",
+    "dictForm": "consisto consistere, constiti, constitus verb 3",
+    "pos": "verb",
+    "meaning": "halt, stand, stand firm",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "conspicio",
+    "latin": "conspicio",
+    "dictForm": "conspicio conspicere, conspexi, conspectus verb 3",
+    "pos": "verb",
+    "meaning": "notice, observe, see",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "constituo",
+    "latin": "constituo",
+    "dictForm": "constituo constituere, constitui, constitutus verb 3",
+    "pos": "verb",
+    "meaning": "decide, establish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "consul",
+    "latin": "consul",
+    "dictForm": "consul consulis, m noun 3",
+    "pos": "noun",
+    "meaning": "consul",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "consulo",
+    "latin": "consulo",
+    "dictForm": "consulo consulere, consului, consultus verb 3",
+    "pos": "verb",
+    "meaning": "consult, consider, advise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "consumo",
+    "latin": "consumo",
+    "dictForm": "consumo consumere, consumpsi, consumptus verb 3",
+    "pos": "verb",
+    "meaning": "eat, consume, spend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "contendo",
+    "latin": "contendo",
+    "dictForm": "contendo contendere, contendi, contentus verb 3",
+    "pos": "verb",
+    "meaning": "hurry, march, contend, fight",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "contra",
+    "latin": "contra",
+    "dictForm": "contra + acc prep",
+    "pos": "preposition",
+    "meaning": "against",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "copiae",
+    "latin": "copiae",
+    "dictForm": "copiae copiarum, f pl noun 1",
+    "pos": "noun",
+    "meaning": "troops, forces, supplies",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "corpus",
+    "latin": "corpus",
+    "dictForm": "corpus corporis, n noun 3",
+    "pos": "noun",
+    "meaning": "body",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "corripio",
+    "latin": "corripio",
+    "dictForm": "corripio corripere, corripui, correptus verb 3",
+    "pos": "verb",
+    "meaning": "seize, carry off",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "cotidie",
+    "latin": "cotidie",
+    "dictForm": "cotidie indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "every day, daily",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cras",
+    "latin": "cras",
+    "dictForm": "cras indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "tomorrow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "credo",
+    "latin": "credo",
+    "dictForm": "credo credere, credidi, creditus + dat verb 3",
+    "pos": "verb",
+    "meaning": "believe, trust, entrust",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "crimen",
+    "latin": "crimen",
+    "dictForm": "crimen criminis, n noun 3",
+    "pos": "noun",
+    "meaning": "accusation, charge, crime",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "crudelis",
+    "latin": "crudelis",
+    "dictForm": "crudelis crudele adj",
+    "pos": "adjective",
+    "meaning": "cruel",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "culpa",
+    "latin": "culpa",
+    "dictForm": "culpa culpae, f noun 1",
+    "pos": "noun",
+    "meaning": "fault, blame",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cum",
+    "latin": "cum",
+    "dictForm": "cum indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "when, since, although",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cum_2",
+    "latin": "cum",
+    "dictForm": "cum + abl prep",
+    "pos": "preposition",
+    "meaning": "with",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cunctus",
+    "latin": "cunctus",
+    "dictForm": "cunctus cuncta, cunctum adj",
+    "pos": "adjective",
+    "meaning": "all, whole",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cupidus",
+    "latin": "cupidus",
+    "dictForm": "cupidus cupida, cupidum + gen adj",
+    "pos": "adjective",
+    "meaning": "eager (for), greedy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cupio",
+    "latin": "cupio",
+    "dictForm": "cupio cupere, cupivi, cupitus verb 3",
+    "pos": "verb",
+    "meaning": "desire, wish, want",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cur",
+    "latin": "cur?",
+    "dictForm": "cur? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "why?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "cura",
+    "latin": "cura",
+    "dictForm": "cura curae, f noun 1",
+    "pos": "noun",
+    "meaning": "care, charge, anxiety",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "curo",
+    "latin": "curo",
+    "dictForm": "curo curare, curavi, curatus verb 1",
+    "pos": "verb",
+    "meaning": "care for, cure; with gerundive = get something done",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "curro",
+    "latin": "curro",
+    "dictForm": "curro currere, cucurri, cursus verb 3",
+    "pos": "verb",
+    "meaning": "run",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "custodio",
+    "latin": "custodio",
+    "dictForm": "custodio custodire, custodivi, custoditus verb 4",
+    "pos": "verb",
+    "meaning": "guard",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "custos",
+    "latin": "custos",
+    "dictForm": "custos custodis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "guard",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "de",
+    "latin": "de",
+    "dictForm": "de + abl prep",
+    "pos": "preposition",
+    "meaning": "about, from, down from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dea",
+    "latin": "dea",
+    "dictForm": "dea deae, f noun 1",
+    "pos": "noun",
+    "meaning": "goddess",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "debeo",
+    "latin": "debeo",
+    "dictForm": "debeo debere, debui, debitus verb 2",
+    "pos": "verb",
+    "meaning": "owe, ought",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "decipio",
+    "latin": "decipio",
+    "dictForm": "decipio decipere, decepi, deceptus verb 3",
+    "pos": "verb",
+    "meaning": "deceive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "defendo",
+    "latin": "defendo",
+    "dictForm": "defendo defendere, defendi, defensus verb 3",
+    "pos": "verb",
+    "meaning": "defend",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "defessus",
+    "latin": "defessus",
+    "dictForm": "defessus defessa, defessum adj",
+    "pos": "adjective",
+    "meaning": "tired",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "deinde",
+    "latin": "deinde,",
+    "dictForm": "deinde, dein indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "then, next, afterwards",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "deleo",
+    "latin": "deleo",
+    "dictForm": "deleo delere, delevi, deletus verb 2",
+    "pos": "verb",
+    "meaning": "destroy",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "denique",
+    "latin": "denique",
+    "dictForm": "denique indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "at last, finally, in short",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "descendo",
+    "latin": "descendo",
+    "dictForm": "descendo descendere, descendi, descensus verb 3",
+    "pos": "verb",
+    "meaning": "descend, come down",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "desino",
+    "latin": "desino",
+    "dictForm": "desino desinere, desii, desitus verb 3",
+    "pos": "verb",
+    "meaning": "cease",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "despero",
+    "latin": "despero",
+    "dictForm": "despero desperare, desperavi, desperatus verb 1",
+    "pos": "verb",
+    "meaning": "despair",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "deus",
+    "latin": "deus",
+    "dictForm": "deus dei, m noun 2",
+    "pos": "noun",
+    "meaning": "god",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "dexter",
+    "latin": "dexter",
+    "dictForm": "dexter dextra, dextrum adj",
+    "pos": "adjective",
+    "meaning": "right, on the right, right hand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dextra",
+    "latin": "dextra",
+    "dictForm": "dextra dextrae, f noun 1",
+    "pos": "noun",
+    "meaning": "right hand, right side",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dico",
+    "latin": "dico",
+    "dictForm": "dico dicere, dixi, dictus verb 3",
+    "pos": "verb",
+    "meaning": "say, speak, tell",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dies",
+    "latin": "dies",
+    "dictForm": "dies diei, m, occasionally f noun 5",
+    "pos": "noun",
+    "meaning": "day",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "difficilis",
+    "latin": "difficilis",
+    "dictForm": "difficilis difficile adj",
+    "pos": "adjective",
+    "meaning": "difficult",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dignitas",
+    "latin": "dignitas",
+    "dictForm": "dignitas dignitatis, f noun 3",
+    "pos": "noun",
+    "meaning": "rank, dignity, importance, honour",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "dignus",
+    "latin": "dignus",
+    "dictForm": "dignus digna, dignum + abl adj",
+    "pos": "adjective",
+    "meaning": "worthy (of), deserving (of)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "diligens",
+    "latin": "diligens",
+    "dictForm": "diligens diligentis adj",
+    "pos": "adjective",
+    "meaning": "careful, diligent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dimitto",
+    "latin": "dimitto",
+    "dictForm": "dimitto dimittere, dimisi, dimissus verb 3",
+    "pos": "verb",
+    "meaning": "dismiss, scatter",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "dirus",
+    "latin": "dirus",
+    "dictForm": "dirus dira, dirum adj",
+    "pos": "adjective",
+    "meaning": "dreadful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "discedo",
+    "latin": "discedo",
+    "dictForm": "discedo discedere, discessi verb 3",
+    "pos": "verb",
+    "meaning": "depart, leave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "disco",
+    "latin": "disco",
+    "dictForm": "disco discere, didici verb 3",
+    "pos": "verb",
+    "meaning": "learn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dissimilis",
+    "latin": "dissimilis",
+    "dictForm": "dissimilis dissimile adj",
+    "pos": "adjective",
+    "meaning": "different",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "diu",
+    "latin": "diu",
+    "dictForm": "diu indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "for a long time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dives",
+    "latin": "dives",
+    "dictForm": "dives divitis adj",
+    "pos": "adjective",
+    "meaning": "rich",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "divitiae",
+    "latin": "divitiae",
+    "dictForm": "divitiae divitiarum, f pl noun 1",
+    "pos": "noun",
+    "meaning": "riches, wealth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "divido",
+    "latin": "divido",
+    "dictForm": "divido dividere, divisi, divisus verb 3",
+    "pos": "verb",
+    "meaning": "divide, separate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "do",
+    "latin": "do",
+    "dictForm": "do dare, dedi, datus verb 1",
+    "pos": "verb",
+    "meaning": "give",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "doceo",
+    "latin": "doceo",
+    "dictForm": "doceo docere, docui, doctus verb 2",
+    "pos": "verb",
+    "meaning": "teach, inform",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "doleo",
+    "latin": "doleo",
+    "dictForm": "doleo dolere, dolui verb 2",
+    "pos": "verb",
+    "meaning": "hurt, be in pain, lament",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dolor",
+    "latin": "dolor",
+    "dictForm": "dolor doloris, m noun 3",
+    "pos": "noun",
+    "meaning": "pain, sorrow, anger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dolus",
+    "latin": "dolus",
+    "dictForm": "dolus doli, m noun 2",
+    "pos": "noun",
+    "meaning": "trick, fraud",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "domina",
+    "latin": "domina",
+    "dictForm": "domina dominae, f noun 2",
+    "pos": "noun",
+    "meaning": "mistress",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "dominus",
+    "latin": "dominus",
+    "dictForm": "dominus domini, m noun 2",
+    "pos": "noun",
+    "meaning": "master",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "domus",
+    "latin": "domus",
+    "dictForm": "domus domus, f noun 4",
+    "pos": "noun",
+    "meaning": "house, home",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "donum",
+    "latin": "donum",
+    "dictForm": "donum doni, n noun 2",
+    "pos": "noun",
+    "meaning": "gift, present",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dormio",
+    "latin": "dormio",
+    "dictForm": "dormio dormire, dormivi verb 4",
+    "pos": "verb",
+    "meaning": "sleep",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "dubito",
+    "latin": "dubito",
+    "dictForm": "dubito dubitare, dubitavi, dubitatus verb 1",
+    "pos": "verb",
+    "meaning": "doubt, hesitate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dubius",
+    "latin": "dubius",
+    "dictForm": "dubius dubia, dubium adj",
+    "pos": "adjective",
+    "meaning": "doubtful, wavering, uncertain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "duco",
+    "latin": "duco",
+    "dictForm": "duco ducere, duxi, ductus verb 3",
+    "pos": "verb",
+    "meaning": "lead, take, marry, consider",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "dum",
+    "latin": "dum",
+    "dictForm": "dum indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "while, until, provided that",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "durus",
+    "latin": "durus",
+    "dictForm": "durus dura, durum adj",
+    "pos": "adjective",
+    "meaning": "hard, harsh, rough",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "dux",
+    "latin": "dux",
+    "dictForm": "dux ducis, m noun 3 military leader,",
+    "pos": "noun",
+    "meaning": ", ruler",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "e",
+    "latin": "e,",
+    "dictForm": "e, ex + abl prep",
+    "pos": "preposition",
+    "meaning": "from, out of; (in compounds) out",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "efficio",
+    "latin": "efficio",
+    "dictForm": "efficio efficere, effeci, effectus verb 3",
+    "pos": "verb",
+    "meaning": "carry out, accomplish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "effugio",
+    "latin": "effugio",
+    "dictForm": "effugio effugere, effugi verb 3",
+    "pos": "verb",
+    "meaning": "escape",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "egeo",
+    "latin": "egeo",
+    "dictForm": "egeo egere, egui + gen or abl verb 2",
+    "pos": "verb",
+    "meaning": "need, be in want of, lack",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ego",
+    "latin": "ego",
+    "dictForm": "ego mei pron",
+    "pos": "pronoun",
+    "meaning": "I, me",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "egredior",
+    "latin": "egredior",
+    "dictForm": "egredior egredi, egressus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "go out, come out",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "emo",
+    "latin": "emo",
+    "dictForm": "emo emere, emi, emptus verb 3",
+    "pos": "verb",
+    "meaning": "buy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "enim",
+    "latin": "enim",
+    "dictForm": "enim indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "eo",
+    "latin": "eo",
+    "dictForm": "eo indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "thither",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "eo_2",
+    "latin": "eo",
+    "dictForm": "eo ire, i(v)i verb irreg",
+    "pos": "verb",
+    "meaning": "go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "epistula",
+    "latin": "epistula",
+    "dictForm": "epistula epistulae, f noun 1",
+    "pos": "noun",
+    "meaning": "letter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "eques",
+    "latin": "eques",
+    "dictForm": "eques equitis, m noun 3",
+    "pos": "noun",
+    "meaning": "knight, horseman, (pl) cavalry",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "equus",
+    "latin": "equus",
+    "dictForm": "equus equi, m noun 2",
+    "pos": "noun",
+    "meaning": "horse",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "erga",
+    "latin": "erga",
+    "dictForm": "erga + acc prep",
+    "pos": "preposition",
+    "meaning": "towards",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ergo",
+    "latin": "ergo",
+    "dictForm": "ergo indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "therefore",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "erro",
+    "latin": "erro",
+    "dictForm": "erro errare, erravi, erratus verb 1",
+    "pos": "verb",
+    "meaning": "wander, make a mistake",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "et",
+    "latin": "et",
+    "dictForm": "et indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "and, both",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "etiam",
+    "latin": "etiam",
+    "dictForm": "etiam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "also, even, still",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "etsi",
+    "latin": "etsi",
+    "dictForm": "etsi indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "although",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "excipio",
+    "latin": "excipio",
+    "dictForm": "excipio excipere, excepi, exceptus verb 3",
+    "pos": "verb",
+    "meaning": "receive, take, welcome",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "excito",
+    "latin": "excito",
+    "dictForm": "excito excitare, excitavi, excitatus verb 1",
+    "pos": "verb",
+    "meaning": "wake, rouse, excite",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "exemplum",
+    "latin": "exemplum",
+    "dictForm": "exemplum exempli, n noun 2",
+    "pos": "noun",
+    "meaning": "example, precedent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "exercitus",
+    "latin": "exercitus",
+    "dictForm": "exercitus exercitus, m noun 4",
+    "pos": "noun",
+    "meaning": "army",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "exilium",
+    "latin": "exilium",
+    "dictForm": "exilium exilii, n noun 2",
+    "pos": "noun",
+    "meaning": "exile",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "exitium",
+    "latin": "exitium",
+    "dictForm": "exitium exitii, n noun 2",
+    "pos": "noun",
+    "meaning": "ruin, destruction",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "exspecto",
+    "latin": "exspecto",
+    "dictForm": "exspecto exspectare, exspectavi, exspectatus verb 1",
+    "pos": "verb",
+    "meaning": "wait for, expect",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "extra",
+    "latin": "extra",
+    "dictForm": "extra + acc prep & adverb",
+    "pos": "preposition",
+    "meaning": "outside, beyond",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "facilis",
+    "latin": "facilis",
+    "dictForm": "facilis facile adj",
+    "pos": "adjective",
+    "meaning": "easy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "facinus",
+    "latin": "facinus",
+    "dictForm": "facinus facinoris, n noun 3",
+    "pos": "noun",
+    "meaning": "crime, outrage, deed",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "facio",
+    "latin": "facio",
+    "dictForm": "facio facere, feci, factus (in compounds -ficio verb 3",
+    "pos": "verb",
+    "meaning": "make, do",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fallo",
+    "latin": "fallo",
+    "dictForm": "fallo fallere, fefelli, falsus verb 3",
+    "pos": "verb",
+    "meaning": "deceive, cheat",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fama",
+    "latin": "fama",
+    "dictForm": "fama famae, f noun 1",
+    "pos": "noun",
+    "meaning": "rumour, fame, glory",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "familia",
+    "latin": "familia",
+    "dictForm": "familia familiae, f noun 1",
+    "pos": "noun",
+    "meaning": "family, household",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "faveo",
+    "latin": "faveo",
+    "dictForm": "faveo favere, favi, + dat verb 2",
+    "pos": "verb",
+    "meaning": "favour, support",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "felix",
+    "latin": "felix",
+    "dictForm": "felix felicis adj",
+    "pos": "adjective",
+    "meaning": "fortunate, happy, prosperous",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "femina",
+    "latin": "femina",
+    "dictForm": "femina feminae, f noun 1",
+    "pos": "noun",
+    "meaning": "woman",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fere",
+    "latin": "fere",
+    "dictForm": "fere indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "nearly, about",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fero",
+    "latin": "fero",
+    "dictForm": "fero ferre, tuli, latus verb irreg",
+    "pos": "verb",
+    "meaning": "bear, carry, bring, say",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ferox",
+    "latin": "ferox",
+    "dictForm": "ferox ferocis adj",
+    "pos": "adjective",
+    "meaning": "fierce, cruel, brave",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ferrum",
+    "latin": "ferrum",
+    "dictForm": "ferrum ferri, n noun 2",
+    "pos": "noun",
+    "meaning": "iron, sword",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "festino",
+    "latin": "festino",
+    "dictForm": "festino festinare, festinavi verb 1",
+    "pos": "verb",
+    "meaning": "hurry",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fidelis",
+    "latin": "fidelis",
+    "dictForm": "fidelis fidele adj",
+    "pos": "adjective",
+    "meaning": "trustworthy, faithful, loyal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fides",
+    "latin": "fides",
+    "dictForm": "fides fidei, f noun 5",
+    "pos": "noun",
+    "meaning": "trust, faith, confidence, loyalty",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fido",
+    "latin": "fido",
+    "dictForm": "fido fidere, fisus sum + dat or abl verb 3 semi-dep",
+    "pos": "verb",
+    "meaning": "trust, rely upon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "filia",
+    "latin": "filia",
+    "dictForm": "filia filiae, f noun 1",
+    "pos": "noun",
+    "meaning": "daughter",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "filius",
+    "latin": "filius",
+    "dictForm": "filius filii, m noun 2",
+    "pos": "noun",
+    "meaning": "son",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "finis",
+    "latin": "finis",
+    "dictForm": "finis finis, m noun 3",
+    "pos": "noun",
+    "meaning": "end, boundary, pl territory",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fio",
+    "latin": "fio",
+    "dictForm": "fio fieri, factus sum verb irreg",
+    "pos": "verb",
+    "meaning": "become, be made, happen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "flamma",
+    "latin": "flamma",
+    "dictForm": "flamma flammae, f noun 1",
+    "pos": "noun",
+    "meaning": "blaze, flame, passion",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "flumen",
+    "latin": "flumen",
+    "dictForm": "flumen fluminis, n noun 3",
+    "pos": "noun",
+    "meaning": "river",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "foedus",
+    "latin": "foedus",
+    "dictForm": "foedus foederis, n noun 3",
+    "pos": "noun",
+    "meaning": "treaty, agreement",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "fortasse",
+    "latin": "fortasse",
+    "dictForm": "fortasse indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "perhaps",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "forte",
+    "latin": "forte",
+    "dictForm": "forte indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "by chance",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fortis",
+    "latin": "fortis",
+    "dictForm": "fortis forte adj",
+    "pos": "adjective",
+    "meaning": "brave, strong, bold",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "fortuna",
+    "latin": "fortuna",
+    "dictForm": "fortuna fortunae, f noun 1",
+    "pos": "noun",
+    "meaning": "fate, luck, fortune (good or bad)",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "forum",
+    "latin": "forum",
+    "dictForm": "forum fori, n noun 2",
+    "pos": "noun",
+    "meaning": "forum, market place",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "frango",
+    "latin": "frango",
+    "dictForm": "frango frangere, fregi, fractus verb 3",
+    "pos": "verb",
+    "meaning": "break, crush",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "frater",
+    "latin": "frater",
+    "dictForm": "frater fratris, m noun 3",
+    "pos": "noun",
+    "meaning": "brother",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "frigus",
+    "latin": "frigus",
+    "dictForm": "frigus frigoris, n noun 3",
+    "pos": "noun",
+    "meaning": "cold",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "frumentum",
+    "latin": "frumentum",
+    "dictForm": "frumentum frumenti, n noun 2",
+    "pos": "noun",
+    "meaning": "corn, grain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "frustra",
+    "latin": "frustra",
+    "dictForm": "frustra indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "in vain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "fuga",
+    "latin": "fuga",
+    "dictForm": "fuga fugae, f noun 1",
+    "pos": "noun",
+    "meaning": "flight, escape",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "fugio",
+    "latin": "fugio",
+    "dictForm": "fugio fugere, fugi verb 3",
+    "pos": "verb",
+    "meaning": "flee, run away (from), avoid",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "fundo",
+    "latin": "fundo",
+    "dictForm": "fundo fundere, fudi, fusus verb 3",
+    "pos": "verb",
+    "meaning": "pour, shed, rout",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "furor",
+    "latin": "furor",
+    "dictForm": "furor furoris, m noun 3",
+    "pos": "noun",
+    "meaning": "rage, fury, madness, passion",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "gaudeo",
+    "latin": "gaudeo",
+    "dictForm": "gaudeo gaudere, gavisus sum verb 2 semi-dep",
+    "pos": "verb",
+    "meaning": "rejoice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "gaudium",
+    "latin": "gaudium",
+    "dictForm": "gaudium gaudii, n noun 2",
+    "pos": "noun",
+    "meaning": "joy, delight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "gens",
+    "latin": "gens",
+    "dictForm": "gens gentis, f noun 3",
+    "pos": "noun",
+    "meaning": "race, people, family, tribe, nation",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "genus",
+    "latin": "genus",
+    "dictForm": "genus generis, n noun 3",
+    "pos": "noun",
+    "meaning": "race, descent, birth, kind",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "gero",
+    "latin": "gero",
+    "dictForm": "gero gerere, gessi, gestus verb 3",
+    "pos": "verb",
+    "meaning": "bear, wear, wage war, manage",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "gladius",
+    "latin": "gladius",
+    "dictForm": "gladius gladii, m noun 2",
+    "pos": "noun",
+    "meaning": "sword",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "gratia",
+    "latin": "gratia",
+    "dictForm": "gratia gratiae, f noun 1",
+    "pos": "noun",
+    "meaning": "favour, thanks, esteem",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "gravis",
+    "latin": "gravis",
+    "dictForm": "gravis grave adj",
+    "pos": "adjective",
+    "meaning": "heavy, serious, painful, important",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "habeo",
+    "latin": "habeo",
+    "dictForm": "habeo habere, habui, habitus verb 2",
+    "pos": "verb",
+    "meaning": "have, hold, consider",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "habito",
+    "latin": "habito",
+    "dictForm": "habito habitare, habitavi, habitatus verb 1",
+    "pos": "verb",
+    "meaning": "live, dwell",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "hasta",
+    "latin": "hasta",
+    "dictForm": "hasta hastae, f noun 1",
+    "pos": "noun",
+    "meaning": "spear",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "haud",
+    "latin": "haud",
+    "dictForm": "haud indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "heri",
+    "latin": "heri",
+    "dictForm": "heri indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "yesterday",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hic",
+    "latin": "hic",
+    "dictForm": "hic haec, hoc pron",
+    "pos": "pronoun",
+    "meaning": "this",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hic_2",
+    "latin": "hic",
+    "dictForm": "hic indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "here",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hiems",
+    "latin": "hiems",
+    "dictForm": "hiems hiemis, f noun 3",
+    "pos": "noun",
+    "meaning": "winter, storm",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hinc",
+    "latin": "hinc",
+    "dictForm": "hinc indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "from here, hence, henceforth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hodie",
+    "latin": "hodie",
+    "dictForm": "hodie indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "today",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "homo",
+    "latin": "homo",
+    "dictForm": "homo hominis, m noun 3",
+    "pos": "noun",
+    "meaning": "man, person",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "honor",
+    "latin": "honor",
+    "dictForm": "honor honoris, m noun 3",
+    "pos": "noun",
+    "meaning": "honour, esteem, glory",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "hora",
+    "latin": "hora",
+    "dictForm": "hora horae, f noun 1",
+    "pos": "noun",
+    "meaning": "hour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "hortor",
+    "latin": "hortor",
+    "dictForm": "hortor hortari, hortatus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "urge, encourage",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "hortus",
+    "latin": "hortus",
+    "dictForm": "hortus horti, m noun 2",
+    "pos": "noun",
+    "meaning": "garden",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "hospes",
+    "latin": "hospes",
+    "dictForm": "hospes hospitis, m noun 3",
+    "pos": "noun",
+    "meaning": "guest, host",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "hostis",
+    "latin": "hostis",
+    "dictForm": "hostis hostis, m noun 3",
+    "pos": "noun",
+    "meaning": "enemy",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "huc",
+    "latin": "huc",
+    "dictForm": "huc indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "here, to this place",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "humus",
+    "latin": "humus",
+    "dictForm": "humus humi, f noun 2",
+    "pos": "noun",
+    "meaning": "ground, earth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iaceo",
+    "latin": "iaceo",
+    "dictForm": "iaceo iacere, iacui verb 2",
+    "pos": "verb",
+    "meaning": "lie (down)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iacio",
+    "latin": "iacio",
+    "dictForm": "iacio iacere, ieci, iactus (in compounds -icio) verb 3",
+    "pos": "verb",
+    "meaning": "throw",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "iam",
+    "latin": "iam",
+    "dictForm": "iam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "now, already",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ibi",
+    "latin": "ibi",
+    "dictForm": "ibi indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "there, then",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "idem",
+    "latin": "idem",
+    "dictForm": "idem eadem, idem pron",
+    "pos": "pronoun",
+    "meaning": "the same",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "idoneus",
+    "latin": "idoneus",
+    "dictForm": "idoneus idonea, idoneum adj",
+    "pos": "adjective",
+    "meaning": "suitable, convenient",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "igitur",
+    "latin": "igitur",
+    "dictForm": "igitur indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "therefore, and so",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ignis",
+    "latin": "ignis",
+    "dictForm": "ignis ignis, m noun 3",
+    "pos": "noun",
+    "meaning": "fire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ignoro",
+    "latin": "ignoro",
+    "dictForm": "ignoro ignorare, ignoravi, ignoratus verb 1",
+    "pos": "verb",
+    "meaning": "do not know, be ignorant, misunderstand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ille",
+    "latin": "ille",
+    "dictForm": "ille illa, illud pron",
+    "pos": "pronoun",
+    "meaning": "that, he, she, it",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "illic",
+    "latin": "illic",
+    "dictForm": "illic indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "there",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "impedio",
+    "latin": "impedio",
+    "dictForm": "impedio impedire, impedivi, impeditus verb 4",
+    "pos": "verb",
+    "meaning": "delay, hinder, prevent, hamper",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "imperator",
+    "latin": "imperator",
+    "dictForm": "imperator imperatoris, m noun 3 political emperor,",
+    "pos": "noun",
+    "meaning": ", leader",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "imperium",
+    "latin": "imperium",
+    "dictForm": "imperium imperii, n noun 2",
+    "pos": "noun",
+    "meaning": "command, power, empire",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "impero",
+    "latin": "impero",
+    "dictForm": "impero imperare, imperavi, imperatus +dat verb 1",
+    "pos": "verb",
+    "meaning": "order, command",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "impetus",
+    "latin": "impetus",
+    "dictForm": "impetus impetus, m noun 4",
+    "pos": "noun",
+    "meaning": "attack, impulse",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "in",
+    "latin": "in",
+    "dictForm": "in + abl prep",
+    "pos": "preposition",
+    "meaning": "in, on",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "in_2",
+    "latin": "in",
+    "dictForm": "in + acc prep",
+    "pos": "preposition",
+    "meaning": "into, onto, against, towards",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "incendium",
+    "latin": "incendium",
+    "dictForm": "incendium incendii, n noun 2",
+    "pos": "noun",
+    "meaning": "fire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "incendo",
+    "latin": "incendo",
+    "dictForm": "incendo incendere, incendi, incensus verb 3",
+    "pos": "verb",
+    "meaning": "burn, set on fire, inflame, rouse",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "incipio",
+    "latin": "incipio",
+    "dictForm": "incipio incipere, incepi, inceptus verb 3",
+    "pos": "verb",
+    "meaning": "begin",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "incito",
+    "latin": "incito",
+    "dictForm": "incito incitare, incitavi, incitatus verb 1",
+    "pos": "verb",
+    "meaning": "urge on, arouse, encourage",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "inde",
+    "latin": "inde",
+    "dictForm": "inde indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "from there, thereupon, next",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "infero",
+    "latin": "infero",
+    "dictForm": "infero inferre, intuli, illatus/inlatus verb irreg",
+    "pos": "verb",
+    "meaning": "inflict, bring to, cause, carry against",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "infra",
+    "latin": "infra",
+    "dictForm": "infra  + acc prep & adverb",
+    "pos": "preposition",
+    "meaning": "below, beneath",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ingenium",
+    "latin": "ingenium",
+    "dictForm": "ingenium ingenii, n noun 2",
+    "pos": "noun",
+    "meaning": "character, ability",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ingens",
+    "latin": "ingens",
+    "dictForm": "ingens ingentis adj",
+    "pos": "adjective",
+    "meaning": "huge",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ingredior",
+    "latin": "ingredior",
+    "dictForm": "ingredior ingredi, ingressus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "enter, undertake",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "inimicus",
+    "latin": "inimicus",
+    "dictForm": "inimicus inimici, m noun 2",
+    "pos": "noun",
+    "meaning": "(personal) enemy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iniquus",
+    "latin": "iniquus",
+    "dictForm": "iniquus iniqua, iniquum adj",
+    "pos": "adjective",
+    "meaning": "unfair, unjust, unfavourable",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "initium",
+    "latin": "initium",
+    "dictForm": "initium initii, n noun 2",
+    "pos": "noun",
+    "meaning": "beginning",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iniuria",
+    "latin": "iniuria",
+    "dictForm": "iniuria iniuriae, f noun 1",
+    "pos": "noun",
+    "meaning": "injustice, injury, wrong",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "inopia",
+    "latin": "inopia",
+    "dictForm": "inopia inopiae, f noun 1",
+    "pos": "noun",
+    "meaning": "shortage, lack, poverty",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "inquam",
+    "latin": "inquam",
+    "dictForm": "inquam inquit, inquiunt verb irreg",
+    "pos": "verb",
+    "meaning": "say",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "insidiae",
+    "latin": "insidiae",
+    "dictForm": "insidiae insidiarum, f pl noun 1",
+    "pos": "noun",
+    "meaning": "ambush, trap, trick",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "insignis",
+    "latin": "insignis",
+    "dictForm": "insignis insigne adj",
+    "pos": "adjective",
+    "meaning": "distinguished, glorious",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "inspicio",
+    "latin": "inspicio",
+    "dictForm": "inspicio inspicere, inspexi, inspectus verb 3",
+    "pos": "verb",
+    "meaning": "look at, inspect, examine",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "instruo",
+    "latin": "instruo",
+    "dictForm": "instruo instruere, instruxi, instructus verb 3",
+    "pos": "verb",
+    "meaning": "draw up, prepare, equip, supply",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "insula",
+    "latin": "insula",
+    "dictForm": "insula insulae, f noun 1",
+    "pos": "noun",
+    "meaning": "island, block (of apartments)",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "intellego",
+    "latin": "intellego",
+    "dictForm": "intellego intellegere, intellexi, intellectus verb 3",
+    "pos": "verb",
+    "meaning": "understand, perceive, realise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "inter",
+    "latin": "inter",
+    "dictForm": "inter + acc prep",
+    "pos": "preposition",
+    "meaning": "between, among",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "interea",
+    "latin": "interea,",
+    "dictForm": "interea, interim indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "meanwhile, in the meantime",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "interficio",
+    "latin": "interficio",
+    "dictForm": "interficio interficere, interfeci, interfectus verb 3",
+    "pos": "verb",
+    "meaning": "kill",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "intra",
+    "latin": "intra",
+    "dictForm": "intra + acc prep",
+    "pos": "preposition",
+    "meaning": "inside, within",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "intro",
+    "latin": "intro",
+    "dictForm": "intro intrare, intravi, intratus verb 1",
+    "pos": "verb",
+    "meaning": "enter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "invenio",
+    "latin": "invenio",
+    "dictForm": "invenio invenire, inveni, inventus verb 4",
+    "pos": "verb",
+    "meaning": "find, discover",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "invito",
+    "latin": "invito",
+    "dictForm": "invito invitare, invitavi, invitatus verb 1",
+    "pos": "verb",
+    "meaning": "invite",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "invitus",
+    "latin": "invitus",
+    "dictForm": "invitus invita, invitum adj",
+    "pos": "adjective",
+    "meaning": "unwillling, reluctant",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ipse",
+    "latin": "ipse",
+    "dictForm": "ipse ipsa, ipsum pron",
+    "pos": "pronoun",
+    "meaning": "-self",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ira",
+    "latin": "ira",
+    "dictForm": "ira irae, f noun 1",
+    "pos": "noun",
+    "meaning": "anger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iratus",
+    "latin": "iratus",
+    "dictForm": "iratus irata, iratum adj",
+    "pos": "adjective",
+    "meaning": "angry",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "is",
+    "latin": "is",
+    "dictForm": "is ea, id pron",
+    "pos": "pronoun",
+    "meaning": "this, that, he, she, it",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ita",
+    "latin": "ita",
+    "dictForm": "ita indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "in this way, so, thus",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "itaque",
+    "latin": "itaque",
+    "dictForm": "itaque indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "and so, therefore",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iter",
+    "latin": "iter",
+    "dictForm": "iter itineris, n noun 3",
+    "pos": "noun",
+    "meaning": "journey, march, way",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "iterum",
+    "latin": "iterum",
+    "dictForm": "iterum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "again",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iubeo",
+    "latin": "iubeo",
+    "dictForm": "iubeo iubere, iussi, iussus verb 2",
+    "pos": "verb",
+    "meaning": "order, command",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iudex",
+    "latin": "iudex",
+    "dictForm": "iudex iudicis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "judge, juror",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "iungo",
+    "latin": "iungo",
+    "dictForm": "iungo iungere, iunxi, iunctus verb 3",
+    "pos": "verb",
+    "meaning": "join, unite, fasten",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iustus",
+    "latin": "iustus",
+    "dictForm": "iustus iusta, iustum adj",
+    "pos": "adjective",
+    "meaning": "right, just, lawful, complete",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "iuvenis",
+    "latin": "iuvenis",
+    "dictForm": "iuvenis iuvenis m or adj noun & adj",
+    "pos": "noun",
+    "meaning": "young man, young",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "iuvo",
+    "latin": "iuvo",
+    "dictForm": "iuvo iuvare, iuvi, iutus verb 1",
+    "pos": "verb",
+    "meaning": "help, please",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "labor",
+    "latin": "labor",
+    "dictForm": "labor labi, lapsus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "glide, slip, fall",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "labor_2",
+    "latin": "labor",
+    "dictForm": "labor laboris, m noun 3",
+    "pos": "noun",
+    "meaning": "work, toil, trouble",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "laboro",
+    "latin": "laboro",
+    "dictForm": "laboro laborare, laboravi verb 1",
+    "pos": "verb",
+    "meaning": "work, toil, be in difficulty",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "laedo",
+    "latin": "laedo",
+    "dictForm": "laedo laedere, laesi, laesus verb 3",
+    "pos": "verb",
+    "meaning": "hurt, injure, harm",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "laetus",
+    "latin": "laetus",
+    "dictForm": "laetus laeta, laetum adj",
+    "pos": "adjective",
+    "meaning": "happy, glad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "latus",
+    "latin": "latus",
+    "dictForm": "latus lata, latum adj",
+    "pos": "adjective",
+    "meaning": "wide, broad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "latus_2",
+    "latin": "latus",
+    "dictForm": "latus lateris, n noun 3",
+    "pos": "noun",
+    "meaning": "side, wing",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "laudo",
+    "latin": "laudo",
+    "dictForm": "laudo laudare, laudavi, laudatus verb 1",
+    "pos": "verb",
+    "meaning": "praise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "laus",
+    "latin": "laus",
+    "dictForm": "laus laudis, f noun 3",
+    "pos": "noun",
+    "meaning": "praise, honour, credit",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "legatus",
+    "latin": "legatus",
+    "dictForm": "legatus legati, m noun 2",
+    "pos": "noun",
+    "meaning": "(legionary) commander, ambassador, envoy",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "legio",
+    "latin": "legio",
+    "dictForm": "legio legionis, f noun 3",
+    "pos": "noun",
+    "meaning": "legion",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "lego",
+    "latin": "lego",
+    "dictForm": "lego legere, legi, lectus verb 3",
+    "pos": "verb",
+    "meaning": "read, choose",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "lentus",
+    "latin": "lentus",
+    "dictForm": "lentus lenta, lentum adj",
+    "pos": "adjective",
+    "meaning": "slow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "levis",
+    "latin": "levis",
+    "dictForm": "levis leve adj",
+    "pos": "adjective",
+    "meaning": "light, slight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "lex",
+    "latin": "lex",
+    "dictForm": "lex legis, f noun 3",
+    "pos": "noun",
+    "meaning": "law",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "libens",
+    "latin": "libens",
+    "dictForm": "libens libentis adj",
+    "pos": "adjective",
+    "meaning": "willing, glad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "liber",
+    "latin": "liber",
+    "dictForm": "liber libera, liberum adj",
+    "pos": "adjective",
+    "meaning": "free",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "liber_2",
+    "latin": "liber",
+    "dictForm": "liber libri, m noun 2",
+    "pos": "noun",
+    "meaning": "book",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "liberi",
+    "latin": "liberi",
+    "dictForm": "liberi liberorum, m pl noun 2",
+    "pos": "noun",
+    "meaning": "children",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "libero",
+    "latin": "libero",
+    "dictForm": "libero liberare, liberavi, liberatus verb 1",
+    "pos": "verb",
+    "meaning": "set free",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "libertas",
+    "latin": "libertas",
+    "dictForm": "libertas libertatis, f noun 3",
+    "pos": "noun",
+    "meaning": "freedom",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "libertus",
+    "latin": "libertus",
+    "dictForm": "libertus liberti, m noun 2",
+    "pos": "noun",
+    "meaning": "freedman, ex-slave",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "licet",
+    "latin": "licet",
+    "dictForm": "licet licere, licuit + dat verb impersonal",
+    "pos": "verb",
+    "meaning": "it is allowed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "littera",
+    "latin": "littera",
+    "dictForm": "littera litterae, f (usually pl. with sg. meaning) noun 1",
+    "pos": "noun",
+    "meaning": "letter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "litus",
+    "latin": "litus",
+    "dictForm": "litus litoris, n noun 3",
+    "pos": "noun",
+    "meaning": "sea-shore, beach",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "locus",
+    "latin": "locus",
+    "dictForm": "locus loci, m noun 2",
+    "pos": "noun",
+    "meaning": "place, position, situation, opportunity",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "longus",
+    "latin": "longus",
+    "dictForm": "longus longa, longum adj",
+    "pos": "adjective",
+    "meaning": "long",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "loquor",
+    "latin": "loquor",
+    "dictForm": "loquor loqui, locutus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "speak, talk",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "lux",
+    "latin": "lux",
+    "dictForm": "lux lucis, f noun 3",
+    "pos": "noun",
+    "meaning": "light, daylight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "magister",
+    "latin": "magister",
+    "dictForm": "magister magistri, m noun 2",
+    "pos": "noun",
+    "meaning": "teacher, master",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "magnus",
+    "latin": "magnus",
+    "dictForm": "magnus magna, magnum adj",
+    "pos": "adjective",
+    "meaning": "big, large, great",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "magnopere",
+    "latin": "magnopere",
+    "dictForm": "magnopere indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "very much, greatly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "magis",
+    "latin": "magis",
+    "dictForm": "magis indeclinable adverb comp",
+    "pos": "adverb",
+    "meaning": "more, rather",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "malo",
+    "latin": "malo",
+    "dictForm": "malo malle, malui verb irreg",
+    "pos": "verb",
+    "meaning": "prefer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "malus",
+    "latin": "malus",
+    "dictForm": "malus mala, malum adj",
+    "pos": "adjective",
+    "meaning": "evil, bad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mando",
+    "latin": "mando",
+    "dictForm": "mando mandare, mandavi, mandatus verb 1",
+    "pos": "verb",
+    "meaning": "commit, entrust, command",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mane",
+    "latin": "mane",
+    "dictForm": "mane indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "in the morning, early",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "maneo",
+    "latin": "maneo",
+    "dictForm": "maneo manere, mansi verb 2",
+    "pos": "verb",
+    "meaning": "remain, stay",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "manus",
+    "latin": "manus",
+    "dictForm": "manus manus, f noun 4",
+    "pos": "noun",
+    "meaning": "hand, band",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "mare",
+    "latin": "mare",
+    "dictForm": "mare maris, n noun 3",
+    "pos": "noun",
+    "meaning": "sea",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "maritus",
+    "latin": "maritus",
+    "dictForm": "maritus mariti, m noun 2",
+    "pos": "noun",
+    "meaning": "husband",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "mater",
+    "latin": "mater",
+    "dictForm": "mater matris, f noun 3",
+    "pos": "noun",
+    "meaning": "mother",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "medius",
+    "latin": "medius",
+    "dictForm": "medius media, medium adj",
+    "pos": "adjective",
+    "meaning": "middle (of)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mens",
+    "latin": "mens",
+    "dictForm": "mens mentis, f noun 3",
+    "pos": "noun",
+    "meaning": "mind",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mensis",
+    "latin": "mensis",
+    "dictForm": "mensis mensis, m noun 3",
+    "pos": "noun",
+    "meaning": "month",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mercator",
+    "latin": "mercator",
+    "dictForm": "mercator mercatoris, m noun 3",
+    "pos": "noun",
+    "meaning": "merchant",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "metus",
+    "latin": "metus",
+    "dictForm": "metus metus, m noun 4",
+    "pos": "noun",
+    "meaning": "fear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "meus",
+    "latin": "meus",
+    "dictForm": "meus mea, meum adj",
+    "pos": "adjective",
+    "meaning": "my",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "miles",
+    "latin": "miles",
+    "dictForm": "miles militis, m noun 3",
+    "pos": "noun",
+    "meaning": "soldier",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "minor",
+    "latin": "minor",
+    "dictForm": "minor minari, minatus sum + dat verb 1 dep",
+    "pos": "verb",
+    "meaning": "threaten",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "mirabilis",
+    "latin": "mirabilis",
+    "dictForm": "mirabilis mirabile adj",
+    "pos": "adjective",
+    "meaning": "strange, wonderful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "miror",
+    "latin": "miror",
+    "dictForm": "miror mirari, miratus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "wonder at, admire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "miser",
+    "latin": "miser",
+    "dictForm": "miser misera, miserum adj",
+    "pos": "adjective",
+    "meaning": "miserable, wretched, sad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mitto",
+    "latin": "mitto",
+    "dictForm": "mitto mittere, misi, missus verb 3",
+    "pos": "verb",
+    "meaning": "send, throw, let go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "modo",
+    "latin": "modo",
+    "dictForm": "modo indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "just now, only",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "modus",
+    "latin": "modus",
+    "dictForm": "modus modi, m noun 2",
+    "pos": "noun",
+    "meaning": "manner, way, kind",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "moenia",
+    "latin": "moenia",
+    "dictForm": "moenia moenium, n pl noun 3",
+    "pos": "noun",
+    "meaning": "city walls, city",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "moneo",
+    "latin": "moneo",
+    "dictForm": "moneo monere, monui, monitus verb 2",
+    "pos": "verb",
+    "meaning": "warn, advise, teach",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mons",
+    "latin": "mons",
+    "dictForm": "mons montis, m noun 3",
+    "pos": "noun",
+    "meaning": "mountain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "monstro",
+    "latin": "monstro",
+    "dictForm": "monstro monstrare, monstravi, monstratus verb 1",
+    "pos": "verb",
+    "meaning": "show, point out, indicate, instruct",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "morbus",
+    "latin": "morbus",
+    "dictForm": "morbus morbi, m noun 2",
+    "pos": "noun",
+    "meaning": "sickness, disease",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "morior",
+    "latin": "morior",
+    "dictForm": "morior mori, mortuus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "die",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "mors",
+    "latin": "mors",
+    "dictForm": "mors mortis, f noun 3",
+    "pos": "noun",
+    "meaning": "death",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "moror",
+    "latin": "moror",
+    "dictForm": "moror morari, moratus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "delay, linger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mora",
+    "latin": "mora",
+    "dictForm": "mora morae, f noun 1",
+    "pos": "noun",
+    "meaning": "delay",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mos",
+    "latin": "mos",
+    "dictForm": "mos moris, m noun 3",
+    "pos": "noun",
+    "meaning": "habit, custom, (pl) character, morals",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "moveo",
+    "latin": "moveo",
+    "dictForm": "moveo movere, movi, motus verb 2",
+    "pos": "verb",
+    "meaning": "move",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mox",
+    "latin": "mox",
+    "dictForm": "mox indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "soon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "mulier",
+    "latin": "mulier",
+    "dictForm": "mulier mulieris, f noun 3",
+    "pos": "noun",
+    "meaning": "woman",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "multitudo",
+    "latin": "multitudo",
+    "dictForm": "multitudo multitudinis, f noun 3",
+    "pos": "noun",
+    "meaning": "crowd, multitude",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "multus",
+    "latin": "multus",
+    "dictForm": "multus multa, multum adj",
+    "pos": "adjective",
+    "meaning": "much, many",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "munio",
+    "latin": "munio",
+    "dictForm": "munio munire, munivi, munitus verb 4",
+    "pos": "verb",
+    "meaning": "fortify, defend, guard",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "munus",
+    "latin": "munus",
+    "dictForm": "munus muneris, n noun 3",
+    "pos": "noun",
+    "meaning": "service, duty, present",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "murus",
+    "latin": "murus",
+    "dictForm": "murus muri, m noun 2",
+    "pos": "noun",
+    "meaning": "wall, rampart",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "muto",
+    "latin": "muto",
+    "dictForm": "muto mutare, mutavi, mutatus verb 1",
+    "pos": "verb",
+    "meaning": "change, alter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nam",
+    "latin": "nam",
+    "dictForm": "nam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "narro",
+    "latin": "narro",
+    "dictForm": "narro narrare, narravi, narratus verb 1",
+    "pos": "verb",
+    "meaning": "tell, relate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nascor",
+    "latin": "nascor",
+    "dictForm": "nascor nasci, natus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "am born",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "natura",
+    "latin": "natura",
+    "dictForm": "natura naturae, f noun 1",
+    "pos": "noun",
+    "meaning": "nature",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nauta",
+    "latin": "nauta",
+    "dictForm": "nauta nautae, m noun 1",
+    "pos": "noun",
+    "meaning": "sailor",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "navigo",
+    "latin": "navigo",
+    "dictForm": "navigo navigare, navigavi verb 1",
+    "pos": "verb",
+    "meaning": "sail",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "navis",
+    "latin": "navis",
+    "dictForm": "navis navis, f noun 3",
+    "pos": "noun",
+    "meaning": "ship",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ne",
+    "latin": "-ne",
+    "dictForm": "-ne indeclinable particle",
+    "pos": "particle",
+    "meaning": "(introduces question)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ne_2",
+    "latin": "ne",
+    "dictForm": "ne indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "lest, that not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nec",
+    "latin": "nec,",
+    "dictForm": "nec, neque indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "and not, nor, neither",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "necesse",
+    "latin": "necesse",
+    "dictForm": "necesse indeclinable adj",
+    "pos": "adjective",
+    "meaning": "necessary",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "neco",
+    "latin": "neco",
+    "dictForm": "neco necare, necavi, necatus verb 1",
+    "pos": "verb",
+    "meaning": "kill",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "neglego",
+    "latin": "neglego",
+    "dictForm": "neglego neglegere, neglexi, neglectus verb 3",
+    "pos": "verb",
+    "meaning": "neglect, disregard",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nego",
+    "latin": "nego",
+    "dictForm": "nego negare, negavi, negatus verb 1",
+    "pos": "verb",
+    "meaning": "say no, deny, refuse, say that ...not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "negotium",
+    "latin": "negotium",
+    "dictForm": "negotium negotii, n noun 2",
+    "pos": "noun",
+    "meaning": "business",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nemo",
+    "latin": "nemo",
+    "dictForm": "nemo nullius noun irreg",
+    "pos": "noun",
+    "meaning": "no one, nobody",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nescio",
+    "latin": "nescio",
+    "dictForm": "nescio nescire, nescivi verb 4",
+    "pos": "verb",
+    "meaning": "not know",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nihil",
+    "latin": "nihil",
+    "dictForm": "nihil indeclinable noun irreg",
+    "pos": "noun",
+    "meaning": "nothing",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nisi",
+    "latin": "nisi",
+    "dictForm": "nisi indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "unless, if not, except",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nobilis",
+    "latin": "nobilis",
+    "dictForm": "nobilis nobile adj",
+    "pos": "adjective",
+    "meaning": "noble, famous",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "noceo",
+    "latin": "noceo",
+    "dictForm": "noceo nocere, nocui + dat verb 2",
+    "pos": "verb",
+    "meaning": "hurt, harm",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nolo",
+    "latin": "nolo",
+    "dictForm": "nolo nolle, nolui verb irreg",
+    "pos": "verb",
+    "meaning": "not want, be unwilling, refuse",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nomen",
+    "latin": "nomen",
+    "dictForm": "nomen nominis, n noun 3",
+    "pos": "noun",
+    "meaning": "name",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "non",
+    "latin": "non",
+    "dictForm": "non indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nondum",
+    "latin": "nondum",
+    "dictForm": "nondum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "not yet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nonne",
+    "latin": "nonne?",
+    "dictForm": "nonne? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "surely?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nonnulli",
+    "latin": "nonnulli",
+    "dictForm": "nonnulli nonnullae, nonnulla adj",
+    "pos": "adjective",
+    "meaning": "some, several",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nos",
+    "latin": "nos",
+    "dictForm": "nos nostrum / nostri pron",
+    "pos": "pronoun",
+    "meaning": "we, us",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "noster",
+    "latin": "noster",
+    "dictForm": "noster nostra, nostrum pron",
+    "pos": "pronoun",
+    "meaning": "our",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "notus",
+    "latin": "notus",
+    "dictForm": "notus nota, notum adj",
+    "pos": "adjective",
+    "meaning": "known, well-known, famous",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "novi",
+    "latin": "novi",
+    "dictForm": "novi notus (perfect with present meaning) verb 3",
+    "pos": "verb",
+    "meaning": "know",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "novus",
+    "latin": "novus",
+    "dictForm": "novus nova, novum adj",
+    "pos": "adjective",
+    "meaning": "new, fresh, recent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nox",
+    "latin": "nox",
+    "dictForm": "nox noctis, f noun 3",
+    "pos": "noun",
+    "meaning": "night",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nullus",
+    "latin": "nullus",
+    "dictForm": "nullus nulla, nullum adj",
+    "pos": "adjective",
+    "meaning": "no, none, not any",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "num",
+    "latin": "num",
+    "dictForm": "num indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "surely…not, whether",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "numerus",
+    "latin": "numerus",
+    "dictForm": "numerus numeri, m noun 2",
+    "pos": "noun",
+    "meaning": "number",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "numquam",
+    "latin": "numquam",
+    "dictForm": "numquam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "never",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nunc",
+    "latin": "nunc",
+    "dictForm": "nunc indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "now",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nuntio",
+    "latin": "nuntio",
+    "dictForm": "nuntio nuntiare, nuntiavi, nuntiatus verb 1",
+    "pos": "verb",
+    "meaning": "announce, report",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "nuntius",
+    "latin": "nuntius",
+    "dictForm": "nuntius nuntii, m noun 2",
+    "pos": "noun",
+    "meaning": "messenger, message, news",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ob",
+    "latin": "ob",
+    "dictForm": "ob + acc prep",
+    "pos": "preposition",
+    "meaning": "because of, on account of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "obliviscor",
+    "latin": "obliviscor",
+    "dictForm": "obliviscor oblivisci, oblitus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "forget",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "obses",
+    "latin": "obses",
+    "dictForm": "obses obsidis m and f noun 3",
+    "pos": "noun",
+    "meaning": "hostage",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "obsideo",
+    "latin": "obsideo",
+    "dictForm": "obsideo obsidere, obsedi, obsessus verb 2",
+    "pos": "verb",
+    "meaning": "besiege, blockade",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "obviam",
+    "latin": "obviam",
+    "dictForm": "obviam eo ire, i(v)i + dat verb phrase",
+    "pos": "verb",
+    "meaning": "meet, go to meet, oppose, resist",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "occasio",
+    "latin": "occasio",
+    "dictForm": "occasio occasionis, f noun 3",
+    "pos": "noun",
+    "meaning": "opportunity, occasion",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "occido",
+    "latin": "occido",
+    "dictForm": "occido occidere, occidi, occisus verb 3",
+    "pos": "verb",
+    "meaning": "kill",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "occupo",
+    "latin": "occupo",
+    "dictForm": "occupo occupare, occupavi, occupatus verb 1",
+    "pos": "verb",
+    "meaning": "seize, take possession of, occupy",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "oculus",
+    "latin": "oculus",
+    "dictForm": "oculus oculi, m noun 2",
+    "pos": "noun",
+    "meaning": "eye",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "odi",
+    "latin": "odi",
+    "dictForm": "odi odisse (perfect with present meaning) verb irreg",
+    "pos": "verb",
+    "meaning": "hate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "odium",
+    "latin": "odium",
+    "dictForm": "odium odii, n noun 2",
+    "pos": "noun",
+    "meaning": "hatred",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "offero",
+    "latin": "offero",
+    "dictForm": "offero offerre, obtuli, oblatus verb irreg",
+    "pos": "verb",
+    "meaning": "present, offer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "officium",
+    "latin": "officium",
+    "dictForm": "officium officii, n noun 2",
+    "pos": "noun",
+    "meaning": "duty, task, function",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "olim",
+    "latin": "olim",
+    "dictForm": "olim indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "once, formerly, one day",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "omitto",
+    "latin": "omitto",
+    "dictForm": "omitto omittere, omisi, omissus verb 3",
+    "pos": "verb",
+    "meaning": "neglect, disregard, make no mention of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "omnis",
+    "latin": "omnis",
+    "dictForm": "omnis omne adj",
+    "pos": "adjective",
+    "meaning": "all, every",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "omnino",
+    "latin": "omnino",
+    "dictForm": "omnino adverb",
+    "pos": "adverb",
+    "meaning": "altogether, at all, entirely",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "onus",
+    "latin": "onus",
+    "dictForm": "onus oneris, n noun 3",
+    "pos": "noun",
+    "meaning": "burden, load",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "opera",
+    "latin": "opera",
+    "dictForm": "opera operae, f noun 1",
+    "pos": "noun",
+    "meaning": "work, effort, attention, trouble",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "operam",
+    "latin": "operam",
+    "dictForm": "operam do verb phrase",
+    "pos": "verb",
+    "meaning": "I take pains, give attention (to)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "oportet",
+    "latin": "oportet",
+    "dictForm": "oportet oportere, oportuit verb 2 impersonal",
+    "pos": "verb",
+    "meaning": "be necessary, ought, must",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "oppidum",
+    "latin": "oppidum",
+    "dictForm": "oppidum oppidi, n noun 2",
+    "pos": "noun",
+    "meaning": "town",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "opprimo",
+    "latin": "opprimo",
+    "dictForm": "opprimo opprimere, oppressi, oppressus verb 3",
+    "pos": "verb",
+    "meaning": "overwhelm, crush, weigh down",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "oppugno",
+    "latin": "oppugno",
+    "dictForm": "oppugno oppugnare, oppugnavi, oppugnatus verb 1",
+    "pos": "verb",
+    "meaning": "attack",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ops",
+    "latin": "(ops)",
+    "dictForm": "(ops) opis, f noun 3",
+    "pos": "noun",
+    "meaning": "help; (pl) resources, riches",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "opus",
+    "latin": "opus",
+    "dictForm": "opus operis, n noun 3",
+    "pos": "noun",
+    "meaning": "work, toil, construction",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "opus_2",
+    "latin": "opus",
+    "dictForm": "opus est, esse, fuit + abl (impersonal) verb phrase",
+    "pos": "verb",
+    "meaning": "there is need (of)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ora",
+    "latin": "ora",
+    "dictForm": "ora orae, f noun 1",
+    "pos": "noun",
+    "meaning": "coast",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "oratio",
+    "latin": "oratio",
+    "dictForm": "oratio  orationis, f noun 3",
+    "pos": "noun",
+    "meaning": "speech",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "ordo",
+    "latin": "ordo",
+    "dictForm": "ordo ordinis, m noun 3",
+    "pos": "noun",
+    "meaning": "rank, order, line",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "orior",
+    "latin": "orior",
+    "dictForm": "orior oriri, ortus sum verb 4 dep",
+    "pos": "verb",
+    "meaning": "rise, start, originate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "orno",
+    "latin": "orno",
+    "dictForm": "orno ornare, ornavi, ornatus verb 1",
+    "pos": "verb",
+    "meaning": "adorn, decorate, provide, equip",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "oro",
+    "latin": "oro",
+    "dictForm": "oro orare, oravi, oratus verb 1",
+    "pos": "verb",
+    "meaning": "beg",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "os",
+    "latin": "os",
+    "dictForm": "os oris, n noun 3",
+    "pos": "noun",
+    "meaning": "mouth, face",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ostendo",
+    "latin": "ostendo",
+    "dictForm": "ostendo ostendere, ostendi, ostentus verb 3",
+    "pos": "verb",
+    "meaning": "show, point out, indicate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "otium",
+    "latin": "otium",
+    "dictForm": "otium otii, n noun 2",
+    "pos": "noun",
+    "meaning": "leisure, idleness, peace",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "paene",
+    "latin": "paene",
+    "dictForm": "paene indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "almost, nearly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "palam",
+    "latin": "palam",
+    "dictForm": "palam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "openly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "par",
+    "latin": "par",
+    "dictForm": "par paris adj",
+    "pos": "adjective",
+    "meaning": "equal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "parco",
+    "latin": "parco",
+    "dictForm": "parco parcere, peperci + dat verb 3",
+    "pos": "verb",
+    "meaning": "spare",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "parens",
+    "latin": "parens",
+    "dictForm": "parens parentis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "parent; (pl) relations",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "pareo",
+    "latin": "pareo",
+    "dictForm": "pareo parere, parui + dat verb 2",
+    "pos": "verb",
+    "meaning": "obey",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pario",
+    "latin": "pario",
+    "dictForm": "pario parere, peperi, partus verb 3",
+    "pos": "verb",
+    "meaning": "bear (a child), win, acquire, gain, secure",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "paro",
+    "latin": "paro",
+    "dictForm": "paro parare, paravi, paratus verb 1",
+    "pos": "verb",
+    "meaning": "prepare, provide",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pars",
+    "latin": "pars",
+    "dictForm": "pars partis, f noun 3",
+    "pos": "noun",
+    "meaning": "part, some, direction",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "parvus",
+    "latin": "parvus",
+    "dictForm": "parvus parva, parvum adj",
+    "pos": "adjective",
+    "meaning": "small",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "passim",
+    "latin": "passim",
+    "dictForm": "passim indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "in all directions, far and wide, everywhere",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "passus",
+    "latin": "passus",
+    "dictForm": "passus passus, m noun 4",
+    "pos": "noun",
+    "meaning": "pace",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pater",
+    "latin": "pater",
+    "dictForm": "pater patris, m noun 3",
+    "pos": "noun",
+    "meaning": "father",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "patior",
+    "latin": "patior",
+    "dictForm": "patior pati, passus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "suffer, endure, allow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "patria",
+    "latin": "patria",
+    "dictForm": "patria patriae, f noun 1",
+    "pos": "noun",
+    "meaning": "homeland, native land",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "pauci",
+    "latin": "pauci",
+    "dictForm": "pauci paucae, pauca adj plural",
+    "pos": "adjective",
+    "meaning": "few, a few",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "paulatim",
+    "latin": "paulatim",
+    "dictForm": "paulatim indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "gradually, little by little",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "paulisper",
+    "latin": "paulisper",
+    "dictForm": "paulisper indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "for a short time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "paulum",
+    "latin": "paulum,",
+    "dictForm": "paulum, paulo indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "a little, somewhat",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pauper",
+    "latin": "pauper",
+    "dictForm": "pauper pauperis adj",
+    "pos": "adjective",
+    "meaning": "poor",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pax",
+    "latin": "pax",
+    "dictForm": "pax pacis, f noun 3",
+    "pos": "noun",
+    "meaning": "peace",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "pecunia",
+    "latin": "pecunia",
+    "dictForm": "pecunia pecuniae, f noun 1",
+    "pos": "noun",
+    "meaning": "money",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pedes",
+    "latin": "pedes",
+    "dictForm": "pedes peditis, m noun 3",
+    "pos": "noun",
+    "meaning": "infantry",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "pello",
+    "latin": "pello",
+    "dictForm": "pello pellere, pepuli, pulsus verb 3",
+    "pos": "verb",
+    "meaning": "push, drive, rout",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "per",
+    "latin": "per",
+    "dictForm": "per + acc prep",
+    "pos": "preposition",
+    "meaning": "through, throughout, along",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "perdo",
+    "latin": "perdo",
+    "dictForm": "perdo perdere, perdidi, perditus verb 3",
+    "pos": "verb",
+    "meaning": "destroy, lose",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pereo",
+    "latin": "pereo",
+    "dictForm": "pereo perire, perii verb irreg",
+    "pos": "verb",
+    "meaning": "die, perish, be ruined",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "perficio",
+    "latin": "perficio",
+    "dictForm": "perficio perficere, perfeci, perfectus verb 3",
+    "pos": "verb",
+    "meaning": "bring about, complete, perfect",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "periculum",
+    "latin": "periculum",
+    "dictForm": "periculum periculi, n noun 2",
+    "pos": "noun",
+    "meaning": "danger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "peritus",
+    "latin": "peritus",
+    "dictForm": "peritus perita, peritum + gen or abl adj",
+    "pos": "adjective",
+    "meaning": "skilled (in)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "permitto",
+    "latin": "permitto",
+    "dictForm": "permitto permittere, permisi, permissus verb 3",
+    "pos": "verb",
+    "meaning": "hand over, entrust, permit, allow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "persuadeo",
+    "latin": "persuadeo",
+    "dictForm": "persuadeo persuadere, persuasi + dat verb 2",
+    "pos": "verb",
+    "meaning": "persuade, convince",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "perterritus",
+    "latin": "perterritus",
+    "dictForm": "perterritus perterrita, perterritum adj",
+    "pos": "adjective",
+    "meaning": "very frightened, terrified",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pervenio",
+    "latin": "pervenio",
+    "dictForm": "pervenio pervenire, perveni verb 4",
+    "pos": "verb",
+    "meaning": "reach, arrive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pes",
+    "latin": "pes",
+    "dictForm": "pes pedis, m noun 3",
+    "pos": "noun",
+    "meaning": "foot",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "peto",
+    "latin": "peto",
+    "dictForm": "peto petere, petivi, petitus verb 3",
+    "pos": "verb",
+    "meaning": "seek, ask for, make for, attack",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pilum",
+    "latin": "pilum",
+    "dictForm": "pilum pili, n noun 2",
+    "pos": "noun",
+    "meaning": "javelin",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "placet",
+    "latin": "placet",
+    "dictForm": "placet placere, placuit + dat verb 2 impersonal",
+    "pos": "verb",
+    "meaning": "it pleases, suits, it is resolved",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "plebs",
+    "latin": "plebs",
+    "dictForm": "plebs plebis, f noun 3",
+    "pos": "noun",
+    "meaning": "the people, common people",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "plenus",
+    "latin": "plenus",
+    "dictForm": "plenus plena, plenum adj",
+    "pos": "adjective",
+    "meaning": "full, filled",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "plerique",
+    "latin": "plerique",
+    "dictForm": "plerique pleraeque, pleraque adj",
+    "pos": "adjective",
+    "meaning": "most, the majority",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "poena",
+    "latin": "poena",
+    "dictForm": "poena poenae, f noun 1",
+    "pos": "noun",
+    "meaning": "punishment, penalty",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "polliceor",
+    "latin": "polliceor",
+    "dictForm": "polliceor polliceri, pollicitus sum verb 2 dep",
+    "pos": "verb",
+    "meaning": "promise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pono",
+    "latin": "pono",
+    "dictForm": "pono ponere, posui, positus verb 3",
+    "pos": "verb",
+    "meaning": "put, place, set up (camp)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pons",
+    "latin": "pons",
+    "dictForm": "pons pontis, m noun 3",
+    "pos": "noun",
+    "meaning": "bridge",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "populus",
+    "latin": "populus",
+    "dictForm": "populus populi, m noun 2",
+    "pos": "noun",
+    "meaning": "people, nation",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "porta",
+    "latin": "porta",
+    "dictForm": "porta portae, f noun 1",
+    "pos": "noun",
+    "meaning": "gate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "porto",
+    "latin": "porto",
+    "dictForm": "porto portare, portavi, portatus verb 1",
+    "pos": "verb",
+    "meaning": "carry, bear, take",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "portus",
+    "latin": "portus",
+    "dictForm": "portus portus, m noun 4",
+    "pos": "noun",
+    "meaning": "harbour, port",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "posco",
+    "latin": "posco",
+    "dictForm": "posco poscere, poposci verb 3",
+    "pos": "verb",
+    "meaning": "demand, ask for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "possum",
+    "latin": "possum",
+    "dictForm": "possum posse, potui verb irreg",
+    "pos": "verb",
+    "meaning": "can, be able",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "post",
+    "latin": "post",
+    "dictForm": "post + acc prep",
+    "pos": "preposition",
+    "meaning": "behind, after",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "post_2",
+    "latin": "post",
+    "dictForm": "post indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "afterwards, next",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "postea",
+    "latin": "postea",
+    "dictForm": "postea indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "afterwards, then",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "postquam",
+    "latin": "postquam",
+    "dictForm": "postquam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "after, when",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "postremus",
+    "latin": "postremus",
+    "dictForm": "postremus postrema, postremum adj",
+    "pos": "adjective",
+    "meaning": "last",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "postridie",
+    "latin": "postridie",
+    "dictForm": "postridie indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "on the next day",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "postulo",
+    "latin": "postulo",
+    "dictForm": "postulo postulare, postulavi, postulatus verb 1",
+    "pos": "verb",
+    "meaning": "demand, ask",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "potens",
+    "latin": "potens",
+    "dictForm": "potens potentis adj",
+    "pos": "adjective",
+    "meaning": "powerful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "potestas",
+    "latin": "potestas",
+    "dictForm": "potestas potestatis, f noun 3",
+    "pos": "noun",
+    "meaning": "power, authority, opportunity",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "potior",
+    "latin": "potior",
+    "dictForm": "potior potiri, potitus sum + gen or abl verb 4",
+    "pos": "verb",
+    "meaning": "seize, get possession of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "potius",
+    "latin": "potius",
+    "dictForm": "potius indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "rather, more",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "praebeo",
+    "latin": "praebeo",
+    "dictForm": "praebeo praebere, praebui, praebitus verb 2",
+    "pos": "verb",
+    "meaning": "provide, give, show, offer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "praeda",
+    "latin": "praeda",
+    "dictForm": "praeda praedae, f noun 1",
+    "pos": "noun",
+    "meaning": "booty, plunder",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "praemium",
+    "latin": "praemium",
+    "dictForm": "praemium praemii, n noun 2",
+    "pos": "noun",
+    "meaning": "prize, reward",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "praeficio",
+    "latin": "praeficio",
+    "dictForm": "praeficio praeficere, praefeci, praefectus verb 3",
+    "pos": "verb",
+    "meaning": "put in charge (of)",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "praesidium",
+    "latin": "praesidium",
+    "dictForm": "praesidium praesidii, n noun 2",
+    "pos": "noun",
+    "meaning": "protection, garrison, fortification",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "praesum",
+    "latin": "praesum",
+    "dictForm": "praesum praeesse, praefui + dat verb irreg",
+    "pos": "verb",
+    "meaning": "be in charge of",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "praeter",
+    "latin": "praeter",
+    "dictForm": "praeter + acc prep",
+    "pos": "preposition",
+    "meaning": "beyond, except, besides",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "praeterea",
+    "latin": "praeterea",
+    "dictForm": "praeterea indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "besides, moreover, in addition",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "praetor",
+    "latin": "praetor",
+    "dictForm": "praetor praetoris, m noun 3",
+    "pos": "noun",
+    "meaning": "praetor (acted as judge or governor)",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "precor",
+    "latin": "precor",
+    "dictForm": "precor precari, precatus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "pray, pray to, beg",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "pretium",
+    "latin": "pretium",
+    "dictForm": "pretium pretii, n noun 2",
+    "pos": "noun",
+    "meaning": "price, value",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "primus",
+    "latin": "primus",
+    "dictForm": "primus prima, primum adj",
+    "pos": "adjective",
+    "meaning": "first, chief",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "princeps",
+    "latin": "princeps",
+    "dictForm": "princeps principis, m noun 3",
+    "pos": "noun",
+    "meaning": "emperor, chief, chieftain",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "prior",
+    "latin": "prior",
+    "dictForm": "prior prioris adj",
+    "pos": "adjective",
+    "meaning": "previous, former",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "prius",
+    "latin": "prius",
+    "dictForm": "prius indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "before, previously",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "priusquam",
+    "latin": "priusquam",
+    "dictForm": "priusquam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "before, until",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pro",
+    "latin": "pro",
+    "dictForm": "pro + abl prep",
+    "pos": "preposition",
+    "meaning": "in front of, for, on behalf of, in return for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "procedo",
+    "latin": "procedo",
+    "dictForm": "procedo procedere, processi verb 3",
+    "pos": "verb",
+    "meaning": "advance, proceed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "procul",
+    "latin": "procul",
+    "dictForm": "procul indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "far away, distant",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "prodo",
+    "latin": "prodo",
+    "dictForm": "prodo prodere, prodidi, proditus verb 3",
+    "pos": "verb",
+    "meaning": "betray, surrender",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "proelium",
+    "latin": "proelium",
+    "dictForm": "proelium proelii, n noun 2",
+    "pos": "noun",
+    "meaning": "battle",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "proficiscor",
+    "latin": "proficiscor",
+    "dictForm": "proficiscor proficisci, profectus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "set out, depart",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "progredior",
+    "latin": "progredior",
+    "dictForm": "progredior progredi, progressus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "advance, proceed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "promitto",
+    "latin": "promitto",
+    "dictForm": "promitto promittere, promisi, promissus verb 3",
+    "pos": "verb",
+    "meaning": "promise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "prope",
+    "latin": "prope",
+    "dictForm": "prope + acc prep",
+    "pos": "preposition",
+    "meaning": "near",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "propter",
+    "latin": "propter",
+    "dictForm": "propter + acc prep",
+    "pos": "preposition",
+    "meaning": "on account of, because of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "provincia",
+    "latin": "provincia",
+    "dictForm": "provincia provinciae, f noun 1",
+    "pos": "noun",
+    "meaning": "province",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "proximus",
+    "latin": "proximus",
+    "dictForm": "proximus proxima, proximum adj",
+    "pos": "adjective",
+    "meaning": "nearest, next, last",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "publicus",
+    "latin": "publicus",
+    "dictForm": "publicus publica, publicum adj",
+    "pos": "adjective",
+    "meaning": "public, common",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "pudor",
+    "latin": "pudor",
+    "dictForm": "pudor pudoris, m noun 3",
+    "pos": "noun",
+    "meaning": "shame, modesty, honour, disgrace",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "puella",
+    "latin": "puella",
+    "dictForm": "puella puellae, f noun 1",
+    "pos": "noun",
+    "meaning": "girl",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "puer",
+    "latin": "puer",
+    "dictForm": "puer pueri, m noun 2",
+    "pos": "noun",
+    "meaning": "boy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "pugna",
+    "latin": "pugna",
+    "dictForm": "pugna pugnae, f noun 1",
+    "pos": "noun",
+    "meaning": "fight, battle",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "pugno",
+    "latin": "pugno",
+    "dictForm": "pugno pugnare, pugnavi verb 1",
+    "pos": "verb",
+    "meaning": "fight",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "punio",
+    "latin": "punio",
+    "dictForm": "punio punire, punivi, punitus verb 4",
+    "pos": "verb",
+    "meaning": "punish",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "puto",
+    "latin": "puto",
+    "dictForm": "puto putare, putavi, putatus verb 1",
+    "pos": "verb",
+    "meaning": "think, consider, reckon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quaero",
+    "latin": "quaero",
+    "dictForm": "quaero quaerere, quaesivi, quaesitus verb 3",
+    "pos": "verb",
+    "meaning": "search for, ask for, ask, inquire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "qualis",
+    "latin": "qualis?",
+    "dictForm": "qualis? quale adj",
+    "pos": "adjective",
+    "meaning": "what sort of?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quam",
+    "latin": "quam",
+    "dictForm": "quam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "how, than, as",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quamquam",
+    "latin": "quamquam",
+    "dictForm": "quamquam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "although",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quando",
+    "latin": "quando?",
+    "dictForm": "quando? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "when?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quantus",
+    "latin": "quantus?",
+    "dictForm": "quantus? quanta, quantum adj",
+    "pos": "adjective",
+    "meaning": "how big? how much?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quasi",
+    "latin": "quasi",
+    "dictForm": "quasi indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "as if, just as, nearly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "que",
+    "latin": "-que",
+    "dictForm": "-que indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "and",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "queror",
+    "latin": "queror",
+    "dictForm": "queror queri, questus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "complain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "qui",
+    "latin": "qui",
+    "dictForm": "qui quae, quod pron",
+    "pos": "pronoun",
+    "meaning": "who, which, that",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quia",
+    "latin": "quia",
+    "dictForm": "quia indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "because",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quidam",
+    "latin": "quidam",
+    "dictForm": "quidam quaedam, quoddam pron",
+    "pos": "pronoun",
+    "meaning": "one, a certain, some",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quidem",
+    "latin": "quidem",
+    "dictForm": "quidem indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "indeed, in fact, however",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ne_3",
+    "latin": "ne",
+    "dictForm": "ne ... quidem indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "not ... even",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quies",
+    "latin": "quies",
+    "dictForm": "quies quietis, f noun 3",
+    "pos": "noun",
+    "meaning": "rest, peace, quiet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quis",
+    "latin": "quis?",
+    "dictForm": "quis? quid pron",
+    "pos": "pronoun",
+    "meaning": "who? what? any",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quisquam",
+    "latin": "quisquam",
+    "dictForm": "quisquam quicquam pron",
+    "pos": "pronoun",
+    "meaning": "anyone, anything",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quisque",
+    "latin": "quisque",
+    "dictForm": "quisque quaeque, quidque pron",
+    "pos": "pronoun",
+    "meaning": "each, each one, every",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quisquis",
+    "latin": "quisquis",
+    "dictForm": "quisquis quicquid pron",
+    "pos": "pronoun",
+    "meaning": "whoever, whatever",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quo",
+    "latin": "quo?",
+    "dictForm": "quo? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "where to?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quoad",
+    "latin": "quoad",
+    "dictForm": "quoad indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "as long as, until",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quod",
+    "latin": "quod",
+    "dictForm": "quod indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "because, (as to) the fact that",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quomodo",
+    "latin": "quomodo?",
+    "dictForm": "quomodo? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "how? in what way?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quoniam",
+    "latin": "quoniam",
+    "dictForm": "quoniam indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "since",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quoque",
+    "latin": "quoque",
+    "dictForm": "quoque indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "also, too",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quot",
+    "latin": "quot?",
+    "dictForm": "quot? indeclinable adj",
+    "pos": "adjective",
+    "meaning": "how many?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "quotiens",
+    "latin": "quotiens?",
+    "dictForm": "quotiens? indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "how often? as often as",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rapio",
+    "latin": "rapio",
+    "dictForm": "rapio rapere, rapui, raptus verb 3",
+    "pos": "verb",
+    "meaning": "seize, grab, carry off, plunder",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "ratio",
+    "latin": "ratio",
+    "dictForm": "ratio rationis, f noun 3",
+    "pos": "noun",
+    "meaning": "account, reckoning, manner, reason",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "recens",
+    "latin": "recens",
+    "dictForm": "recens recentis adj",
+    "pos": "adjective",
+    "meaning": "recent, fresh",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "recipio",
+    "latin": "recipio",
+    "dictForm": "recipio recipere, recepi, receptus verb 3",
+    "pos": "verb",
+    "meaning": "regain, receive, welcome",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "me",
+    "latin": "me",
+    "dictForm": "me recipio verb phrase",
+    "pos": "verb",
+    "meaning": "retreat, withdraw",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "recito",
+    "latin": "recito",
+    "dictForm": "recito recitare, recitavi, recitatus verb 1",
+    "pos": "verb",
+    "meaning": "recite, read aloud",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rectus",
+    "latin": "rectus",
+    "dictForm": "rectus recta, rectum adj",
+    "pos": "adjective",
+    "meaning": "straight, direct, right, proper",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "reddo",
+    "latin": "reddo",
+    "dictForm": "reddo reddere, reddidi, redditus verb 3",
+    "pos": "verb",
+    "meaning": "give back, restore, hand over, make",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "redeo",
+    "latin": "redeo",
+    "dictForm": "redeo redire, redii verb irreg",
+    "pos": "verb",
+    "meaning": "return, go back, come back",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "refero",
+    "latin": "refero",
+    "dictForm": "refero referre, rettuli, relatus verb irreg",
+    "pos": "verb",
+    "meaning": "bring back, report, refer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "reficio",
+    "latin": "reficio",
+    "dictForm": "reficio reficere, refeci, refectus verb 3",
+    "pos": "verb",
+    "meaning": "repair, restore, refresh",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "regina",
+    "latin": "regina",
+    "dictForm": "regina reginae, f noun 1",
+    "pos": "noun",
+    "meaning": "queen",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "regnum",
+    "latin": "regnum",
+    "dictForm": "regnum regni, n noun 2",
+    "pos": "noun",
+    "meaning": "kingdom, reign, rule",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "rego",
+    "latin": "rego",
+    "dictForm": "rego regere, rexi, rectus verb 3",
+    "pos": "verb",
+    "meaning": "rule, direct",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "regredior",
+    "latin": "regredior",
+    "dictForm": "regredior regredi, regressus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "go back, return",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "relinquo",
+    "latin": "relinquo",
+    "dictForm": "relinquo relinquere, reliqui, relictus verb 3",
+    "pos": "verb",
+    "meaning": "leave, leave behind, abandon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "reliquus",
+    "latin": "reliquus",
+    "dictForm": "reliquus reliqua, reliquum adj",
+    "pos": "adjective",
+    "meaning": "the rest of, the other",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "repente",
+    "latin": "repente",
+    "dictForm": "repente indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "suddenly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "res",
+    "latin": "res",
+    "dictForm": "res rei, f noun 5",
+    "pos": "noun",
+    "meaning": "thing, affair, matter, business",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "res_2",
+    "latin": "res",
+    "dictForm": "res publica rei publicae, f noun phrase",
+    "pos": "noun",
+    "meaning": "state, republic",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "resisto",
+    "latin": "resisto",
+    "dictForm": "resisto resistere, restiti + dat verb 3",
+    "pos": "verb",
+    "meaning": "resist, oppose",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "respondeo",
+    "latin": "respondeo",
+    "dictForm": "respondeo respondere, respondi, responsus verb 2",
+    "pos": "verb",
+    "meaning": "answer, reply",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "responsum",
+    "latin": "responsum",
+    "dictForm": "responsum responsi, n noun 2",
+    "pos": "noun",
+    "meaning": "answer, reply",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "retineo",
+    "latin": "retineo",
+    "dictForm": "retineo retinere, retinui, retentus verb 2",
+    "pos": "verb",
+    "meaning": "hold back, restrain, keep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rex",
+    "latin": "rex",
+    "dictForm": "rex regis, m noun 3",
+    "pos": "noun",
+    "meaning": "king",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "ripa",
+    "latin": "ripa",
+    "dictForm": "ripa ripae, f noun 1",
+    "pos": "noun",
+    "meaning": "bank",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rogo",
+    "latin": "rogo",
+    "dictForm": "rogo rogare, rogavi, rogatus verb 1",
+    "pos": "verb",
+    "meaning": "ask, ask for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rumpo",
+    "latin": "rumpo",
+    "dictForm": "rumpo rumpere, rupi, ruptus verb 3",
+    "pos": "verb",
+    "meaning": "break, burst, break through",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rursus",
+    "latin": "rursus",
+    "dictForm": "rursus indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "back, again",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "rus",
+    "latin": "rus",
+    "dictForm": "rus ruris, n noun 3",
+    "pos": "noun",
+    "meaning": "country, countryside",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sacerdos",
+    "latin": "sacerdos",
+    "dictForm": "sacerdos sacerdotis, m and f noun 3",
+    "pos": "noun",
+    "meaning": "priest, priestess",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "saepe",
+    "latin": "saepe",
+    "dictForm": "saepe indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "often",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "saevus",
+    "latin": "saevus",
+    "dictForm": "saevus saeva, saevum adj",
+    "pos": "adjective",
+    "meaning": "savage, cruel",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "salus",
+    "latin": "salus",
+    "dictForm": "salus salutis, f noun 3",
+    "pos": "noun",
+    "meaning": "health, safety, greeting",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "saluto",
+    "latin": "saluto",
+    "dictForm": "saluto salutare, salutavi, salutatus verb 1",
+    "pos": "verb",
+    "meaning": "greet, salute",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sanguis",
+    "latin": "sanguis",
+    "dictForm": "sanguis sanguinis, m noun 3",
+    "pos": "noun",
+    "meaning": "blood",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sapiens",
+    "latin": "sapiens",
+    "dictForm": "sapiens sapientis adj",
+    "pos": "adjective",
+    "meaning": "wise, sensible",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sapientia",
+    "latin": "sapientia",
+    "dictForm": "sapientia sapientiae, f noun 1",
+    "pos": "noun",
+    "meaning": "wisdom, good sense",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "satis",
+    "latin": "satis",
+    "dictForm": "satis indeclinable adj",
+    "pos": "adjective",
+    "meaning": "enough",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "scelus",
+    "latin": "scelus",
+    "dictForm": "scelus sceleris, n noun 3",
+    "pos": "noun",
+    "meaning": "crime, wickedness",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "scio",
+    "latin": "scio",
+    "dictForm": "scio scire, scivi, scitus verb 4",
+    "pos": "verb",
+    "meaning": "know",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "scribo",
+    "latin": "scribo",
+    "dictForm": "scribo scribere, scripsi, scriptus verb 3",
+    "pos": "verb",
+    "meaning": "write",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "scutum",
+    "latin": "scutum",
+    "dictForm": "scutum scuti, n noun 2",
+    "pos": "noun",
+    "meaning": "shield",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "se",
+    "latin": "se",
+    "dictForm": "se sui pron",
+    "pos": "pronoun",
+    "meaning": "himself, herself, itself, themselves",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "secundus",
+    "latin": "secundus",
+    "dictForm": "secundus secunda, secundum adj",
+    "pos": "adjective",
+    "meaning": "following, next, second, favourable",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sed",
+    "latin": "sed",
+    "dictForm": "sed indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "but",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sedes",
+    "latin": "sedes",
+    "dictForm": "sedes sedis, f noun 3",
+    "pos": "noun",
+    "meaning": "seat, temple, home",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "semel",
+    "latin": "semel",
+    "dictForm": "semel indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "once",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "semper",
+    "latin": "semper",
+    "dictForm": "semper indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "always",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "senator",
+    "latin": "senator",
+    "dictForm": "senator senatoris, m noun 3",
+    "pos": "noun",
+    "meaning": "senator",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "senatus",
+    "latin": "senatus",
+    "dictForm": "senatus senatus, m noun 4",
+    "pos": "noun",
+    "meaning": "senate",
+    "theme": "political",
+    "pairEligible": true
+  },
+  {
+    "id": "senex",
+    "latin": "senex",
+    "dictForm": "senex senis, m noun 3",
+    "pos": "noun",
+    "meaning": "old man",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sententia",
+    "latin": "sententia",
+    "dictForm": "sententia sententiae, f noun 1",
+    "pos": "noun",
+    "meaning": "opinion, judgement, sentence",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "sentio",
+    "latin": "sentio",
+    "dictForm": "sentio sentire, sensi, sensus verb 4",
+    "pos": "verb",
+    "meaning": "feel, notice, hear, judge",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sequor",
+    "latin": "sequor",
+    "dictForm": "sequor sequi, secutus sum verb 3 dep",
+    "pos": "verb",
+    "meaning": "follow, pursue, attend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "servo",
+    "latin": "servo",
+    "dictForm": "servo servare, servavi, servatus verb 1",
+    "pos": "verb",
+    "meaning": "save, protect, keep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "servus",
+    "latin": "servus",
+    "dictForm": "servus servi, m noun 2",
+    "pos": "noun",
+    "meaning": "slave",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "si",
+    "latin": "si",
+    "dictForm": "si indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "if",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sic",
+    "latin": "sic",
+    "dictForm": "sic indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "thus, in this way",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sicut",
+    "latin": "sicut",
+    "dictForm": "sicut indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "just as, like, as, as if",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "signum",
+    "latin": "signum",
+    "dictForm": "signum signi, n noun 2",
+    "pos": "noun",
+    "meaning": "sign, signal, standard",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "silentium",
+    "latin": "silentium",
+    "dictForm": "silentium silentii, n noun 2",
+    "pos": "noun",
+    "meaning": "silence",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "silva",
+    "latin": "silva",
+    "dictForm": "silva silvae, f noun 1",
+    "pos": "noun",
+    "meaning": "wood, forest",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "similis",
+    "latin": "similis",
+    "dictForm": "similis simile adj",
+    "pos": "adjective",
+    "meaning": "similar, like",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "simul",
+    "latin": "simul",
+    "dictForm": "simul indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "at the same time, together",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "simulac",
+    "latin": "simulac,",
+    "dictForm": "simulac, (simulatque) indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "as soon as",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sine",
+    "latin": "sine",
+    "dictForm": "sine + abl prep",
+    "pos": "preposition",
+    "meaning": "without",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sinister",
+    "latin": "sinister",
+    "dictForm": "sinister sinistra, sinistrum adj",
+    "pos": "adjective",
+    "meaning": "left, on the left, unfavourable",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sinistra",
+    "latin": "sinistra",
+    "dictForm": "sinistra sinistrae, f noun 1",
+    "pos": "noun",
+    "meaning": "left hand, left side",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sino",
+    "latin": "sino",
+    "dictForm": "sino sinere, sivi, situs verb 3",
+    "pos": "verb",
+    "meaning": "allow, permit",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sive",
+    "latin": "sive,",
+    "dictForm": "sive, seu indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "or if, whether",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "socius",
+    "latin": "socius",
+    "dictForm": "socius socii, m noun 2",
+    "pos": "noun",
+    "meaning": "ally, comrade, companion",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "sol",
+    "latin": "sol",
+    "dictForm": "sol solis, m noun 3",
+    "pos": "noun",
+    "meaning": "sun, sunlight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "soleo",
+    "latin": "soleo",
+    "dictForm": "soleo solere, solitus sum verb 2 semidep",
+    "pos": "verb",
+    "meaning": "be accustomed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "solum",
+    "latin": "solum",
+    "dictForm": "solum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "only",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "solus",
+    "latin": "solus",
+    "dictForm": "solus sola, solum adj",
+    "pos": "adjective",
+    "meaning": "alone, only, lonely, single",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "solvo",
+    "latin": "solvo",
+    "dictForm": "solvo solvere, solvi, solutus verb 3",
+    "pos": "verb",
+    "meaning": "loose, pay",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "somnus",
+    "latin": "somnus",
+    "dictForm": "somnus somni, m noun 2",
+    "pos": "noun",
+    "meaning": "sleep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sonus",
+    "latin": "sonus",
+    "dictForm": "sonus soni, m noun 2",
+    "pos": "noun",
+    "meaning": "noise, sound",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "soror",
+    "latin": "soror",
+    "dictForm": "soror sororis, f noun 3",
+    "pos": "noun",
+    "meaning": "sister",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "spatium",
+    "latin": "spatium",
+    "dictForm": "spatium spatii, n noun 2",
+    "pos": "noun",
+    "meaning": "interval, space, distance",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "specto",
+    "latin": "specto",
+    "dictForm": "specto spectare, spectavi, spectatus verb 1",
+    "pos": "verb",
+    "meaning": "look at, watch",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sperno",
+    "latin": "sperno",
+    "dictForm": "sperno spernere, sprevi, spretus verb 3",
+    "pos": "verb",
+    "meaning": "despise, reject, scorn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "spero",
+    "latin": "spero",
+    "dictForm": "spero sperare, speravi, speratus verb 1",
+    "pos": "verb",
+    "meaning": "hope, expect",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "spes",
+    "latin": "spes",
+    "dictForm": "spes spei, f noun 5",
+    "pos": "noun",
+    "meaning": "hope",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "spolium",
+    "latin": "spolium",
+    "dictForm": "spolium spolii, n noun 2",
+    "pos": "noun",
+    "meaning": "booty, spoil(s)",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "statim",
+    "latin": "statim",
+    "dictForm": "statim indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "at once, immediately",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "statuo",
+    "latin": "statuo",
+    "dictForm": "statuo statuere, statui, statutus verb 3",
+    "pos": "verb",
+    "meaning": "fix, determine, decide, arrange",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sto",
+    "latin": "sto",
+    "dictForm": "sto stare, steti verb 1",
+    "pos": "verb",
+    "meaning": "stand, stand firm",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "studium",
+    "latin": "studium",
+    "dictForm": "studium studii, n noun 2",
+    "pos": "noun",
+    "meaning": "eagerness, study, devotion",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "stultus",
+    "latin": "stultus",
+    "dictForm": "stultus stulta, stultum adj",
+    "pos": "adjective",
+    "meaning": "stupid, foolish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sub",
+    "latin": "sub",
+    "dictForm": "sub + abl or + acc prep",
+    "pos": "preposition",
+    "meaning": "under, beneath; up to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "subito",
+    "latin": "subito",
+    "dictForm": "subito indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "suddenly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sum",
+    "latin": "sum",
+    "dictForm": "sum esse, fui verb irreg",
+    "pos": "verb",
+    "meaning": "be",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "summus",
+    "latin": "summus",
+    "dictForm": "summus summa, summum adj",
+    "pos": "adjective",
+    "meaning": "highest, greatest, top (of)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "sumo",
+    "latin": "sumo",
+    "dictForm": "sumo sumere, sumpsi, sumptus verb 3",
+    "pos": "verb",
+    "meaning": "take, take up",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "supero",
+    "latin": "supero",
+    "dictForm": "supero superare, superavi, superatus verb 1",
+    "pos": "verb",
+    "meaning": "overcome, overpower",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "supersum",
+    "latin": "supersum",
+    "dictForm": "supersum superesse, superfui verb irreg",
+    "pos": "verb",
+    "meaning": "be left, remain, survive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "superus",
+    "latin": "superus",
+    "dictForm": "superus supera, superum adj",
+    "pos": "adjective",
+    "meaning": "upper, higher",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "surgo",
+    "latin": "surgo",
+    "dictForm": "surgo surgere, surrexi verb 3",
+    "pos": "verb",
+    "meaning": "get up, stand up, rise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "suscipio",
+    "latin": "suscipio",
+    "dictForm": "suscipio suscipere, suscepi, susceptus verb 3",
+    "pos": "verb",
+    "meaning": "take up, undertake, begin, bear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "suspicor",
+    "latin": "suspicor",
+    "dictForm": "suspicor suspicari, suspicatus sum verb 1 dep",
+    "pos": "verb",
+    "meaning": "mistrust, suspect",
+    "theme": "legal",
+    "pairEligible": true
+  },
+  {
+    "id": "suus",
+    "latin": "suus",
+    "dictForm": "suus sua, suum pron",
+    "pos": "pronoun",
+    "meaning": "his (own), her (own), its (own), their (own)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "taberna",
+    "latin": "taberna",
+    "dictForm": "taberna tabernae, f noun 1",
+    "pos": "noun",
+    "meaning": "shop, inn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tacitus",
+    "latin": "tacitus",
+    "dictForm": "tacitus tacita, tacitum adj",
+    "pos": "adjective",
+    "meaning": "quiet, silent, in silence",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "talis",
+    "latin": "talis",
+    "dictForm": "talis tale adj",
+    "pos": "adjective",
+    "meaning": "such",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tam",
+    "latin": "tam",
+    "dictForm": "tam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "so",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tamen",
+    "latin": "tamen",
+    "dictForm": "tamen indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "however, nevertheless, yet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tandem",
+    "latin": "tandem",
+    "dictForm": "tandem indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "at last, finally",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tango",
+    "latin": "tango",
+    "dictForm": "tango tangere, tetigi, tactus verb 3",
+    "pos": "verb",
+    "meaning": "touch",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tantum",
+    "latin": "tantum",
+    "dictForm": "tantum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "only",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tantus",
+    "latin": "tantus",
+    "dictForm": "tantus tanta, tantum adj",
+    "pos": "adjective",
+    "meaning": "so great, such a great, so much",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tectum",
+    "latin": "tectum",
+    "dictForm": "tectum tecti, n noun 2",
+    "pos": "noun",
+    "meaning": "roof, house",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tego",
+    "latin": "tego",
+    "dictForm": "tego tegere, texi, tectus verb 3",
+    "pos": "verb",
+    "meaning": "cover, protect, hide",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "telum",
+    "latin": "telum",
+    "dictForm": "telum teli, n noun 2",
+    "pos": "noun",
+    "meaning": "weapon, javelin, missile",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "tempestas",
+    "latin": "tempestas",
+    "dictForm": "tempestas tempestatis, f noun 3",
+    "pos": "noun",
+    "meaning": "weather, storm, time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "templum",
+    "latin": "templum",
+    "dictForm": "templum templi, n noun 2",
+    "pos": "noun",
+    "meaning": "temple",
+    "theme": "religious",
+    "pairEligible": true
+  },
+  {
+    "id": "tempus",
+    "latin": "tempus",
+    "dictForm": "tempus temporis, n noun 3",
+    "pos": "noun",
+    "meaning": "time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "teneo",
+    "latin": "teneo",
+    "dictForm": "teneo tenere, tenui, tentus verb 2",
+    "pos": "verb",
+    "meaning": "hold, keep, maintain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tergum",
+    "latin": "tergum",
+    "dictForm": "tergum tergi, n noun 2",
+    "pos": "noun",
+    "meaning": "back, rear",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "terra",
+    "latin": "terra",
+    "dictForm": "terra terrae, f noun 1",
+    "pos": "noun",
+    "meaning": "ground, land, earth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "terreo",
+    "latin": "terreo",
+    "dictForm": "terreo terrere, terrui, territus verb 2",
+    "pos": "verb",
+    "meaning": "frighten",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "terror",
+    "latin": "terror",
+    "dictForm": "terror terroris, m noun 3",
+    "pos": "noun",
+    "meaning": "terror, panic",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "timeo",
+    "latin": "timeo",
+    "dictForm": "timeo timere, timui verb 2",
+    "pos": "verb",
+    "meaning": "fear, be afraid",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "timor",
+    "latin": "timor",
+    "dictForm": "timor timoris, m noun 3",
+    "pos": "noun",
+    "meaning": "fear, anxiety",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tollo",
+    "latin": "tollo",
+    "dictForm": "tollo tollere, sustuli, sublatus verb 3",
+    "pos": "verb",
+    "meaning": "raise, lift up, remove, destroy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tot",
+    "latin": "tot",
+    "dictForm": "tot indeclinable adj",
+    "pos": "adjective",
+    "meaning": "so many",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "totus",
+    "latin": "totus",
+    "dictForm": "totus tota, totum adj",
+    "pos": "adjective",
+    "meaning": "the whole, entire, all",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "trado",
+    "latin": "trado",
+    "dictForm": "trado tradere, tradidi, traditus verb 3",
+    "pos": "verb",
+    "meaning": "hand over, entrust, hand down, surrender",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "traho",
+    "latin": "traho",
+    "dictForm": "traho trahere, traxi, tractus verb 3",
+    "pos": "verb",
+    "meaning": "pull, drag, draw",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "trans",
+    "latin": "trans",
+    "dictForm": "trans + acc prep",
+    "pos": "preposition",
+    "meaning": "across, over",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tristis",
+    "latin": "tristis",
+    "dictForm": "tristis triste adj",
+    "pos": "adjective",
+    "meaning": "sad, gloomy, grim",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tu",
+    "latin": "tu",
+    "dictForm": "tu tui pron",
+    "pos": "pronoun",
+    "meaning": "you (singular)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tum",
+    "latin": "tum",
+    "dictForm": "tum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "then, next",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tumultus",
+    "latin": "tumultus",
+    "dictForm": "tumultus tumultus, m noun 4",
+    "pos": "noun",
+    "meaning": "uproar, disturbance, civil war",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "turba",
+    "latin": "turba",
+    "dictForm": "turba turbae, f noun 1",
+    "pos": "noun",
+    "meaning": "crowd, mob, disturbance, multitude",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "tutus",
+    "latin": "tutus",
+    "dictForm": "tutus tuta, tutum adj",
+    "pos": "adjective",
+    "meaning": "safe",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "tuus",
+    "latin": "tuus",
+    "dictForm": "tuus tua, tuum pron",
+    "pos": "pronoun",
+    "meaning": "your (singular)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ubi",
+    "latin": "ubi",
+    "dictForm": "ubi indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "where? where, when",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ubique",
+    "latin": "ubique",
+    "dictForm": "ubique indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "everywhere",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ullus",
+    "latin": "ullus",
+    "dictForm": "ullus ulla, ullum adj",
+    "pos": "adjective",
+    "meaning": "any",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ultimus",
+    "latin": "ultimus",
+    "dictForm": "ultimus ultima, ultimum adj",
+    "pos": "adjective",
+    "meaning": "furthest, last, utmost",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "umquam",
+    "latin": "umquam",
+    "dictForm": "umquam indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "ever",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "una",
+    "latin": "una",
+    "dictForm": "una indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "together",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "unda",
+    "latin": "unda",
+    "dictForm": "unda undae, f noun 1",
+    "pos": "noun",
+    "meaning": "wave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "unde",
+    "latin": "unde",
+    "dictForm": "unde indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "from where, whence",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "undique",
+    "latin": "undique",
+    "dictForm": "undique indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "from all sides, on all sides",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "urbs",
+    "latin": "urbs",
+    "dictForm": "urbs urbis, f noun 3",
+    "pos": "noun",
+    "meaning": "city, town, Rome",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "usque",
+    "latin": "usque",
+    "dictForm": "usque indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "all the way, right up to, continuously",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "usus",
+    "latin": "usus",
+    "dictForm": "usus usus, m noun 4",
+    "pos": "noun",
+    "meaning": "use, experience, practice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ut",
+    "latin": "ut",
+    "dictForm": "ut indeclinable + indic. conjunction",
+    "pos": "conjunction",
+    "meaning": "as, where, when, how",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ut_2",
+    "latin": "ut",
+    "dictForm": "ut indeclinable + subjunc. conjunction",
+    "pos": "conjunction",
+    "meaning": "that, so that, to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "uter",
+    "latin": "uter?",
+    "dictForm": "uter? utra, utrum pron",
+    "pos": "pronoun",
+    "meaning": "which (of two)?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "uterque",
+    "latin": "uterque",
+    "dictForm": "uterque utraque, utrumque pron",
+    "pos": "pronoun",
+    "meaning": "each (of two), both",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "utrum",
+    "latin": "utrum",
+    "dictForm": "utrum indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "whether",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "utor",
+    "latin": "utor",
+    "dictForm": "utor uti, usus sum + abl verb 3 dep",
+    "pos": "verb",
+    "meaning": "use, enjoy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "uxor",
+    "latin": "uxor",
+    "dictForm": "uxor uxoris, f noun 3",
+    "pos": "noun",
+    "meaning": "wife",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "valeo",
+    "latin": "valeo",
+    "dictForm": "valeo valere, valui verb 2",
+    "pos": "verb",
+    "meaning": "be strong, have influence",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "validus",
+    "latin": "validus",
+    "dictForm": "validus valida, validum adj",
+    "pos": "adjective",
+    "meaning": "strong, powerful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ve",
+    "latin": "-ve",
+    "dictForm": "-ve indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "or",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vehementer",
+    "latin": "vehementer",
+    "dictForm": "vehementer indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "violently, loudly, strongly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "veho",
+    "latin": "veho",
+    "dictForm": "veho vehere, vexi, vectus verb 3",
+    "pos": "verb",
+    "meaning": "carry, bear, convey",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vel",
+    "latin": "vel",
+    "dictForm": "vel indeclinable conjunction",
+    "pos": "conjunction",
+    "meaning": "or, either",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "velut",
+    "latin": "velut",
+    "dictForm": "velut indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "just as, like, as, as if",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "venio",
+    "latin": "venio",
+    "dictForm": "venio venire, veni verb 4",
+    "pos": "verb",
+    "meaning": "come",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ventus",
+    "latin": "ventus",
+    "dictForm": "ventus venti, m noun 2",
+    "pos": "noun",
+    "meaning": "wind",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "verbum",
+    "latin": "verbum",
+    "dictForm": "verbum verbi, n noun 2",
+    "pos": "noun",
+    "meaning": "word",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vereor",
+    "latin": "vereor",
+    "dictForm": "vereor vereri, veritus sum verb 2 dep",
+    "pos": "verb",
+    "meaning": "fear, be afraid",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vero",
+    "latin": "vero",
+    "dictForm": "vero indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "indeed, in fact, however",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "verto",
+    "latin": "verto",
+    "dictForm": "verto vertere, verti, versus verb 3",
+    "pos": "verb",
+    "meaning": "turn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "verus",
+    "latin": "verus",
+    "dictForm": "verus vera, verum adj",
+    "pos": "adjective",
+    "meaning": "true, real",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vesper",
+    "latin": "vesper",
+    "dictForm": "vesper vesperis or vesperi, m noun 3 or 2",
+    "pos": "noun",
+    "meaning": "evening",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vester",
+    "latin": "vester",
+    "dictForm": "vester vestra, vestrum pron",
+    "pos": "pronoun",
+    "meaning": "your (pl)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vestis",
+    "latin": "vestis",
+    "dictForm": "vestis vestis, f noun 3",
+    "pos": "noun",
+    "meaning": "clothes",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "veto",
+    "latin": "veto",
+    "dictForm": "veto vetare, vetui, vetitus verb 1",
+    "pos": "verb",
+    "meaning": "forbid, order…not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vetus",
+    "latin": "vetus",
+    "dictForm": "vetus veteris adj",
+    "pos": "adjective",
+    "meaning": "old",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "via",
+    "latin": "via",
+    "dictForm": "via viae, f noun 1",
+    "pos": "noun",
+    "meaning": "street, road, way, path",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "victor",
+    "latin": "victor",
+    "dictForm": "victor victoris, m noun 3",
+    "pos": "noun",
+    "meaning": "victor, conqueror",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "victoria",
+    "latin": "victoria",
+    "dictForm": "victoria victoriae, f noun 1",
+    "pos": "noun",
+    "meaning": "victory",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "video",
+    "latin": "video",
+    "dictForm": "video videre, vidi, visus verb 2",
+    "pos": "verb",
+    "meaning": "see",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "videor",
+    "latin": "videor",
+    "dictForm": "videor videri, visus sum verb 2 dep",
+    "pos": "verb",
+    "meaning": "seem, appear, be seen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "villa",
+    "latin": "villa",
+    "dictForm": "villa villae, f noun 1",
+    "pos": "noun",
+    "meaning": "country-house, estate, farm",
+    "theme": "domestic",
+    "pairEligible": true
+  },
+  {
+    "id": "vinco",
+    "latin": "vinco",
+    "dictForm": "vinco vincere, vici, victus verb 3",
+    "pos": "verb",
+    "meaning": "conquer, defeat, win, be victorious",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "vir",
+    "latin": "vir",
+    "dictForm": "vir viri, m noun 2",
+    "pos": "noun",
+    "meaning": "man, husband",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "virtus",
+    "latin": "virtus",
+    "dictForm": "virtus virtutis, f noun 3",
+    "pos": "noun",
+    "meaning": "courage, virtue",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "vis",
+    "latin": "vis",
+    "dictForm": "vis pl vires, f noun irreg",
+    "pos": "noun",
+    "meaning": "force, violence; (pl) strength, forces",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "vita",
+    "latin": "vita",
+    "dictForm": "vita vitae, f noun 1",
+    "pos": "noun",
+    "meaning": "life",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vito",
+    "latin": "vito",
+    "dictForm": "vito vitare, vitavi, vitatus verb 1",
+    "pos": "verb",
+    "meaning": "avoid",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vivo",
+    "latin": "vivo",
+    "dictForm": "vivo vivere, vixi verb 3",
+    "pos": "verb",
+    "meaning": "live, be alive, (+ abl) live on",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vivus",
+    "latin": "vivus",
+    "dictForm": "vivus viva, vivum adj",
+    "pos": "adjective",
+    "meaning": "alive, living",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vix",
+    "latin": "vix",
+    "dictForm": "vix indeclinable adverb",
+    "pos": "adverb",
+    "meaning": "hardly, scarcely, with difficulty",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "voco",
+    "latin": "voco",
+    "dictForm": "voco vocare, vocavi, vocatus verb 1",
+    "pos": "verb",
+    "meaning": "call, summon, invite, name",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "volo",
+    "latin": "volo",
+    "dictForm": "volo velle, volui verb irreg",
+    "pos": "verb",
+    "meaning": "want, wish, be willing, intend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vos",
+    "latin": "vos",
+    "dictForm": "vos vestrum / vestri pron",
+    "pos": "pronoun",
+    "meaning": "you (plural)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vox",
+    "latin": "vox",
+    "dictForm": "vox vocis, f noun 3",
+    "pos": "noun",
+    "meaning": "voice, shout, word",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "vulnero",
+    "latin": "vulnero",
+    "dictForm": "vulnero vulnerare, vulneravi, vulneratus verb 1",
+    "pos": "verb",
+    "meaning": "wound, injure",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "vulnus",
+    "latin": "vulnus",
+    "dictForm": "vulnus vulneris, n noun 3",
+    "pos": "noun",
+    "meaning": "wound, injury",
+    "theme": "military",
+    "pairEligible": true
+  },
+  {
+    "id": "vultus",
+    "latin": "vultus",
+    "dictForm": "vultus vultus, m noun 4",
+    "pos": "noun",
+    "meaning": "face, expression",
+    "theme": "general",
+    "pairEligible": true
+  }
+]

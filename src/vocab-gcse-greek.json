@@ -1,0 +1,4484 @@
+[
+  {
+    "id": "γαθς",
+    "latin": "ἀγαθός",
+    "dictForm": "ἀγαθός, ἀγαθή, ἀγαθόν",
+    "pos": "other",
+    "meaning": "good",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γγλλω",
+    "latin": "ἀγγέλλω",
+    "dictForm": "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἠγγέλθην",
+    "pos": "verb",
+    "meaning": "I announce",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γγελος",
+    "latin": "ἄγγελος",
+    "dictForm": "ἄγγελος, ἀγγέλου, ὁ",
+    "pos": "other",
+    "meaning": "messenger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γορ",
+    "latin": "ἀγορά",
+    "dictForm": "ἀγορά, ἀγορᾶς, ἡ",
+    "pos": "other",
+    "meaning": "market-place",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρς",
+    "latin": "ἀγρός",
+    "dictForm": "ἀγρός, ἀγροῦ, ὁ",
+    "pos": "other",
+    "meaning": "field, countryside",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γω",
+    "latin": "ἄγω",
+    "dictForm": "ἄγω, ἄξω, ἤγαγον, ἤχθην",
+    "pos": "verb",
+    "meaning": "I lead, bring",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γν",
+    "latin": "ἀγών",
+    "dictForm": "ἀγών, ἀγῶνος, ὁ",
+    "pos": "other",
+    "meaning": "contest, trial",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δικω",
+    "latin": "ἀδικέω",
+    "dictForm": "ἀδικέω",
+    "pos": "verb",
+    "meaning": "I do wrong, injure",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δικος",
+    "latin": "ἄδικος",
+    "dictForm": "ἄδικος, ἄδικος, ἄδικον",
+    "pos": "other",
+    "meaning": "unjust, wrong",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ε",
+    "latin": "ἀεί",
+    "dictForm": "ἀεί",
+    "pos": "other",
+    "meaning": "always",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θναι",
+    "latin": "᾿Аθῆναι",
+    "dictForm": "᾿Аθῆναι, ᾿Аθηνῶν, αἱ",
+    "pos": "other",
+    "meaning": "Athens",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θηναοι",
+    "latin": "᾿Аθηναῖοι",
+    "dictForm": "᾿Аθηναῖοι, ᾿Аθηναίων, οἱ",
+    "pos": "other",
+    "meaning": "the Athenians",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θηναος",
+    "latin": "᾿Аθηναῖος",
+    "dictForm": "᾿Аθηναῖος, ᾿Аθηναῖα, ᾿Аθηναῖον",
+    "pos": "other",
+    "meaning": "Athenian",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλον",
+    "latin": "ἆθλον",
+    "dictForm": "ἆθλον, ἄθλου, τό",
+    "pos": "other",
+    "meaning": "prize, reward",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "αρω",
+    "latin": "αἱρέω",
+    "dictForm": "αἱρέω, αἱρήσω, εἷλον, ᾑρέθην",
+    "pos": "verb",
+    "meaning": "I take",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ασθνομαι",
+    "latin": "αἰσθάνομαι",
+    "dictForm": "αἰσθάνομαι, αἰσθήσομαι, ᾐσθόμην",
+    "pos": "verb",
+    "meaning": "I notice, perceive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ασχρς",
+    "latin": "αἰσχρός",
+    "dictForm": "αἰσχρός, αἰσχρά, αἰσχρόν",
+    "pos": "other",
+    "meaning": "shameful, ugly, disgraceful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατω",
+    "latin": "αἰτέω",
+    "dictForm": "αἰτέω",
+    "pos": "verb",
+    "meaning": "I ask, ask for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατιος",
+    "latin": "αἴτιος",
+    "dictForm": "αἴτιος, αἰτία, αἴτιον + gen",
+    "pos": "other",
+    "meaning": "responsible for, guilty of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "αχμλωτος",
+    "latin": "αἰχμάλωτος",
+    "dictForm": "αἰχμάλωτος, αἰχμαλώτου, ὁ",
+    "pos": "other",
+    "meaning": "prisoner (of war)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κοω",
+    "latin": "ἀκούω",
+    "dictForm": "ἀκούω, ἀκούσομαι, ἤκουσα, ἠκούσθην",
+    "pos": "verb",
+    "meaning": "I hear, listen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ληθς",
+    "latin": "ἀληθής",
+    "dictForm": "ἀληθής, ἀληθής, ἀληθές",
+    "pos": "other",
+    "meaning": "true",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λλ",
+    "latin": "ἀλλά",
+    "dictForm": "ἀλλά",
+    "pos": "other",
+    "meaning": "but",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λλος",
+    "latin": "ἄλλος",
+    "dictForm": "ἄλλος, ἄλλη, ἄλλο",
+    "pos": "other",
+    "meaning": "other, another",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νin",
+    "latin": "ἄν [in",
+    "dictForm": "ἄν [in",
+    "pos": "other",
+    "meaning": "conditional sentence, makes aorist verb",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ν",
+    "latin": "ἀνά +",
+    "dictForm": "ἀνά +",
+    "pos": "other",
+    "meaning": "a c c        u p",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ναγκζω",
+    "latin": "ἀναγκάζω",
+    "dictForm": "ἀναγκάζω, ἀναγκάσω, ἠνάγκασα, ἠναγκάσθην",
+    "pos": "verb",
+    "meaning": "I force, compel",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ναχωρω",
+    "latin": "ἀναχωρέω",
+    "dictForm": "ἀναχωρέω",
+    "pos": "verb",
+    "meaning": "I retreat, withdraw",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νδρεος",
+    "latin": "ἀνδρεῖος",
+    "dictForm": "ἀνδρεῖος, ἀνδρεία, ἀνδρεῖον",
+    "pos": "other",
+    "meaning": "brave, manly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νεμος",
+    "latin": "ἄνεμος",
+    "dictForm": "ἄνεμος, ἀνέμου, ὁ",
+    "pos": "other",
+    "meaning": "wind",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νευgen",
+    "latin": "ἄνευ + gen",
+    "dictForm": "ἄνευ + gen",
+    "pos": "other",
+    "meaning": "without",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νρ",
+    "latin": "ἀνήρ",
+    "dictForm": "ἀνήρ, ἀνδρός, ὁ",
+    "pos": "other",
+    "meaning": "man, husband",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νθρωπος",
+    "latin": "ἄνθρωπος",
+    "dictForm": "ἄνθρωπος, ἀνθρώπου, ὁ",
+    "pos": "other",
+    "meaning": "man, person",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξιος",
+    "latin": "ἄξιος",
+    "dictForm": "ἄξιος, ἀξία, ἄξιον + gen",
+    "pos": "other",
+    "meaning": "worthy of, deserving",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πgen",
+    "latin": "ἀπό + gen",
+    "dictForm": "ἀπό + gen",
+    "pos": "other",
+    "meaning": "from, away from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποθνσκω",
+    "latin": "ἀποθνῄσκω",
+    "dictForm": "ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον",
+    "pos": "verb",
+    "meaning": "I die, am killed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποκρνομαι",
+    "latin": "ἀποκρίνομαι",
+    "dictForm": "ἀποκρίνομαι, ἀποκρινοῦμαι, ἀπεκρινάμην",
+    "pos": "verb",
+    "meaning": "I reply, answer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποκτενω",
+    "latin": "ἀποκτείνω",
+    "dictForm": "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα",
+    "pos": "verb",
+    "meaning": "I kill",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρα",
+    "latin": "ἆρα",
+    "dictForm": "ἆρα;",
+    "pos": "other",
+    "meaning": "[introduces a question]",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρχ",
+    "latin": "ἄρχή",
+    "dictForm": "ἄρχή, ἀρχῆς, ἡ",
+    "pos": "other",
+    "meaning": "beginning, rule, power, empire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρχω",
+    "latin": "ἄρχω +",
+    "dictForm": "ἄρχω +",
+    "pos": "other",
+    "meaning": "g e n        I  r u l e",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρχομαιgen",
+    "latin": "ἄρχομαι + gen",
+    "dictForm": "ἄρχομαι + gen",
+    "pos": "verb",
+    "meaning": "I begin",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρχων",
+    "latin": "ἄρχων",
+    "dictForm": "ἄρχων, ἄρχοντος , ὁ",
+    "pos": "other",
+    "meaning": "ruler, magistrate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σθενς",
+    "latin": "ἀσθενής",
+    "dictForm": "ἀσθενής, ἀσθενής, ἀσθενές",
+    "pos": "other",
+    "meaning": "weak",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σπς",
+    "latin": "ἀσπίς",
+    "dictForm": "ἀσπίς, ἀσπίδος, ἡ",
+    "pos": "other",
+    "meaning": "shield",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σφαλς",
+    "latin": "ἀσφαλής",
+    "dictForm": "ἀσφαλής, ἀσφαλής, ἀσφαλές",
+    "pos": "other",
+    "meaning": "safe",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "αθις",
+    "latin": "αὖθις",
+    "dictForm": "αὖθις",
+    "pos": "other",
+    "meaning": "again, in turn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατος",
+    "latin": "αὐτος",
+    "dictForm": "αὐτος, αὐτή, αὐτό",
+    "pos": "other",
+    "meaning": "self, himself, herself, itself (emphatic)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατς",
+    "latin": "ὁ αὐτός",
+    "dictForm": "ὁ αὐτός, ἡ αὐτή, τὸ αὐτό",
+    "pos": "other",
+    "meaning": "the same",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατν",
+    "latin": "αὐτόν",
+    "dictForm": "αὐτόν, αὐτήν, αὐτό (acc/gen/dat only – also plural)",
+    "pos": "other",
+    "meaning": "him, her, it, them",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φικνομαι",
+    "latin": "ἀφικνέομαι",
+    "dictForm": "ἀφικνέομαι, ἀφίξομαι, ἀφικόμην",
+    "pos": "verb",
+    "meaning": "I arrive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βανω",
+    "latin": "βαίνω",
+    "dictForm": "βαίνω, βήσομαι, ἔβην",
+    "pos": "verb",
+    "meaning": "I go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βλλω",
+    "latin": "βάλλω",
+    "dictForm": "βάλλω, βαλῶ, ἔβαλον, ἐβλήθην",
+    "pos": "verb",
+    "meaning": "I throw, fire at, hit (with missile)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βρβαροι",
+    "latin": "βάρβαροι",
+    "dictForm": "βάρβαροι, βαρβάρων, οἱ",
+    "pos": "other",
+    "meaning": "foreigners, barbarians, non-Greek",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βασιλες",
+    "latin": "βασιλεύς",
+    "dictForm": "βασιλεύς, βασιλέως, ὁ",
+    "pos": "other",
+    "meaning": "king",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βα",
+    "latin": "βία",
+    "dictForm": "βία, βίας, ἡ",
+    "pos": "other",
+    "meaning": "force, strength",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ββλος",
+    "latin": "βίβλος",
+    "dictForm": "βίβλος, βίβλου, ἡ",
+    "pos": "other",
+    "meaning": "book",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βος",
+    "latin": "βίος",
+    "dictForm": "βίος, βίου, ὁ",
+    "pos": "other",
+    "meaning": "life",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βλπτω",
+    "latin": "βλάπτω",
+    "dictForm": "βλάπτω",
+    "pos": "verb",
+    "meaning": "I harm, damage",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βοω",
+    "latin": "βοάω",
+    "dictForm": "βοάω",
+    "pos": "verb",
+    "meaning": "I shout",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βο",
+    "latin": "βοή",
+    "dictForm": "βοή, βοῆς, ἡ",
+    "pos": "other",
+    "meaning": "shout",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βοηθωdat",
+    "latin": "βοηθέω + dat",
+    "dictForm": "βοηθέω + dat",
+    "pos": "verb",
+    "meaning": "I help, come to help",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βουλ",
+    "latin": "βουλή",
+    "dictForm": "βουλή, βουλῆς, ἡ",
+    "pos": "other",
+    "meaning": "plan, a council",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βολομαι",
+    "latin": "βούλομαι",
+    "dictForm": "βούλομαι, βουλήσομαι, ἐβουλήθην",
+    "pos": "verb",
+    "meaning": "I wish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βραδς",
+    "latin": "βραδύς",
+    "dictForm": "βραδύς, βραδεῖα, βραδύ",
+    "pos": "other",
+    "meaning": "slow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρ",
+    "latin": "γάρ",
+    "dictForm": "γάρ",
+    "pos": "other",
+    "meaning": "for",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γε",
+    "latin": "γε",
+    "dictForm": "γε",
+    "pos": "other",
+    "meaning": "at any rate, even, at least",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γελω",
+    "latin": "γελάω",
+    "dictForm": "γελάω, γελάσομαι, ἐγέλασα",
+    "pos": "verb",
+    "meaning": "I laugh",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρων",
+    "latin": "γέρων",
+    "dictForm": "γέρων, γέροντος, ὁ",
+    "pos": "other",
+    "meaning": "old man",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γ",
+    "latin": "γῆ",
+    "dictForm": "γῆ, γῆς, ἡ",
+    "pos": "other",
+    "meaning": "land, earth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γγνομαι",
+    "latin": "γίγνομαι",
+    "dictForm": "γίγνομαι, γενήσομαι, ἐγενόμην",
+    "pos": "verb",
+    "meaning": "I become, happen, occur",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γιγνσκω",
+    "latin": "γιγνώσκω",
+    "dictForm": "γιγνώσκω, γνώσομαι, ἔγνων, ἐγνώσθην",
+    "pos": "verb",
+    "meaning": "I know, realise, understand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γλσσα",
+    "latin": "γλῶσσα",
+    "dictForm": "γλῶσσα, γλώσσης, ἡ",
+    "pos": "other",
+    "meaning": "tongue, language",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρφω",
+    "latin": "γράφω",
+    "dictForm": "γράφω",
+    "pos": "verb",
+    "meaning": "I write, draw",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γυν",
+    "latin": "γυνή",
+    "dictForm": "γυνή, γυναικός, ἡ",
+    "pos": "other",
+    "meaning": "woman, wife",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δακρω",
+    "latin": "δακρύω",
+    "dictForm": "δακρύω",
+    "pos": "verb",
+    "meaning": "I cry, weep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δ",
+    "latin": "δέ",
+    "dictForm": "δέ",
+    "pos": "other",
+    "meaning": "but, and",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δε",
+    "latin": "δεῖ",
+    "dictForm": "δεῖ, δεήσει, ἐδέησε (with acc + infin)",
+    "pos": "other",
+    "meaning": "it is necessary",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δεινς",
+    "latin": "δεινός",
+    "dictForm": "δεινός, δεινή, δεινόν",
+    "pos": "other",
+    "meaning": "terrible, strange, clever",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δεπνον",
+    "latin": "δεῖπνον",
+    "dictForm": "δεῖπνον, δείπνου, τό",
+    "pos": "other",
+    "meaning": "dinner, meal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δκα",
+    "latin": "δέκα",
+    "dictForm": "δέκα",
+    "pos": "other",
+    "meaning": "ten",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δνδρον",
+    "latin": "δένδρον",
+    "dictForm": "δένδρον, δένδρου, τό",
+    "pos": "other",
+    "meaning": "tree",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δεσπτης",
+    "latin": "δεσπότης",
+    "dictForm": "δεσπότης, δεσπότου, ὁ",
+    "pos": "other",
+    "meaning": "master",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δετερος",
+    "latin": "δεύτερος",
+    "dictForm": "δεύτερος, δευτέρα, δεύτερον",
+    "pos": "other",
+    "meaning": "second",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δχομαι",
+    "latin": "δέχομαι",
+    "dictForm": "δέχομαι, δέξομαι, ἐδεξάμην",
+    "pos": "verb",
+    "meaning": "I receive, welcome",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δ_2",
+    "latin": "δή",
+    "dictForm": "δή",
+    "pos": "other",
+    "meaning": "indeed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δμος",
+    "latin": "δῆμος",
+    "dictForm": "δῆμος, δήμου, ὁ",
+    "pos": "other",
+    "meaning": "people, community",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διacc",
+    "latin": "διά + acc",
+    "dictForm": "διά + acc",
+    "pos": "other",
+    "meaning": "because of, on account of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διτ",
+    "latin": "διὰ τί",
+    "dictForm": "διὰ τί;",
+    "pos": "other",
+    "meaning": "why?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διgen",
+    "latin": "διά + gen",
+    "dictForm": "διά + gen",
+    "pos": "other",
+    "meaning": "through",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διλγου",
+    "latin": "δι᾿ ὀλίγου",
+    "dictForm": "δι᾿ ὀλίγου",
+    "pos": "other",
+    "meaning": "soon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διαφθερω",
+    "latin": "διαφθείρω",
+    "dictForm": "διαφθείρω, διαφθερῶ, διέφθειρα, διεφθάρην",
+    "pos": "verb",
+    "meaning": "I destroy, corrupt",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δδωμι",
+    "latin": "(δίδωμι)",
+    "dictForm": "(δίδωμι), δώσω, ἔδωκα",
+    "pos": "verb",
+    "meaning": "I give (future and aorist indicative active",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δκαιος",
+    "latin": "δίκαιος",
+    "dictForm": "δίκαιος, δικαία, δίκαιον",
+    "pos": "other",
+    "meaning": "just, fair, upright",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διδσκω",
+    "latin": "διδάσκω",
+    "dictForm": "διδάσκω, διδάξω, ἐδίδαξα, ἐδιδάχθην",
+    "pos": "verb",
+    "meaning": "I teach, tell",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διτι",
+    "latin": "διότι",
+    "dictForm": "διότι",
+    "pos": "other",
+    "meaning": "because",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δικω_2",
+    "latin": "διώκω",
+    "dictForm": "διώκω",
+    "pos": "verb",
+    "meaning": "I chase, pursue, prosecute",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δοκεμοι",
+    "latin": "δοκεῖ (μοι)",
+    "dictForm": "δοκεῖ (μοι), δόξει, ἔδοξε",
+    "pos": "other",
+    "meaning": "(I) decide (= it seems good (to me))",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δολος",
+    "latin": "δοῦλος",
+    "dictForm": "δοῦλος, δούλου, ὁ",
+    "pos": "other",
+    "meaning": "slave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δοναιcfδδωμι",
+    "latin": "δοῦναι (cf. δίδωμι)",
+    "dictForm": "δοῦναι (cf. δίδωμι)",
+    "pos": "other",
+    "meaning": "to give, to have given (aor infin)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δο",
+    "latin": "δύο",
+    "dictForm": "δύο, δύο, δύο",
+    "pos": "other",
+    "meaning": "two",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δυστυχς",
+    "latin": "δυστυχής",
+    "dictForm": "δυστυχής, δυστυχής, δυστυχές",
+    "pos": "other",
+    "meaning": "unlucky",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δρον",
+    "latin": "δῶρον",
+    "dictForm": "δῶρον, δώρου, τό",
+    "pos": "other",
+    "meaning": "present, gift",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ν_2",
+    "latin": "ἐάν",
+    "dictForm": "ἐάν",
+    "pos": "other",
+    "meaning": "if",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "αυτν",
+    "latin": "ἑαυτόν",
+    "dictForm": "ἑαυτόν, ἑαυτήν, ἑαυτό",
+    "pos": "other",
+    "meaning": "himself, herself, itself, plural themselves",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γμο",
+    "latin": "ἐγώ ἐμοῦ",
+    "dictForm": "ἐγώ ἐμοῦ",
+    "pos": "other",
+    "meaning": "I, (acc etc) me",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μς",
+    "latin": "ἐμός",
+    "dictForm": "ἐμός, ἐμή, ἐμόν",
+    "pos": "other",
+    "meaning": "my",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλω",
+    "latin": "ἐθέλω",
+    "dictForm": "ἐθέλω, ἐθελήσω, ἠθέλησα",
+    "pos": "verb",
+    "meaning": "I wish, am willing",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ε_2",
+    "latin": "εἰ",
+    "dictForm": "εἰ",
+    "pos": "other",
+    "meaning": "if",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εδναιcfοδα",
+    "latin": "εἰδέναι (cf. οἶδα)",
+    "dictForm": "εἰδέναι (cf. οἶδα)",
+    "pos": "other",
+    "meaning": "to know",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εδς",
+    "latin": "εἰδώς",
+    "dictForm": "εἰδώς, εἰδυῖα, εἰδός, (cf. οἶδα)",
+    "pos": "other",
+    "meaning": "knowing",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εμ",
+    "latin": "εἰμί",
+    "dictForm": "εἰμί, ἔσομαι, ἦν (imperfect)",
+    "pos": "verb",
+    "meaning": "I am",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εμιcfρχομαι",
+    "latin": "εἶμι (cf. ἔρχομαι)",
+    "dictForm": "εἶμι (cf. ἔρχομαι)",
+    "pos": "verb",
+    "meaning": "I shall go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερνη",
+    "latin": "εἰρήνη",
+    "dictForm": "εἰρήνη, εἰρήνης, ἡ",
+    "pos": "other",
+    "meaning": "peace",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εςacc",
+    "latin": "εἰς + acc",
+    "dictForm": "εἰς + acc",
+    "pos": "other",
+    "meaning": "to, into",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εςτοσοτον",
+    "latin": "εἰς τοσοῦτον",
+    "dictForm": "εἰς τοσοῦτον",
+    "pos": "other",
+    "meaning": "to such an extent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ες",
+    "latin": "εἷς",
+    "dictForm": "εἷς, μία, ἕν",
+    "pos": "other",
+    "meaning": "one",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εσβλλω",
+    "latin": "εἰσβάλλω",
+    "dictForm": "εἰσβάλλω",
+    "pos": "verb",
+    "meaning": "I throw into, invade",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κorξgen",
+    "latin": "ἐκ or ἐξ + gen",
+    "dictForm": "ἐκ or ἐξ + gen",
+    "pos": "other",
+    "meaning": "out of, from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καστος",
+    "latin": "ἕκαστος",
+    "dictForm": "ἕκαστος, ἑκάστη, ἕκαστον",
+    "pos": "other",
+    "meaning": "each",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κε",
+    "latin": "ἐκεῖ",
+    "dictForm": "ἐκεῖ",
+    "pos": "other",
+    "meaning": "there",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κενος",
+    "latin": "ἐκεῖνος",
+    "dictForm": "ἐκεῖνος, ἐκείνη, ἐκεῖνο",
+    "pos": "other",
+    "meaning": "that, plural those",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κκλησα",
+    "latin": "ἐκκλησία",
+    "dictForm": "ἐκκλησία, ἐκκλησίας, ἡ",
+    "pos": "other",
+    "meaning": "assembly, meeting",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κφεγω",
+    "latin": "ἐκφεύγω",
+    "dictForm": "ἐκφεύγω",
+    "pos": "verb",
+    "meaning": "I escape",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λεθερος",
+    "latin": "ἐλεύθερος",
+    "dictForm": "ἐλεύθερος, ἐλευθέρα, ἐλεύθερον",
+    "pos": "other",
+    "meaning": "free",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λπζω",
+    "latin": "ἐλπίζω",
+    "dictForm": "ἐλπίζω, ἐλπιῶ, ἤλπισα",
+    "pos": "verb",
+    "meaning": "I hope, expect",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νdat",
+    "latin": "ἐν + dat",
+    "dictForm": "ἐν + dat",
+    "pos": "other",
+    "meaning": "in, among",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νθδε",
+    "latin": "ἐνθάδε",
+    "dictForm": "ἐνθάδε",
+    "pos": "other",
+    "meaning": "here, there",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ννα",
+    "latin": "ἐννέα",
+    "dictForm": "ἐννέα",
+    "pos": "other",
+    "meaning": "nine",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νοικος",
+    "latin": "ἔνοικος",
+    "dictForm": "ἔνοικος, ἐνοίκου, ὁ",
+    "pos": "other",
+    "meaning": "inhabitant",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξ",
+    "latin": "ἕξ",
+    "dictForm": "ἕξ",
+    "pos": "other",
+    "meaning": "six",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξεστινμοι",
+    "latin": "ἔξεστι(ν) (μοι)",
+    "dictForm": "ἔξεστι(ν) (μοι)",
+    "pos": "verb",
+    "meaning": "I am allowed, I can (= it is permitted to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πε",
+    "latin": "ἐπεί",
+    "dictForm": "ἐπεί",
+    "pos": "other",
+    "meaning": "when, since",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πειτα",
+    "latin": "ἔπειτα",
+    "dictForm": "ἔπειτα",
+    "pos": "other",
+    "meaning": "then, afterwards",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πacc",
+    "latin": "ἔπί + acc",
+    "dictForm": "ἔπί + acc",
+    "pos": "other",
+    "meaning": "against, onto, on, at",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πιστολ",
+    "latin": "ἐπιστολή",
+    "dictForm": "ἐπιστολή, ἐπιστολῆς, ἡ",
+    "pos": "other",
+    "meaning": "letter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πομαι",
+    "latin": "ἕπομαι",
+    "dictForm": "ἕπομαι, ἕψομαι, ἑσπόμην + dat",
+    "pos": "verb",
+    "meaning": "I follow",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πτ",
+    "latin": "ἑπτά",
+    "dictForm": "ἑπτά",
+    "pos": "other",
+    "meaning": "seven",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ργον",
+    "latin": "ἔργον",
+    "dictForm": "ἔργον, ἔργου, τό",
+    "pos": "other",
+    "meaning": "work, task, deed, action",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρχομαι",
+    "latin": "ἔρχομαι",
+    "dictForm": "ἔρχομαι, εἶμι, ἦλθον",
+    "pos": "verb",
+    "meaning": "I go, come",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρωτω",
+    "latin": "ἐρωτάω",
+    "dictForm": "ἐρωτάω, ἐρωτήσω, ἠρόμην (or ἠρώτησα)",
+    "pos": "verb",
+    "meaning": "I ask (a question)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σθω",
+    "latin": "ἐσθίω",
+    "dictForm": "ἐσθίω, (ἔδομαι), ἔφαγον",
+    "pos": "verb",
+    "meaning": "I eat",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σπρα",
+    "latin": "ἐσπέρα",
+    "dictForm": "ἐσπέρα, ἑσπέρας, ἡ",
+    "pos": "other",
+    "meaning": "evening",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τι",
+    "latin": "ἔτι",
+    "dictForm": "ἔτι",
+    "pos": "other",
+    "meaning": "still, yet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τομος",
+    "latin": "ἑτοῖμος",
+    "dictForm": "ἑτοῖμος, ἑτοίμη, ἑτοῖμον",
+    "pos": "other",
+    "meaning": "ready",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τος",
+    "latin": "ἔτος",
+    "dictForm": "ἔτος, ἔτους, τό",
+    "pos": "other",
+    "meaning": "year",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ε_3",
+    "latin": "εὖ",
+    "dictForm": "εὖ",
+    "pos": "other",
+    "meaning": "well",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εθς",
+    "latin": "εὐθύς",
+    "dictForm": "εὐθύς",
+    "pos": "other",
+    "meaning": "immediately, at once",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερσκω",
+    "latin": "εὑρίσκω",
+    "dictForm": "εὑρίσκω, εὑρήσω, ηὗρον, ηὑρέθην",
+    "pos": "verb",
+    "meaning": "I find",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερς",
+    "latin": "εὐρύς",
+    "dictForm": "εὐρύς, εὐρεῖα, εὐρύ",
+    "pos": "other",
+    "meaning": "wide, broad",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ετυχς",
+    "latin": "εὐτυχής",
+    "dictForm": "εὐτυχής, εὐτυχής, εὐτυχές",
+    "pos": "other",
+    "meaning": "lucky, fortunate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φηcfφμι",
+    "latin": "ἔφη (cf. φήμι)",
+    "dictForm": "ἔφη (cf. φήμι)",
+    "pos": "other",
+    "meaning": "he/she said ( with direct speech)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χθρς",
+    "latin": "ἐχθρός",
+    "dictForm": "ἐχθρός, ἐχθρά, ἐχθρόν",
+    "pos": "other",
+    "meaning": "hostile",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χθρς_2",
+    "latin": "ἐχθρός",
+    "dictForm": "ἐχθρός, ἐχθροῦ, ὁ",
+    "pos": "other",
+    "meaning": "(personal) enemy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χωimperfectεχον",
+    "latin": "ἔχω (imperfect εἶχον)",
+    "dictForm": "ἔχω (imperfect εἶχον), ἕξω, ἔσχον",
+    "pos": "verb",
+    "meaning": "I have",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ως",
+    "latin": "ἕως",
+    "dictForm": "ἕως",
+    "pos": "other",
+    "meaning": "while, until",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ζητω",
+    "latin": "ζητέω",
+    "dictForm": "ζητέω",
+    "pos": "verb",
+    "meaning": "I seek",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "word",
+    "latin": "ἤ",
+    "dictForm": "ἤ",
+    "pos": "other",
+    "meaning": "or, than",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "word_2",
+    "latin": "ἤ … ἤ",
+    "dictForm": "ἤ … ἤ",
+    "pos": "other",
+    "meaning": "either … or …",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γεμν",
+    "latin": "ἡγεμών",
+    "dictForm": "ἡγεμών, ἡγεμόνος, ὁ",
+    "pos": "other",
+    "meaning": "guide, leader",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δη",
+    "latin": "ἤδη",
+    "dictForm": "ἤδη",
+    "pos": "other",
+    "meaning": "already, by now",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δς",
+    "latin": "ἡδύς",
+    "dictForm": "ἡδύς, ἡδεῖα, ἡδύ",
+    "pos": "other",
+    "meaning": "pleasant, sweet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μες",
+    "latin": "ἡμεῖς",
+    "dictForm": "ἡμεῖς, ἡμῶν",
+    "pos": "other",
+    "meaning": "we, (acc etc) us",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μτερος",
+    "latin": "ἡμέτερος",
+    "dictForm": "ἡμέτερος, ἡμετέρα, ἡμέτερον",
+    "pos": "other",
+    "meaning": "our",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μρα",
+    "latin": "ἡμέρα",
+    "dictForm": "ἡμέρα, ἡμέρας, ἡ",
+    "pos": "other",
+    "meaning": "day",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλασσα",
+    "latin": "θάλασσα",
+    "dictForm": "θάλασσα, θαλάσσης, ἡ",
+    "pos": "other",
+    "meaning": "sea",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θνατος",
+    "latin": "θάνατος",
+    "dictForm": "θάνατος, θανάτου, ὁ",
+    "pos": "other",
+    "meaning": "death",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θπτω",
+    "latin": "θάπτω",
+    "dictForm": "θάπτω, θάψω, ἔθαψα",
+    "pos": "verb",
+    "meaning": "I bury",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θαυμζω",
+    "latin": "θαυμάζω",
+    "dictForm": "θαυμάζω",
+    "pos": "verb",
+    "meaning": "I am amazed at, admire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θε",
+    "latin": "θεά",
+    "dictForm": "θεά, θεᾶς, ἡ",
+    "pos": "other",
+    "meaning": "goddess",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θες",
+    "latin": "θεός",
+    "dictForm": "θεός, θεοῦ, ὁ",
+    "pos": "other",
+    "meaning": "god",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θυγτηρ",
+    "latin": "θυγάτηρ",
+    "dictForm": "θυγάτηρ, θυγατρός, ἡ",
+    "pos": "other",
+    "meaning": "daughter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θρα",
+    "latin": "θύρα",
+    "dictForm": "θύρα, θύρας, ἡ",
+    "pos": "other",
+    "meaning": "door",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θω",
+    "latin": "θύω",
+    "dictForm": "θύω",
+    "pos": "verb",
+    "meaning": "I sacrifice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ατρς",
+    "latin": "ἰατρός",
+    "dictForm": "ἰατρός, ἰατροῦ, ὁ",
+    "pos": "other",
+    "meaning": "doctor",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ναιcfεμι",
+    "latin": "ἰέναι (cf. εἶμι)",
+    "dictForm": "ἰέναι (cf. εἶμι)",
+    "pos": "other",
+    "meaning": "to go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερν",
+    "latin": "ἱερόν",
+    "dictForm": "ἱερόν, ἱεροῦ, τό",
+    "pos": "other",
+    "meaning": "temple",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερς_2",
+    "latin": "ἱερός",
+    "dictForm": "ἱερός, ἱερά, ἱερόν",
+    "pos": "other",
+    "meaning": "sacred, holy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ναsubjoropt",
+    "latin": "ἵνα + subj or opt",
+    "dictForm": "ἵνα + subj or opt",
+    "pos": "other",
+    "meaning": "in order that, in order to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ππες",
+    "latin": "ἱππεύς",
+    "dictForm": "ἱππεύς, ἱππέως, ὁ",
+    "pos": "other",
+    "meaning": "cavalryman, in plural (the) cavalry",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ππος",
+    "latin": "ἵππος",
+    "dictForm": "ἵππος, ἵππου, ὁ",
+    "pos": "other",
+    "meaning": "horse",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σχυρς",
+    "latin": "ἰσχυρός",
+    "dictForm": "ἰσχυρός, ἰσχυρά, ἰσχυρόν",
+    "pos": "other",
+    "meaning": "strong",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ν_3",
+    "latin": "ἰών",
+    "dictForm": "ἰών, ἰοῦσα, ἰόν (cf. εἶμι)",
+    "pos": "other",
+    "meaning": "g o i n g",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καθεδω",
+    "latin": "καθεύδω",
+    "dictForm": "καθεύδω",
+    "pos": "verb",
+    "meaning": "I sleep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καθζω",
+    "latin": "καθίζω",
+    "dictForm": "καθίζω, καθιῶ, ἐκάθισα",
+    "pos": "verb",
+    "meaning": "I (make to) sit down",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κα",
+    "latin": "καί",
+    "dictForm": "καί",
+    "pos": "other",
+    "meaning": "and, also, even, too",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καπερparticiple",
+    "latin": "καίπερ + participle",
+    "dictForm": "καίπερ + participle",
+    "pos": "other",
+    "meaning": "although",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καω",
+    "latin": "καίω",
+    "dictForm": "καίω, καύσω, ἔκαυσα, ἐκαύθην",
+    "pos": "verb",
+    "meaning": "I burn, set on fire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κακς",
+    "latin": "κακός",
+    "dictForm": "κακός, κακή, κακόν",
+    "pos": "other",
+    "meaning": "bad, wicked, cowardly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καλω",
+    "latin": "καλέω",
+    "dictForm": "καλέω, καλῶ, ἐκάλεσα, ἐκλήθην",
+    "pos": "verb",
+    "meaning": "I call, summon",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καλς",
+    "latin": "καλός",
+    "dictForm": "καλός, καλή, καλόν",
+    "pos": "other",
+    "meaning": "beautiful, handsome, fine",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κατacc",
+    "latin": "κατά + acc",
+    "dictForm": "κατά + acc",
+    "pos": "other",
+    "meaning": "according to, by, down, along",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κατγν",
+    "latin": "κατὰ γῆν",
+    "dictForm": "κατὰ γῆν",
+    "pos": "other",
+    "meaning": "by land",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κατθλασσαν",
+    "latin": "κατὰ θάλασσαν",
+    "dictForm": "κατὰ θάλασσαν",
+    "pos": "other",
+    "meaning": "by sea",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κατgen",
+    "latin": "κατά + gen",
+    "dictForm": "κατά + gen",
+    "pos": "other",
+    "meaning": "down, down from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κελεω",
+    "latin": "κελεύω",
+    "dictForm": "κελεύω",
+    "pos": "verb",
+    "meaning": "I order",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κεφαλ",
+    "latin": "κεφαλή",
+    "dictForm": "κεφαλή, κεφαλῆς, ἡ",
+    "pos": "other",
+    "meaning": "head",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κνδυνος",
+    "latin": "κίνδυνος",
+    "dictForm": "κίνδυνος, κινδύνου, ὁ",
+    "pos": "other",
+    "meaning": "danger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κλπτω",
+    "latin": "κλέπτω",
+    "dictForm": "κλέπτω, κλέψω, ἔκλεψα, ἐκλάπην",
+    "pos": "verb",
+    "meaning": "I steal",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κολζω",
+    "latin": "κολάζω",
+    "dictForm": "κολάζω",
+    "pos": "verb",
+    "meaning": "I punish",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κπτω",
+    "latin": "κόπτω",
+    "dictForm": "κόπτω, κόψω, ἔκοψα",
+    "pos": "verb",
+    "meaning": "I cut (down)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κρπτω",
+    "latin": "κρύπτω",
+    "dictForm": "κρύπτω",
+    "pos": "verb",
+    "meaning": "I hide (something)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κρπτομαι",
+    "latin": "κρύπτομαι",
+    "dictForm": "κρύπτομαι",
+    "pos": "verb",
+    "meaning": "I hide (myself)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κτομαι",
+    "latin": "κτάομαι",
+    "dictForm": "κτάομαι, κτήσομαι, ἐκτησάμην",
+    "pos": "verb",
+    "meaning": "I obtain, get",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κωλωinfin",
+    "latin": "κωλύω + infin",
+    "dictForm": "κωλύω + infin",
+    "pos": "verb",
+    "meaning": "I hinder, prevent (someone from doing)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λθρ",
+    "latin": "λάθρᾳ",
+    "dictForm": "λάθρᾳ",
+    "pos": "other",
+    "meaning": "in secret, secretly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λαμβνω",
+    "latin": "λαμβάνω",
+    "dictForm": "λαμβάνω, λήψομαι, ἔλαβον, ἐλήφθην",
+    "pos": "verb",
+    "meaning": "I take, capture",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγω",
+    "latin": "λέγω",
+    "dictForm": "λέγω, ἐρῶ, εἶπον, ἐρρήθην",
+    "pos": "verb",
+    "meaning": "I say, speak, tell",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λεπω",
+    "latin": "λείπω",
+    "dictForm": "λείπω, λείψω, ἔλιπον, ἐλείφθην",
+    "pos": "verb",
+    "meaning": "I leave (behind)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λθος",
+    "latin": "λίθος",
+    "dictForm": "λίθος, λίθου, ὁ",
+    "pos": "other",
+    "meaning": "stone",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λιμν",
+    "latin": "λιμήν",
+    "dictForm": "λιμήν, λιμένος, ὁ",
+    "pos": "other",
+    "meaning": "harbour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγος",
+    "latin": "λόγος",
+    "dictForm": "λόγος, λόγου, ὁ",
+    "pos": "other",
+    "meaning": "word, speech, argument, story, account,",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λω",
+    "latin": "λύω",
+    "dictForm": "λύω",
+    "pos": "verb",
+    "meaning": "I loose, untie, set free",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μλιστα",
+    "latin": "μάλιστα",
+    "dictForm": "μάλιστα",
+    "pos": "other",
+    "meaning": "most, very much, especially",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μλλον",
+    "latin": "μᾶλλον",
+    "dictForm": "μᾶλλον",
+    "pos": "other",
+    "meaning": "more",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μανθνω",
+    "latin": "μανθάνω",
+    "dictForm": "μανθάνω, μαθήσομαι, ἔμαθον",
+    "pos": "verb",
+    "meaning": "I learn, understand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μχη",
+    "latin": "μάχη",
+    "dictForm": "μάχη, μάχης, ἡ",
+    "pos": "other",
+    "meaning": "battle, fight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μχομαι",
+    "latin": "μάχομαι",
+    "dictForm": "μάχομαι, μαχοῦμαι, ἐμαχεσάμην",
+    "pos": "verb",
+    "meaning": "I fight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μγας",
+    "latin": "μέγας",
+    "dictForm": "μέγας, μεγάλη, μέγα",
+    "pos": "other",
+    "meaning": "big, great",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μλλω",
+    "latin": "μέλλω",
+    "dictForm": "μέλλω, μελλήσω, ἐμέλλησα + fut infin",
+    "pos": "verb",
+    "meaning": "I intend, am going to, hesitate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μνδ",
+    "latin": "… μέν … δέ",
+    "dictForm": "… μέν … δέ",
+    "pos": "other",
+    "meaning": "[marks a contrast]",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μντοι",
+    "latin": "μέντοι",
+    "dictForm": "μέντοι",
+    "pos": "other",
+    "meaning": "however",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μνω",
+    "latin": "μένω",
+    "dictForm": "μένω, μενῶ, ἔμεινα",
+    "pos": "verb",
+    "meaning": "I wait, remain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μετacc",
+    "latin": "μετά + acc",
+    "dictForm": "μετά + acc",
+    "pos": "other",
+    "meaning": "after",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μετ",
+    "latin": "μετά +",
+    "dictForm": "μετά +",
+    "pos": "other",
+    "meaning": "g e n        w i t h",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μ",
+    "latin": "μή",
+    "dictForm": "μή",
+    "pos": "other",
+    "meaning": "not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μηδποτε",
+    "latin": "μηδέποτε",
+    "dictForm": "μηδέποτε",
+    "pos": "other",
+    "meaning": "never",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μτεμτε",
+    "latin": "μήτε … μήτε …",
+    "dictForm": "μήτε … μήτε …",
+    "pos": "other",
+    "meaning": "neither … nor …",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μτηρ",
+    "latin": "μήτηρ",
+    "dictForm": "μήτηρ, μητρός, ἡ",
+    "pos": "other",
+    "meaning": "mother",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μικρς",
+    "latin": "μικρός",
+    "dictForm": "μικρός, μικρά, μικρόν",
+    "pos": "other",
+    "meaning": "little, small",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μισω",
+    "latin": "μισέω",
+    "dictForm": "μισέω",
+    "pos": "verb",
+    "meaning": "I hate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μνος",
+    "latin": "μόνος",
+    "dictForm": "μόνος, μόνη, μόνον",
+    "pos": "other",
+    "meaning": "alone, only",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μνον",
+    "latin": "μόνον",
+    "dictForm": "μόνον",
+    "pos": "other",
+    "meaning": "only",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μθος",
+    "latin": "μῦθος",
+    "dictForm": "μῦθος, μύθου, ὁ",
+    "pos": "other",
+    "meaning": "story",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μρος",
+    "latin": "μῶρος",
+    "dictForm": "μῶρος, μώρα, μῶρον",
+    "pos": "other",
+    "meaning": "foolish, stupid",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νας",
+    "latin": "ναῦς",
+    "dictForm": "ναῦς, νεώς, ἡ",
+    "pos": "other",
+    "meaning": "ship, warship",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νατης",
+    "latin": "ναύτης",
+    "dictForm": "ναύτης, ναύτου, ὁ",
+    "pos": "other",
+    "meaning": "sailor",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ναυτικν",
+    "latin": "ναυτικόν",
+    "dictForm": "ναυτικόν, ναυτικοῦ, τό",
+    "pos": "other",
+    "meaning": "fleet",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νεανας",
+    "latin": "νεανίας",
+    "dictForm": "νεανίας, νεανίου, ὁ",
+    "pos": "other",
+    "meaning": "young man",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νεκρς",
+    "latin": "νεκρός",
+    "dictForm": "νεκρός, νεκροῦ, ὁ",
+    "pos": "other",
+    "meaning": "corpse",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νος",
+    "latin": "νέος",
+    "dictForm": "νέος, νέα, νέον",
+    "pos": "other",
+    "meaning": "new, young, recent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νσος",
+    "latin": "νῆσος",
+    "dictForm": "νῆσος, νήσου, ἡ",
+    "pos": "other",
+    "meaning": "island",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νικω",
+    "latin": "νικάω",
+    "dictForm": "νικάω",
+    "pos": "verb",
+    "meaning": "I win, conquer",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νκη",
+    "latin": "νίκη",
+    "dictForm": "νίκη, νίκης, ἡ",
+    "pos": "other",
+    "meaning": "victory",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νομζω",
+    "latin": "νομίζω",
+    "dictForm": "νομίζω, νομιῶ, ἐνόμισα",
+    "pos": "verb",
+    "meaning": "I think, consider, believe",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νμος",
+    "latin": "νόμος",
+    "dictForm": "νόμος, νόμου, ὁ",
+    "pos": "other",
+    "meaning": "law, custom",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νσος_2",
+    "latin": "νόσος",
+    "dictForm": "νόσος, νόσου, ἡ",
+    "pos": "other",
+    "meaning": "disease, illness",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νν",
+    "latin": "νῦν",
+    "dictForm": "νῦν",
+    "pos": "other",
+    "meaning": "now",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νξ",
+    "latin": "νύξ",
+    "dictForm": "νύξ, νυκτός, ἡ",
+    "pos": "other",
+    "meaning": "night",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξνος",
+    "latin": "ξένος",
+    "dictForm": "ξένος, ξένου, ὁ",
+    "pos": "other",
+    "meaning": "stranger, foreigner, host, guest, friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξφος",
+    "latin": "ξίφος",
+    "dictForm": "ξίφος, ξίφους, τό",
+    "pos": "other",
+    "meaning": "sword",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "word_3",
+    "latin": "ὁ",
+    "dictForm": "ὁ, ἡ, τό",
+    "pos": "other",
+    "meaning": "the",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δε_2",
+    "latin": "ὅδε",
+    "dictForm": "ὅδε, ἥδε, τόδε",
+    "pos": "other",
+    "meaning": "this",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δς_2",
+    "latin": "ὁδός",
+    "dictForm": "ὁδός, ὁδοῦ, ἡ",
+    "pos": "other",
+    "meaning": "road, path, way, journey",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οδα",
+    "latin": "οἶδα",
+    "dictForm": "οἶδα",
+    "pos": "verb",
+    "meaning": "I know (present, participle and infinitive",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οκω",
+    "latin": "οἰκέω",
+    "dictForm": "οἰκέω",
+    "pos": "verb",
+    "meaning": "I live (in), inhabit, dwell",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οκα",
+    "latin": "οἰκία",
+    "dictForm": "οἰκία, οἰκίας, ἡ",
+    "pos": "other",
+    "meaning": "house, home",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ονος",
+    "latin": "οἶνος",
+    "dictForm": "οἶνος, οἴνου, ὁ",
+    "pos": "other",
+    "meaning": "wine",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οοςτεμ",
+    "latin": "οἷος τ᾿ εἰμί",
+    "dictForm": "οἷος τ᾿ εἰμί",
+    "pos": "verb",
+    "meaning": "I am able, can",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κτ",
+    "latin": "ὀκτώ",
+    "dictForm": "ὀκτώ",
+    "pos": "other",
+    "meaning": "eight",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγος_2",
+    "latin": "ὀλίγος",
+    "dictForm": "ὀλίγος, ὀλίγη, ὀλίγον",
+    "pos": "other",
+    "meaning": "little",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγοι",
+    "latin": "ὀλίγοι",
+    "dictForm": "ὀλίγοι, ὀλίγαι, ὀλίγα",
+    "pos": "other",
+    "meaning": "few",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νομα",
+    "latin": "ὄνομα",
+    "dictForm": "ὄνομα, ὀνόματος, τό",
+    "pos": "other",
+    "meaning": "name",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλα",
+    "latin": "ὅπλα",
+    "dictForm": "ὅπλα, ὅπλων, τά",
+    "pos": "other",
+    "meaning": "weapons, arms, armour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρω",
+    "latin": "ὁράω",
+    "dictForm": "ὁράω, ὄψομαι, εἶδον, ὤφθην",
+    "pos": "verb",
+    "meaning": "I see",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ργζομαι",
+    "latin": "ὀργίζομαι",
+    "dictForm": "ὀργίζομαι, ὀργιοῦμαι, ὠργίσθην + dat",
+    "pos": "verb",
+    "meaning": "I grow angry (with)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρος",
+    "latin": "ὄρος",
+    "dictForm": "ὄρος, ὄρους, τό",
+    "pos": "other",
+    "meaning": "mountain, hill",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ς",
+    "latin": "ὅς",
+    "dictForm": "ὅς, ἥ, ὅ",
+    "pos": "other",
+    "meaning": "who, which",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τι_2",
+    "latin": "ὅτι",
+    "dictForm": "ὅτι",
+    "pos": "other",
+    "meaning": "that",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ο",
+    "latin": "οὐ",
+    "dictForm": "οὐ, οὐκ, οὐχ",
+    "pos": "other",
+    "meaning": "not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οδποτε",
+    "latin": "οὐδέποτε",
+    "dictForm": "οὐδέποτε",
+    "pos": "other",
+    "meaning": "never",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οτεοτε",
+    "latin": "οὔτε … οὔτε",
+    "dictForm": "οὔτε … οὔτε",
+    "pos": "other",
+    "meaning": "neither … nor …",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ον",
+    "latin": "οὖν",
+    "dictForm": "οὖν",
+    "pos": "other",
+    "meaning": "therefore, and so",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ορανς",
+    "latin": "οὐρανός",
+    "dictForm": "οὐρανός, οὐρανοῦ, ὁ",
+    "pos": "other",
+    "meaning": "sky, heaven",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οτος",
+    "latin": "οὗτος",
+    "dictForm": "οὗτος, αὕτη, τοῦτο",
+    "pos": "other",
+    "meaning": "this",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οτως",
+    "latin": "οὕτω(ς)",
+    "dictForm": "οὕτω(ς)",
+    "pos": "other",
+    "meaning": "so, in this way",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πας",
+    "latin": "παῖς",
+    "dictForm": "παῖς, παιδός, ὁ and ἡ",
+    "pos": "other",
+    "meaning": "child, son, daughter, boy, girl",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλαι",
+    "latin": "πάλαι",
+    "dictForm": "πάλαι",
+    "pos": "other",
+    "meaning": "long ago, in the past, formerly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παρacc",
+    "latin": "παρά + acc",
+    "dictForm": "παρά + acc",
+    "pos": "other",
+    "meaning": "contrary to, along, to",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παρgen",
+    "latin": "παρά + gen",
+    "dictForm": "παρά + gen",
+    "pos": "other",
+    "meaning": "from (a person)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παρασκευζω",
+    "latin": "παρασκευάζω",
+    "dictForm": "παρασκευάζω",
+    "pos": "verb",
+    "meaning": "I prepare",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παρχω",
+    "latin": "παρέχω",
+    "dictForm": "παρέχω",
+    "pos": "verb",
+    "meaning": "I provide, cause, produce",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πς",
+    "latin": "πᾶς",
+    "dictForm": "πᾶς, πᾶσα, πᾶν",
+    "pos": "other",
+    "meaning": "all, every",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πσχω",
+    "latin": "πάσχω",
+    "dictForm": "πάσχω, πείσομαι, ἔπαθον",
+    "pos": "verb",
+    "meaning": "I suffer, experience",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πατρ",
+    "latin": "πατήρ",
+    "dictForm": "πατήρ, πατρός, ὁ",
+    "pos": "other",
+    "meaning": "father",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παω",
+    "latin": "παύω",
+    "dictForm": "παύω",
+    "pos": "verb",
+    "meaning": "I stop",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "παομαιmiddle",
+    "latin": "παύομαι (middle)",
+    "dictForm": "παύομαι (middle)",
+    "pos": "verb",
+    "meaning": "I stop, cease from (doing something)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πεθω",
+    "latin": "πείθω",
+    "dictForm": "πείθω",
+    "pos": "verb",
+    "meaning": "I persuade",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πεθομαι",
+    "latin": "πείθομαι",
+    "dictForm": "πείθομαι, πείσομαι, ἐπιθόμην + dat",
+    "pos": "verb",
+    "meaning": "I obey",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πειρομαι",
+    "latin": "πειράομαι",
+    "dictForm": "πειράομαι, πειράσομαι",
+    "pos": "verb",
+    "meaning": "I try",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πμπτος",
+    "latin": "πέμπτος",
+    "dictForm": "πέμπτος, πέμπτη, πέμπτον",
+    "pos": "other",
+    "meaning": "fifth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πμπω",
+    "latin": "πέμπω",
+    "dictForm": "πέμπω",
+    "pos": "verb",
+    "meaning": "I send, escort",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πντε",
+    "latin": "πέντε",
+    "dictForm": "πέντε",
+    "pos": "other",
+    "meaning": "five",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "περ",
+    "latin": "περί +",
+    "dictForm": "περί +",
+    "pos": "other",
+    "meaning": "a c c        r o u n d",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "περgen",
+    "latin": "περί + gen",
+    "dictForm": "περί + gen",
+    "pos": "other",
+    "meaning": "about, concerning",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πνω",
+    "latin": "πίνω",
+    "dictForm": "πίνω, πιοῦμαι, ἔπιον",
+    "pos": "verb",
+    "meaning": "I drink",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ππτω",
+    "latin": "πίπτω",
+    "dictForm": "πίπτω, πεσοῦμαι, ἔπεσον",
+    "pos": "verb",
+    "meaning": "I fall",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πιστεωdat",
+    "latin": "πιστεύω + dat",
+    "dictForm": "πιστεύω + dat",
+    "pos": "verb",
+    "meaning": "I trust, believe",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πιστς",
+    "latin": "πιστός",
+    "dictForm": "πιστός, πιστή, πιστόν",
+    "pos": "other",
+    "meaning": "faithful, reliable",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλω",
+    "latin": "πλέω",
+    "dictForm": "πλέω, πλεύσομαι, ἔπλευσα",
+    "pos": "verb",
+    "meaning": "I sail",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλν",
+    "latin": "πλήν",
+    "dictForm": "πλήν",
+    "pos": "other",
+    "meaning": "except",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλοον",
+    "latin": "πλοῖον",
+    "dictForm": "πλοῖον, πλοίου, τό",
+    "pos": "other",
+    "meaning": "boat, cargo ship",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλοσιος",
+    "latin": "πλούσιος",
+    "dictForm": "πλούσιος, πλουσία, πλούσιον",
+    "pos": "other",
+    "meaning": "rich",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποιω",
+    "latin": "ποιέω",
+    "dictForm": "ποιέω",
+    "pos": "verb",
+    "meaning": "I do, make",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποος",
+    "latin": "ποῖος",
+    "dictForm": "ποῖος, ποία, ποῖον;",
+    "pos": "other",
+    "meaning": "what sort of?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλεμος",
+    "latin": "πόλεμος",
+    "dictForm": "πόλεμος, πολέμου, ὁ",
+    "pos": "other",
+    "meaning": "war",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολμιοι",
+    "latin": "πολέμιοι",
+    "dictForm": "πολέμιοι, πολεμίων, οἱ",
+    "pos": "other",
+    "meaning": "the enemy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλις",
+    "latin": "πόλις",
+    "dictForm": "πόλις, πόλεως, ἡ",
+    "pos": "other",
+    "meaning": "city, state",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολτης",
+    "latin": "πολίτης",
+    "dictForm": "πολίτης, πολίτου, ὁ",
+    "pos": "other",
+    "meaning": "citizen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολλκις",
+    "latin": "πολλάκις",
+    "dictForm": "πολλάκις",
+    "pos": "other",
+    "meaning": "often",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολς",
+    "latin": "πολύς",
+    "dictForm": "πολύς, πολλή, πολύ",
+    "pos": "other",
+    "meaning": "much",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολλο",
+    "latin": "πολλοί",
+    "dictForm": "πολλοί, πολλαί, πολλά",
+    "pos": "other",
+    "meaning": "many",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πορεομαι",
+    "latin": "πορεύομαι",
+    "dictForm": "πορεύομαι, πορεύσομαι, ἐπορεύθην",
+    "pos": "verb",
+    "meaning": "I travel, march",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πσος",
+    "latin": "πόσος",
+    "dictForm": "πόσος, πόση, πόσον;",
+    "pos": "other",
+    "meaning": "how big? how much?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πσοι",
+    "latin": "πόσοι",
+    "dictForm": "πόσοι, πόσαι, πόσα;",
+    "pos": "other",
+    "meaning": "how many?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποταμς",
+    "latin": "ποταμός",
+    "dictForm": "ποταμός, ποταμοῦ, ὁ",
+    "pos": "other",
+    "meaning": "river",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πτε",
+    "latin": "πότε",
+    "dictForm": "πότε;",
+    "pos": "other",
+    "meaning": "when?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πο",
+    "latin": "ποῦ",
+    "dictForm": "ποῦ;",
+    "pos": "other",
+    "meaning": "where?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πο_2",
+    "latin": "ποῖ",
+    "dictForm": "ποῖ;",
+    "pos": "other",
+    "meaning": "to where?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πθεν",
+    "latin": "πόθεν",
+    "dictForm": "πόθεν;",
+    "pos": "other",
+    "meaning": "from where?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πος",
+    "latin": "πούς",
+    "dictForm": "πούς, ποδός, ὁ",
+    "pos": "other",
+    "meaning": "foot",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρσσω",
+    "latin": "πράσσω",
+    "dictForm": "πράσσω, πράξω, ἔπραξα, ἐπράχθην",
+    "pos": "verb",
+    "meaning": "I do, fare, manage",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρgen",
+    "latin": "πρό + gen",
+    "dictForm": "πρό + gen",
+    "pos": "other",
+    "meaning": "before, in front of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρςacc",
+    "latin": "πρός + acc",
+    "dictForm": "πρός + acc",
+    "pos": "other",
+    "meaning": "to, towards, against",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "προσβλλωdat",
+    "latin": "προσβάλλω + dat",
+    "dictForm": "προσβάλλω + dat",
+    "pos": "verb",
+    "meaning": "I attack",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρτερον",
+    "latin": "πρότερον",
+    "dictForm": "πρότερον",
+    "pos": "other",
+    "meaning": "before, formerly",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρτος",
+    "latin": "πρῶτος",
+    "dictForm": "πρῶτος, πρώτη, πρῶτον",
+    "pos": "other",
+    "meaning": "first",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρτον",
+    "latin": "πρῶτον",
+    "dictForm": "πρῶτον",
+    "pos": "other",
+    "meaning": "at first, first",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλη",
+    "latin": "πύλη",
+    "dictForm": "πύλη, πύλης, ἡ",
+    "pos": "other",
+    "meaning": "gate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πυνθνομαι",
+    "latin": "πυνθάνομαι",
+    "dictForm": "πυνθάνομαι, πεύσομαι, ἐπυθόμην",
+    "pos": "verb",
+    "meaning": "I learn, ascertain, ask",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρ",
+    "latin": "πῦρ",
+    "dictForm": "πῦρ, πυρός, τό",
+    "pos": "other",
+    "meaning": "fire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πς_2",
+    "latin": "πῶς",
+    "dictForm": "πῶς;",
+    "pos": "other",
+    "meaning": "how?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διος",
+    "latin": "ῥᾴδιος",
+    "dictForm": "ῥᾴδιος, ῥᾳδία, ῤᾴδιον",
+    "pos": "other",
+    "meaning": "easy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σιγ",
+    "latin": "σιγή",
+    "dictForm": "σιγή, σιγῆς, ἡ",
+    "pos": "other",
+    "meaning": "silence",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στος",
+    "latin": "σῖτος",
+    "dictForm": "σῖτος, σίτου, ὁ",
+    "pos": "other",
+    "meaning": "food, corn, bread",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σοφς",
+    "latin": "σοφός",
+    "dictForm": "σοφός, σοφή, σοφόν",
+    "pos": "other",
+    "meaning": "wise, clever",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στρατηγς",
+    "latin": "στρατηγός",
+    "dictForm": "στρατηγός, στρατηγοῦ, ὁ",
+    "pos": "other",
+    "meaning": "general, commander",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στρατι",
+    "latin": "στρατιά",
+    "dictForm": "στρατιά, στρατιᾶς, ἡ",
+    "pos": "other",
+    "meaning": "army",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στρατιτης",
+    "latin": "στρατιώτης",
+    "dictForm": "στρατιώτης, στρατιώτου, ὁ",
+    "pos": "other",
+    "meaning": "soldier",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σ",
+    "latin": "σύ",
+    "dictForm": "σύ",
+    "pos": "other",
+    "meaning": "you",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σς",
+    "latin": "σός",
+    "dictForm": "σός, σή, σόν",
+    "pos": "other",
+    "meaning": "your",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "συλλγω",
+    "latin": "συλλέγω",
+    "dictForm": "συλλέγω, συλλέξω, συνέλεξα",
+    "pos": "verb",
+    "meaning": "I collect, assemble",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σμμαχοι",
+    "latin": "σύμμαχοι",
+    "dictForm": "σύμμαχοι, συμμάχων, οἱ",
+    "pos": "other",
+    "meaning": "allies",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "συμφορ",
+    "latin": "συμφορά",
+    "dictForm": "συμφορά, συμφορᾶς, ἡ",
+    "pos": "other",
+    "meaning": "misfortune, disaster, event",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σζω",
+    "latin": "σῴζω",
+    "dictForm": "σῴζω, σώσω, ἔσωσα, ἐσώθην",
+    "pos": "verb",
+    "meaning": "I save, keep, get away safely (passive)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σμα",
+    "latin": "σῶμα",
+    "dictForm": "σῶμα, σώματος, τό",
+    "pos": "other",
+    "meaning": "body",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ταχς",
+    "latin": "ταχύς",
+    "dictForm": "ταχύς, ταχεῖα, ταχύ",
+    "pos": "other",
+    "meaning": "fast, quick",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τεκα",
+    "latin": "… τε … καί",
+    "dictForm": "… τε … καί",
+    "pos": "other",
+    "meaning": "both … and",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τεχος",
+    "latin": "τεῖχος",
+    "dictForm": "τεῖχος, τείχους, τό",
+    "pos": "other",
+    "meaning": "wall",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τλος",
+    "latin": "τέλος",
+    "dictForm": "τέλος",
+    "pos": "other",
+    "meaning": "end (adv. in the end), at last, finally",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τσσαρες",
+    "latin": "τέσσαρες",
+    "dictForm": "τέσσαρες, τέσσαρες, τέσσαρα",
+    "pos": "other",
+    "meaning": "four",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τταρτος",
+    "latin": "τέταρτος",
+    "dictForm": "τέταρτος, τετάρτη, τέταρτον",
+    "pos": "other",
+    "meaning": "fourth",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τιμω",
+    "latin": "τιμάω",
+    "dictForm": "τιμάω",
+    "pos": "verb",
+    "meaning": "I honour, respect",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τμη",
+    "latin": "τίμη",
+    "dictForm": "τίμη, τιμῆς, ἡ",
+    "pos": "other",
+    "meaning": "honour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τις",
+    "latin": "τις",
+    "dictForm": "τις, τι",
+    "pos": "other",
+    "meaning": "(a) certain, someone, something",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τς",
+    "latin": "τίς",
+    "dictForm": "τίς; τί;",
+    "pos": "other",
+    "meaning": "who? what? which?",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τοιοτος",
+    "latin": "τοιοῦτος",
+    "dictForm": "τοιοῦτος, τοιαύτη, τοιοῦτο",
+    "pos": "other",
+    "meaning": "such",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τπος",
+    "latin": "τόπος",
+    "dictForm": "τόπος, τόπου, ὁ",
+    "pos": "other",
+    "meaning": "place",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τοσοτος",
+    "latin": "τοσοῦτος",
+    "dictForm": "τοσοῦτος, τοσαύτη, τοσοῦτο",
+    "pos": "other",
+    "meaning": "so great",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τοσοτοι",
+    "latin": "τοσοῦτοι",
+    "dictForm": "τοσοῦτοι, τοσαῦται, τοσαῦτα",
+    "pos": "other",
+    "meaning": "so many",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ττε",
+    "latin": "τότε",
+    "dictForm": "τότε",
+    "pos": "other",
+    "meaning": "then, at that time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τρες",
+    "latin": "τρεῖς",
+    "dictForm": "τρεῖς, τρεῖς, τρία",
+    "pos": "other",
+    "meaning": "three",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τρχω",
+    "latin": "τρέχω",
+    "dictForm": "τρέχω, δραμοῦμαι, ἔδραμον",
+    "pos": "verb",
+    "meaning": "I run",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τρτος",
+    "latin": "τρίτος",
+    "dictForm": "τρίτος, τρίτη, τρίτον",
+    "pos": "other",
+    "meaning": "third",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τχη",
+    "latin": "τύχη",
+    "dictForm": "τύχη, τύχης, ἡ",
+    "pos": "other",
+    "meaning": "chance, luck, fortune (good or bad)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δωρ",
+    "latin": "ὕδωρ",
+    "dictForm": "ὕδωρ, ὕδατος, τό",
+    "pos": "other",
+    "meaning": "water",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "υς",
+    "latin": "υἱός",
+    "dictForm": "υἱός, υἱοῦ, ὁ",
+    "pos": "other",
+    "meaning": "son",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λη",
+    "latin": "ὕλη",
+    "dictForm": "ὕλη, ὕλης, ἡ",
+    "pos": "other",
+    "meaning": "wood, forest",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μες_2",
+    "latin": "ὑμεῖς",
+    "dictForm": "ὑμεῖς, ὑμῶν",
+    "pos": "other",
+    "meaning": "you (plural)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μτερος_2",
+    "latin": "ὑμέτερος",
+    "dictForm": "ὑμέτερος, ὑμετέρα, ὑμέτερον",
+    "pos": "other",
+    "meaning": "your",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρgen_2",
+    "latin": "ὑπέρ + gen",
+    "dictForm": "ὑπέρ + gen",
+    "pos": "other",
+    "meaning": "on behalf of",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πισχνομαι",
+    "latin": "ὑπισχνέομαι",
+    "dictForm": "ὑπισχνέομαι, ὑποσχήσομαι, ὑπεσχόμην",
+    "pos": "verb",
+    "meaning": "I promise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πνος",
+    "latin": "ὕπνος",
+    "dictForm": "ὕπνος, ὕπνου, ὁ",
+    "pos": "other",
+    "meaning": "sleep",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πgen_2",
+    "latin": "ὑπό + gen",
+    "dictForm": "ὑπό + gen",
+    "pos": "other",
+    "meaning": "by ( with the agent of passive verbs)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στερον",
+    "latin": "ὕστερον",
+    "dictForm": "ὕστερον",
+    "pos": "other",
+    "meaning": "later",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ψηλς",
+    "latin": "ὑψηλός",
+    "dictForm": "ὑψηλός, ὑψηλή, ὑψηλόν",
+    "pos": "other",
+    "meaning": "high",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φανομαι",
+    "latin": "φαίνομαι",
+    "dictForm": "φαίνομαι, φανοῦμαι, ἐφάνην",
+    "pos": "verb",
+    "meaning": "I seem, appear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φρω",
+    "latin": "φέρω",
+    "dictForm": "φέρω, οἴσω, ἤνεγκα, ἠνέχθην",
+    "pos": "verb",
+    "meaning": "I carry, bear, endure",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φεγω",
+    "latin": "φεύγω",
+    "dictForm": "φεύγω, φεύξομαι, ἔφυγον",
+    "pos": "verb",
+    "meaning": "I run away, flee, am accused, am banished",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φημ",
+    "latin": "φημί",
+    "dictForm": "φημί, φήσω, ἔφην",
+    "pos": "verb",
+    "meaning": "I say",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φιλω",
+    "latin": "φιλέω",
+    "dictForm": "φιλέω",
+    "pos": "verb",
+    "meaning": "I love, like, am accustomed",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φλη",
+    "latin": "φίλη",
+    "dictForm": "φίλη, φίλης, ἡ",
+    "pos": "other",
+    "meaning": "(female) friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φλος",
+    "latin": "φίλος",
+    "dictForm": "φίλος, φίλου, ὁ",
+    "pos": "other",
+    "meaning": "(male) friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φοβομαι",
+    "latin": "φοβέομαι",
+    "dictForm": "φοβέομαι, φοβήσομαι, ἐφοβήθην",
+    "pos": "verb",
+    "meaning": "I am afraid, fear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φβος",
+    "latin": "φόβος",
+    "dictForm": "φόβος, φόβου, ὁ",
+    "pos": "other",
+    "meaning": "fear",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φονεω",
+    "latin": "φονεύω",
+    "dictForm": "φονεύω",
+    "pos": "verb",
+    "meaning": "I murder, kill",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φλαξ",
+    "latin": "φύλαξ",
+    "dictForm": "φύλαξ, φύλακος, ὁ",
+    "pos": "other",
+    "meaning": "guard",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φυλσσω",
+    "latin": "φυλάσσω",
+    "dictForm": "φυλάσσω",
+    "pos": "verb",
+    "meaning": "I guard",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φων",
+    "latin": "φωνή",
+    "dictForm": "φωνή, φωνῆς, ἡ",
+    "pos": "other",
+    "meaning": "voice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χαλεπς",
+    "latin": "χαλεπός",
+    "dictForm": "χαλεπός, χαλεπή, χαλεπόν",
+    "pos": "other",
+    "meaning": "difficult, dangerous, harsh",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χειμν",
+    "latin": "χειμών",
+    "dictForm": "χειμών, χειμῶνος, ὁ",
+    "pos": "other",
+    "meaning": "storm, winter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χερ",
+    "latin": "χείρ",
+    "dictForm": "χείρ, χειρός, ἡ",
+    "pos": "other",
+    "meaning": "hand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρομαι",
+    "latin": "χράομαι",
+    "dictForm": "χράομαι, χρήσομαι, ἐχρησάμην + dat",
+    "pos": "verb",
+    "meaning": "I use, treat",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρwithaccinfin",
+    "latin": "χρή (with acc + infin)",
+    "dictForm": "χρή (with acc + infin)",
+    "pos": "other",
+    "meaning": "it is necessary",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρματα",
+    "latin": "χρήματα",
+    "dictForm": "χρήματα, χρημάτων, τά",
+    "pos": "other",
+    "meaning": "money, goods, property",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρσιμος",
+    "latin": "χρήσιμος",
+    "dictForm": "χρήσιμος, χρησίμη, χρήσιμον",
+    "pos": "other",
+    "meaning": "useful",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρνος",
+    "latin": "χρόνος",
+    "dictForm": "χρόνος, χρόνου, ὁ",
+    "pos": "other",
+    "meaning": "time",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρυσς",
+    "latin": "χρυσός",
+    "dictForm": "χρυσός, χρυσοῦ, ὁ",
+    "pos": "other",
+    "meaning": "gold",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρα",
+    "latin": "χώρα",
+    "dictForm": "χώρα, χώρας, ἡ",
+    "pos": "other",
+    "meaning": "country, land",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "word_4",
+    "latin": "ὦ",
+    "dictForm": "ὦ",
+    "pos": "other",
+    "meaning": "o … (addressing someone)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ς_2",
+    "latin": "ὡς",
+    "dictForm": "ὡς",
+    "pos": "other",
+    "meaning": "when, as, because",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ςτχιστα",
+    "latin": "ὡς τάχιστα",
+    "dictForm": "ὡς τάχιστα",
+    "pos": "other",
+    "meaning": "as quickly (etc) as possible",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στε",
+    "latin": "ὥστε",
+    "dictForm": "ὥστε",
+    "pos": "other",
+    "meaning": "that, so that, with the result that",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γαθς_2",
+    "latin": "ἀγαθός",
+    "dictForm": "ἀγαθός, ἀγαθή, ἀγαθόν",
+    "pos": "other",
+    "meaning": "good",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γγλλω_2",
+    "latin": "ἀγγέλλω",
+    "dictForm": "ἀγγέλλω, ἤγγειλα",
+    "pos": "verb",
+    "meaning": "I announce",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γγελος_2",
+    "latin": "ἄγγελος",
+    "dictForm": "ἄγγελος, ἀγγέλου, ὁ",
+    "pos": "other",
+    "meaning": "messenger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γορ_2",
+    "latin": "ἀγορά",
+    "dictForm": "ἀγορά, ἀγορᾶς, ἡ",
+    "pos": "other",
+    "meaning": "market-place",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρς_2",
+    "latin": "ἀγρός",
+    "dictForm": "ἀγρός, ἀγροῦ, ὁ",
+    "pos": "other",
+    "meaning": "field, countryside",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γω_2",
+    "latin": "ἄγω",
+    "dictForm": "ἄγω, ἤγαγον",
+    "pos": "verb",
+    "meaning": "I lead, bring",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ε_4",
+    "latin": "ἀεί",
+    "dictForm": "ἀεί",
+    "pos": "other",
+    "meaning": "always",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλον_2",
+    "latin": "ἆθλον",
+    "dictForm": "ἆθλον, ἄθλου, τό",
+    "pos": "other",
+    "meaning": "prize, reward",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νδρεος_2",
+    "latin": "ἀνδρεῖος",
+    "dictForm": "ἀνδρεῖος, ἀνδρεία, ἀνδρεῖον",
+    "pos": "other",
+    "meaning": "brave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νθρωπος_2",
+    "latin": "ἄνθρωπος",
+    "dictForm": "ἄνθρωπος, ἀνθρώπου, ὁ",
+    "pos": "other",
+    "meaning": "man, person",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πgen_3",
+    "latin": "ἀπό + gen",
+    "dictForm": "ἀπό + gen",
+    "pos": "other",
+    "meaning": "from, away from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ρα_2",
+    "latin": "ἆρα",
+    "dictForm": "ἆρα;",
+    "pos": "other",
+    "meaning": "[introduces a question]",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βανω_2",
+    "latin": "βαίνω",
+    "dictForm": "βαίνω, ἔβην",
+    "pos": "verb",
+    "meaning": "I go",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βλλω_2",
+    "latin": "βάλλω",
+    "dictForm": "βάλλω, ἔβαλον",
+    "pos": "verb",
+    "meaning": "I throw, fire at, hit (with missile)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ββλος_2",
+    "latin": "βίβλος",
+    "dictForm": "βίβλος, βίβλου, ἡ",
+    "pos": "other",
+    "meaning": "book",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "βο_2",
+    "latin": "βοή",
+    "dictForm": "βοή, βοῆς, ἡ",
+    "pos": "other",
+    "meaning": "shout",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γιγνσκω_2",
+    "latin": "γιγνώσκω",
+    "dictForm": "γιγνώσκω, ἔγνων",
+    "pos": "verb",
+    "meaning": "I know, realise, understand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "γρφω_2",
+    "latin": "γράφω",
+    "dictForm": "γράφω",
+    "pos": "verb",
+    "meaning": "I write, draw",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δεινς_2",
+    "latin": "δεινός",
+    "dictForm": "δεινός, δεινή, δεινόν",
+    "pos": "other",
+    "meaning": "terrible, strange, clever",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διτι_2",
+    "latin": "διότι",
+    "dictForm": "διότι",
+    "pos": "other",
+    "meaning": "because",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δικω_3",
+    "latin": "διώκω",
+    "dictForm": "διώκω",
+    "pos": "verb",
+    "meaning": "I chase, pursue",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δολος_2",
+    "latin": "δοῦλος",
+    "dictForm": "δοῦλος, δούλου, ὁ",
+    "pos": "other",
+    "meaning": "slave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δρον_2",
+    "latin": "δῶρον",
+    "dictForm": "δῶρον, δώρου, τό",
+    "pos": "other",
+    "meaning": "present, gift",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλω_2",
+    "latin": "ἐθέλω",
+    "dictForm": "ἐθέλω, ἠθέλησα",
+    "pos": "verb",
+    "meaning": "I wish, am willing",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εμ_2",
+    "latin": "εἰμί",
+    "dictForm": "εἰμί, ἦν (imperfect)",
+    "pos": "verb",
+    "meaning": "I am",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εςacc_2",
+    "latin": "εἰς + acc",
+    "dictForm": "εἰς + acc",
+    "pos": "other",
+    "meaning": "to, into",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κorξgen_2",
+    "latin": "ἐκ or ἐξ + gen",
+    "dictForm": "ἐκ or ἐξ + gen",
+    "pos": "other",
+    "meaning": "out of, from",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νdat_2",
+    "latin": "ἐν + dat",
+    "dictForm": "ἐν + dat",
+    "pos": "other",
+    "meaning": "in, among",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πιστολ_2",
+    "latin": "ἐπιστολή",
+    "dictForm": "ἐπιστολή, ἐπιστολῆς, ἡ",
+    "pos": "other",
+    "meaning": "letter",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ργον_2",
+    "latin": "ἔργον",
+    "dictForm": "ἔργον, ἔργου, τό",
+    "pos": "other",
+    "meaning": "work, task, deed, action",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σθω_2",
+    "latin": "ἐσθίω",
+    "dictForm": "ἐσθίω, ἔφαγον",
+    "pos": "verb",
+    "meaning": "I eat",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "εθς_2",
+    "latin": "εὐθύς",
+    "dictForm": "εὐθύς",
+    "pos": "other",
+    "meaning": "immediately, at once",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερσκω_2",
+    "latin": "εὑρίσκω",
+    "dictForm": "εὑρίσκω, ηὗρον",
+    "pos": "verb",
+    "meaning": "I find",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χωimperfectεχον_2",
+    "latin": "ἔχω (imperfect εἶχον)",
+    "dictForm": "ἔχω (imperfect εἶχον), ἔσχον",
+    "pos": "verb",
+    "meaning": "I have",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μρα_2",
+    "latin": "ἡμέρα",
+    "dictForm": "ἡμέρα, ἡμέρας, ἡ",
+    "pos": "other",
+    "meaning": "day",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θλασσα_2",
+    "latin": "θάλασσα",
+    "dictForm": "θάλασσα, θαλάσσης, ἡ",
+    "pos": "other",
+    "meaning": "sea",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θαυμζω_2",
+    "latin": "θαυμάζω",
+    "dictForm": "θαυμάζω",
+    "pos": "verb",
+    "meaning": "I am amazed at, admire",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θε_2",
+    "latin": "θεά",
+    "dictForm": "θεά, θεᾶς, ἡ",
+    "pos": "other",
+    "meaning": "goddess",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θες_2",
+    "latin": "θεός",
+    "dictForm": "θεός, θεοῦ, ὁ",
+    "pos": "other",
+    "meaning": "god",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "θρα_2",
+    "latin": "θύρα",
+    "dictForm": "θύρα, θύρας, ἡ",
+    "pos": "other",
+    "meaning": "door",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ερν_2",
+    "latin": "ἱερόν",
+    "dictForm": "ἱερόν, ἱεροῦ, τό",
+    "pos": "other",
+    "meaning": "temple",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ππος_2",
+    "latin": "ἵππος",
+    "dictForm": "ἵππος, ἵππου, ὁ",
+    "pos": "other",
+    "meaning": "horse",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σχυρς_2",
+    "latin": "ἰσχυρός",
+    "dictForm": "ἰσχυρός, ἰσχυρά, ἰσχυρόν",
+    "pos": "other",
+    "meaning": "strong",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κα_2",
+    "latin": "καί",
+    "dictForm": "καί",
+    "pos": "other",
+    "meaning": "and, also, even, too",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κακς_2",
+    "latin": "κακός",
+    "dictForm": "κακός, κακή, κακόν",
+    "pos": "other",
+    "meaning": "bad, wicked",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "καλς_2",
+    "latin": "καλός",
+    "dictForm": "καλός, καλή, καλόν",
+    "pos": "other",
+    "meaning": "beautiful, handsome, fine",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κελεω_2",
+    "latin": "κελεύω",
+    "dictForm": "κελεύω",
+    "pos": "verb",
+    "meaning": "I order",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κνδυνος_2",
+    "latin": "κίνδυνος",
+    "dictForm": "κίνδυνος, κινδύνου, ὁ",
+    "pos": "other",
+    "meaning": "danger",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "κρπτω_2",
+    "latin": "κρύπτω",
+    "dictForm": "κρύπτω",
+    "pos": "verb",
+    "meaning": "I hide (something)",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λαμβνω_2",
+    "latin": "λαμβάνω",
+    "dictForm": "λαμβάνω, ἔλαβον",
+    "pos": "verb",
+    "meaning": "I take, capture",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγω_2",
+    "latin": "λέγω",
+    "dictForm": "λέγω, εἶπον",
+    "pos": "verb",
+    "meaning": "I say, speak, tell",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λεπω_2",
+    "latin": "λείπω",
+    "dictForm": "λείπω, ἔλιπον",
+    "pos": "verb",
+    "meaning": "I leave",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λθος_2",
+    "latin": "λίθος",
+    "dictForm": "λίθος, λίθου, ὁ",
+    "pos": "other",
+    "meaning": "stone",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγος_3",
+    "latin": "λόγος",
+    "dictForm": "λόγος, λόγου, ὁ",
+    "pos": "other",
+    "meaning": "word, speech, argument, story, account",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μανθνω_2",
+    "latin": "μανθάνω",
+    "dictForm": "μανθάνω, ἔμαθον",
+    "pos": "verb",
+    "meaning": "I learn, understand",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μχη_2",
+    "latin": "μάχη",
+    "dictForm": "μάχη, μάχης, ἡ",
+    "pos": "other",
+    "meaning": "battle",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μνω_2",
+    "latin": "μένω",
+    "dictForm": "μένω, ἔμεινα",
+    "pos": "verb",
+    "meaning": "I wait, remain",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "μρος_2",
+    "latin": "μῶρος",
+    "dictForm": "μῶρος, μώρα, μῶρον",
+    "pos": "other",
+    "meaning": "foolish, stupid",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νεανας_2",
+    "latin": "νεανίας",
+    "dictForm": "νεανίας, νεανίου, ὁ",
+    "pos": "other",
+    "meaning": "young man",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νος_2",
+    "latin": "νέος",
+    "dictForm": "νέος, νέα, νέον",
+    "pos": "other",
+    "meaning": "new, young, recent",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νσος_3",
+    "latin": "νῆσος",
+    "dictForm": "νῆσος, νήσου, ἡ",
+    "pos": "other",
+    "meaning": "island",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νμος_2",
+    "latin": "νόμος",
+    "dictForm": "νόμος, νόμου, ὁ",
+    "pos": "other",
+    "meaning": "law, custom",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "νν_2",
+    "latin": "νῦν",
+    "dictForm": "νῦν",
+    "pos": "other",
+    "meaning": "now",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ξνος_2",
+    "latin": "ξένος",
+    "dictForm": "ξένος, ξένου, ὁ",
+    "pos": "other",
+    "meaning": "stranger, foreigner, host, guest",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "word_5",
+    "latin": "ὁ",
+    "dictForm": "ὁ, ἡ, τό",
+    "pos": "other",
+    "meaning": "the",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "δς_3",
+    "latin": "ὁδός",
+    "dictForm": "ὁδός, ὁδοῦ, ἡ",
+    "pos": "other",
+    "meaning": "road, path, way, journey",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "οκα_2",
+    "latin": "οἰκία",
+    "dictForm": "οἰκία, οἰκίας, ἡ",
+    "pos": "other",
+    "meaning": "house",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ονος_2",
+    "latin": "οἶνος",
+    "dictForm": "οἶνος, οἴνου, ὁ",
+    "pos": "other",
+    "meaning": "wine",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "λγοι_2",
+    "latin": "ὀλίγοι",
+    "dictForm": "ὀλίγοι, ὀλίγαι, ὀλίγα",
+    "pos": "other",
+    "meaning": "few",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλα_2",
+    "latin": "ὅπλα",
+    "dictForm": "ὅπλα, ὅπλων, τά",
+    "pos": "other",
+    "meaning": "weapons, arms, armour",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ο_2",
+    "latin": "οὐ",
+    "dictForm": "οὐ, οὐκ, οὐχ",
+    "pos": "other",
+    "meaning": "not",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πεθω_2",
+    "latin": "πείθω",
+    "dictForm": "πείθω",
+    "pos": "verb",
+    "meaning": "I persuade",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πμπω_2",
+    "latin": "πέμπω",
+    "dictForm": "πέμπω",
+    "pos": "verb",
+    "meaning": "I send",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πνω_2",
+    "latin": "πίνω",
+    "dictForm": "πίνω, ἔπιον",
+    "pos": "verb",
+    "meaning": "I drink",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ππτω_2",
+    "latin": "πίπτω",
+    "dictForm": "πίπτω, ἔπεσον",
+    "pos": "verb",
+    "meaning": "I fall",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολτης_2",
+    "latin": "πολίτης",
+    "dictForm": "πολίτης, πολίτου, ὁ",
+    "pos": "other",
+    "meaning": "citizen",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολλκις_2",
+    "latin": "πολλάκις",
+    "dictForm": "πολλάκις",
+    "pos": "other",
+    "meaning": "often",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πολλο_2",
+    "latin": "πολλοί",
+    "dictForm": "πολλοί, πολλαί, πολλά",
+    "pos": "other",
+    "meaning": "many",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "ποταμς_2",
+    "latin": "ποταμός",
+    "dictForm": "ποταμός, ποταμοῦ, ὁ",
+    "pos": "other",
+    "meaning": "river",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πρςacc_2",
+    "latin": "πρός + acc",
+    "dictForm": "πρός + acc",
+    "pos": "other",
+    "meaning": "to, towards, against",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "πλη_2",
+    "latin": "πύλη",
+    "dictForm": "πύλη, πύλης, ἡ",
+    "pos": "other",
+    "meaning": "gate",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "διος_2",
+    "latin": "ῥᾴδιος",
+    "dictForm": "ῥᾴδιος, ῥᾳδία, ῤᾴδιον",
+    "pos": "other",
+    "meaning": "easy",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στος_2",
+    "latin": "σῖτος",
+    "dictForm": "σῖτος, σίτου, ὁ",
+    "pos": "other",
+    "meaning": "food, corn",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "σοφς_2",
+    "latin": "σοφός",
+    "dictForm": "σοφός, σοφή, σοφόν",
+    "pos": "other",
+    "meaning": "wise",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στρατηγς_2",
+    "latin": "στρατηγός",
+    "dictForm": "στρατηγός, στρατηγοῦ, ὁ",
+    "pos": "other",
+    "meaning": "general, commander",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "στρατιτης_2",
+    "latin": "στρατιώτης",
+    "dictForm": "στρατιώτης, στρατιώτου, ὁ",
+    "pos": "other",
+    "meaning": "soldier",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "τρχω_2",
+    "latin": "τρέχω",
+    "dictForm": "τρέχω, ἔδραμον",
+    "pos": "verb",
+    "meaning": "I run",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φρω_2",
+    "latin": "φέρω",
+    "dictForm": "φέρω, ἤνεγκα",
+    "pos": "verb",
+    "meaning": "I carry, bear, endure",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φεγω_2",
+    "latin": "φεύγω",
+    "dictForm": "φεύγω, ἔφυγον",
+    "pos": "verb",
+    "meaning": "I run away",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φλος_2",
+    "latin": "φίλος",
+    "dictForm": "φίλος, φίλου, ὁ",
+    "pos": "other",
+    "meaning": "(male) friend",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φυλσσω_2",
+    "latin": "φυλάσσω",
+    "dictForm": "φυλάσσω",
+    "pos": "verb",
+    "meaning": "I guard",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "φων_2",
+    "latin": "φωνή",
+    "dictForm": "φωνή, φωνῆς, ἡ",
+    "pos": "other",
+    "meaning": "voice",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χαλεπς_2",
+    "latin": "χαλεπός",
+    "dictForm": "χαλεπός, χαλεπή, χαλεπόν",
+    "pos": "other",
+    "meaning": "difficult, dangerous",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρυσς_2",
+    "latin": "χρυσός",
+    "dictForm": "χρυσός, χρυσοῦ, ὁ",
+    "pos": "other",
+    "meaning": "gold",
+    "theme": "general",
+    "pairEligible": true
+  },
+  {
+    "id": "χρα_2",
+    "latin": "χώρα",
+    "dictForm": "χώρα, χώρας, ἡ",
+    "pos": "other",
+    "meaning": "country, land",
+    "theme": "general",
+    "pairEligible": true
+  }
+]

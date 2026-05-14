@@ -1,7 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
-import vocab from '../vocab.json'
 
-export default function ChainBuilder({ wordA, wordB, onSubmit, disabled }) {
+export default function ChainBuilder({ wordA, wordB, onSubmit, disabled, vocab }) {
   const [chain, setChain] = useState([])
   const [input, setInput] = useState('')
   const [suggestions, setSuggestions] = useState([])
@@ -117,7 +116,7 @@ export default function ChainBuilder({ wordA, wordB, onSubmit, disabled }) {
             <input
               ref={inputRef}
               type="text"
-              placeholder="Type a Latin word to add to your chain…"
+              placeholder="Type a word to add to your chain…"
               value={input}
               onChange={e => setInput(e.target.value)}
               onKeyDown={handleKeyDown}

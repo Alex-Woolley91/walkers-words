@@ -33,7 +33,7 @@ function PlayerLobby({ playerName, roomCode }) {
 }
 
 // ── Game Screen ───────────────────────────────────────
-function PlayerGame({ room, playerName, playerId, onSubmitChain }) {
+function PlayerGame({ room, playerName, playerId, onSubmitChain, vocab }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -72,6 +72,7 @@ function PlayerGame({ room, playerName, playerId, onSubmitChain }) {
         wordB={wordB}
         onSubmit={onSubmitChain}
         disabled={false}
+        vocab={vocab}
       />
     </div>
   )
@@ -120,7 +121,7 @@ function PlayerReveal({ room, submissions, playerId }) {
 }
 
 // ── Main PlayerView ───────────────────────────────────
-export default function PlayerView({ room, players, submissions, playerId, playerName, roomCode, onSubmitChain }) {
+export default function PlayerView({ room, players, submissions, playerId, playerName, roomCode, onSubmitChain, vocab }) {
   if (!room || room.status === 'waiting') {
     return <PlayerLobby playerName={playerName} roomCode={roomCode} />
   }
@@ -134,6 +135,7 @@ export default function PlayerView({ room, players, submissions, playerId, playe
         playerName={playerName}
         playerId={playerId}
         onSubmitChain={onSubmitChain}
+        vocab={vocab}
       />
     )
   }

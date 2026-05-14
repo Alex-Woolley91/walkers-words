@@ -1,12 +1,29 @@
 import { useState } from 'react'
 import Timer from './Timer.jsx'
 import RevealGallery from './RevealGallery.jsx'
-import vocab from '../vocab.json'
+import { VOCAB_LISTS, DEFAULT_VOCAB_LIST } from '../vocabLists.js'
 
-const THEMES = ['all', 'nouns', 'adjectives', 'verbs', 'pronouns', 'prepositions', 'conjunctions', 'adverbs', 'numbers', 'war', 'family', 'nature', 'emotion', 'society', 'religion', 'body', 'food', 'travel', 'general']
+const ALL_THEMES = ['all', 'nouns', 'adjectives', 'verbs', 'pronouns', 'prepositions', 'conjunctions', 'adverbs', 'numbers', 'war', 'family', 'nature', 'emotion', 'society', 'religion', 'body', 'food', 'travel', 'military', 'political', 'legal', 'domestic', 'religious', 'general']
+
+function themeMatchCount(t, vocabData) {
+  return vocabData.filter(w => {
+    if (t === 'all') return true
+    if (t === 'nouns') return w.pos === 'noun'
+    if (t === 'adjectives') return w.pos === 'adjective'
+    if (t === 'verbs') return w.pos === 'verb'
+    if (t === 'pronouns') return w.pos === 'pronoun'
+    if (t === 'prepositions') return w.pos === 'preposition'
+    if (t === 'conjunctions') return w.pos === 'conjunction'
+    if (t === 'adverbs') return w.pos === 'adverb'
+    if (t === 'numbers') return w.pos === 'number'
+    return w.theme === t
+  }).length
+}
 
 // ── Lobby ─────────────────────────────────────────────
-function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSession }) {
+function HostLobby({ room, players, theme, onThemeChange, vocabListId, onVocabListChange, onDrawPair, onEndSession }) {
+  const vocabData = (VOCAB_LISTS[vocabListId] || VOCAB_LISTS[DEFAULT_VOCAB_LIST]).vocab
+  const visibleThemes = ALL_THEMES.filter(t => themeMatchCount(t, vocabData) >= 2)
 
   return (
     <div className="screen">
@@ -21,6 +38,32 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
       </div>
 
       <hr className="divider" />
+
+      {/* Vocab list selector */}
+      <div style={{ marginBottom: '1.5rem' }}>
+        <div style={{ fontFamily: 'var(--font-display)', fontSize: '0.75rem', letterSpacing: '0.15em', color: 'var(--ink-faint)', textTransform: 'uppercase', marginBottom: '0.75rem' }}>
+          Vocab List
+        </div>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+          {Object.entries(VOCAB_LISTS).map(([id, { label }]) => (
+            <button
+              key={id}
+              style={vocabListId === id ? {
+                background: 'var(--ink)', color: 'var(--parchment)', border: '1px solid var(--ink)',
+                fontFamily: 'var(--font-display)', fontStyle: 'normal', fontSize: '0.75rem',
+                letterSpacing: '0.1em', padding: '0.4rem 1rem', cursor: 'pointer', borderRadius: '2rem',
+              } : {
+                background: 'transparent', color: 'var(--ink-faint)', border: '1px solid var(--parchment-dark)',
+                fontFamily: 'var(--font-display)', fontStyle: 'normal', fontSize: '0.75rem',
+                letterSpacing: '0.1em', padding: '0.4rem 1rem', cursor: 'pointer', borderRadius: '2rem',
+              }}
+              onClick={() => onVocabListChange(id)}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+      </div>
 
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', alignItems: 'start' }}>
         {/* Roster */}
@@ -47,7 +90,7 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
             Theme Filter <span className="muted" style={{ fontSize: '0.7rem' }}>(optional)</span>
           </div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.4rem', marginBottom: '1.2rem' }}>
-            {THEMES.map(t => (
+            {visibleThemes.map(t => (
               <button
                 key={t}
                 className={theme === t ? 'btn-ghost btn-sm' : 'btn-ghost btn-sm'}
@@ -83,7 +126,7 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
           <button
             className="btn-primary w-full"
             style={{ fontSize: '1.8rem', padding: '0.8rem 2rem' }}
-            onClick={() => onDrawPair(theme)}
+            onClick={() => onDrawPair(theme, vocabListId)}
           >
             Draw Pair
           </button>
@@ -94,7 +137,7 @@ function HostLobby({ room, players, theme, onThemeChange, onDrawPair, onEndSessi
 }
 
 // ── Game Screen ───────────────────────────────────────
-function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedrawPair, onNextPair, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer }) {
+function HostGame({ room, submissionCount, totalPlayers, theme, vocabListId, onReveal, onRedrawPair, onNextPair, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer }) {
   const wordA = room.word_a
   const wordB = room.word_b
 
@@ -115,7 +158,7 @@ function HostGame({ room, submissionCount, totalPlayers, theme, onReveal, onRedr
             {submissionCount} / {totalPlayers} submitted
           </span>
           <button className="btn-ghost" onClick={onNextPair}>Back to Lobby</button>
-          <button className="btn-ghost" onClick={() => onRedrawPair(theme)}>Redraw Pair</button>
+          <button className="btn-ghost" onClick={() => onRedrawPair(theme, vocabListId)}>Redraw Pair</button>
           <button className="btn-primary" onClick={onReveal}>Reveal</button>
         </div>
       </div>
@@ -193,13 +236,14 @@ function HostReveal({ room, submissions, onNextPair, onEndSession }) {
 // ── Main HostView ─────────────────────────────────────
 export default function HostView({ room, players, submissions, onDrawPair, onRedrawPair, onReveal, onAdjustTimer, onPauseTimer, onResumeTimer, onRestartTimer, onNextPair, onEndSession }) {
   const [theme, setTheme] = useState('all')
+  const [vocabListId, setVocabListId] = useState(DEFAULT_VOCAB_LIST)
 
   if (!room) return null
 
   const currentSubmissions = submissions.filter(s => s.round === room.round)
 
   if (room.status === 'waiting') {
-    return <HostLobby room={room} players={players} theme={theme} onThemeChange={setTheme} onDrawPair={onDrawPair} onEndSession={onEndSession} />
+    return <HostLobby room={room} players={players} theme={theme} onThemeChange={setTheme} vocabListId={vocabListId} onVocabListChange={(id) => { setVocabListId(id); setTheme('all') }} onDrawPair={onDrawPair} onEndSession={onEndSession} />
   }
   if (room.status === 'active') {
     return (
@@ -208,6 +252,7 @@ export default function HostView({ room, players, submissions, onDrawPair, onRed
         submissionCount={currentSubmissions.length}
         totalPlayers={players.length}
         theme={theme}
+        vocabListId={vocabListId}
         onReveal={onReveal}
         onRedrawPair={onRedrawPair}
         onNextPair={onNextPair}

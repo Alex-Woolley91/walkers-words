@@ -3,7 +3,7 @@ import { supabase } from './lib/supabase.js'
 import HomeScreen from './components/HomeScreen.jsx'
 import HostView from './components/HostView.jsx'
 import PlayerView from './components/PlayerView.jsx'
-import vocab from './vocab.json'
+import { VOCAB_LISTS, DEFAULT_VOCAB_LIST } from './vocabLists.js'
 
 const SAFE_CHARS = 'ABCDEFGHJKLMNPQRTUVWXY' // no O, I, S, Z
 
@@ -15,8 +15,8 @@ function generateCode() {
   return code
 }
 
-function drawPair(theme = 'all') {
-  const pool = vocab.filter(w => {
+function drawPair(vocabArray, theme = 'all') {
+  const pool = vocabArray.filter(w => {
     if (theme === 'all') return true
     if (theme === 'nouns') return w.pos === 'noun'
     if (theme === 'adjectives') return w.pos === 'adjective'
@@ -197,8 +197,9 @@ export default function App() {
   }, [])
 
   // ── Host: draw pair ───────────────────────────────
-  const handleDrawPair = useCallback(async (theme) => {
-    const pair = drawPair(theme)
+  const handleDrawPair = useCallback(async (theme, vocabListId = DEFAULT_VOCAB_LIST) => {
+    const vocabArray = VOCAB_LISTS[vocabListId]?.vocab || VOCAB_LISTS[DEFAULT_VOCAB_LIST].vocab
+    const pair = drawPair(vocabArray, theme)
     if (!pair) return
 
     const timerEnd = new Date(Date.now() + 3 * 60 * 1000).toISOString()
@@ -209,12 +210,14 @@ export default function App() {
       word_b: pair[1],
       timer_end: timerEnd,
       timer_duration: 180,
+      vocab_list: vocabListId,
     }).eq('id', roomCode)
   }, [roomCode])
 
   // ── Host: redraw pair (from active screen) ───────
-  const handleRedrawPair = useCallback(async () => {
-    const pair = drawPair('all')
+  const handleRedrawPair = useCallback(async (theme = 'all', vocabListId = DEFAULT_VOCAB_LIST) => {
+    const vocabArray = VOCAB_LISTS[vocabListId]?.vocab || VOCAB_LISTS[DEFAULT_VOCAB_LIST].vocab
+    const pair = drawPair(vocabArray, theme)
     if (!pair) return
     const timerEnd = new Date(Date.now() + 3 * 60 * 1000).toISOString()
     await supabase.from('rooms').update({
@@ -224,6 +227,7 @@ export default function App() {
       timer_end: timerEnd,
       timer_duration: 180,
       round: (room?.round || 1) + 1,
+      vocab_list: vocabListId,
     }).eq('id', roomCode)
   }, [room, roomCode])
 
@@ -331,9 +335,11 @@ export default function App() {
   }
 
   if (view === 'player') {
+    const playerVocab = (VOCAB_LISTS[room?.vocab_list] || VOCAB_LISTS[DEFAULT_VOCAB_LIST]).vocab
     return (
       <PlayerView
         room={room}
+        vocab={playerVocab}
         players={players}
         submissions={submissions}
         playerId={playerId}
