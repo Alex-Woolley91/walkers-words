@@ -26,7 +26,7 @@ export default function HomeScreen({ onHost, onJoin }) {
     <div className="screen-center">
       <div style={{ maxWidth: '480px', width: '100%' }}>
         <div className="title-app">WALKER'S WORDS</div>
-        <div className="subtitle-app">iunge verba Latina</div>
+        <div className="subtitle-app">iunge verba Latina et Graeca</div>
 
         <hr className="divider" style={{ marginTop: '2rem', marginBottom: '2rem' }} />
 
